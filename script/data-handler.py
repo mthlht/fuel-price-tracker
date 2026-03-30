@@ -19,15 +19,21 @@ tidy_roll_mean = (
 )
 
 # rolling mean par carburant
-tidy_roll_mean = (
+tidy_roll_mean = tidy_roll_mean.sort_values("date")
+
+tidy_roll_mean["roll_mean_price"] = (
     tidy_roll_mean
-    .sort_values("date")
-    .groupby("nom_carbu", group_keys=False)
-    .apply(lambda df: df.assign(
-        roll_mean_price=df["mean_price"].rolling(window=7, min_periods=7).mean(),
-        roll_mean_left=df["mean_price"][::-1].rolling(window=7, min_periods=7).mean()[::-1]
-    ))
-    .reset_index(drop=True)
+    .groupby("nom_carbu")["mean_price"]
+    .rolling(7, min_periods=7)
+    .mean()
+    .reset_index(level=0, drop=True)
+)
+
+tidy_roll_mean["roll_mean_left"] = (
+    tidy_roll_mean
+    .groupby("nom_carbu")["mean_price"]
+    .apply(lambda x: x[::-1].rolling(7, min_periods=7).mean()[::-1])
+    .reset_index(level=0, drop=True)
 )
 
 # remplacer NA par version left
@@ -37,8 +43,6 @@ tidy_roll_mean["roll_mean_price"] = tidy_roll_mean["roll_mean_price"].fillna(
 
 # arrondi
 tidy_roll_mean["roll_mean_price"] = tidy_roll_mean["roll_mean_price"].round(3)
-print(tidy_roll_mean.head())
-print(tidy_roll_mean.columns)
 
 
 # filtrer valeurs non nulles
