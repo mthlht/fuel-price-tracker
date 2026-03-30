@@ -37,6 +37,9 @@ tidy_roll_mean["roll_mean_price"] = tidy_roll_mean["roll_mean_price"].fillna(
 
 # arrondi
 tidy_roll_mean["roll_mean_price"] = tidy_roll_mean["roll_mean_price"].round(3)
+print(tidy_roll_mean.head())
+print(tidy_roll_mean.columns)
+
 
 # filtrer valeurs non nulles
 tidy_roll_mean = tidy_roll_mean.dropna(subset=["nom_carbu"])
