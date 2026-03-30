@@ -27,7 +27,7 @@ jobs:
 
       - name: Run data download script
         run: |
-          python script/data-dowload.py
+          python script/data-download.py
 
       - name: Run data handler script
         run: |
