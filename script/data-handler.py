@@ -1,8 +1,17 @@
 import pandas as pd
+from pathlib import Path
+
+# chemin vers le dossier du script
+BASE_DIR = Path(__file__).resolve().parent.parent  # remonte d'un niveau depuis script/
+
+# chemin vers data/
+DATA_DIR = BASE_DIR / "data"
 
 # Chargement des données
+PRICE_DATA_PATH = DATA_DIR / "fuel-prices-2026.csv"
+
 raw_prix = pd.read_csv(
-    "data/fuel-prices-2026.csv",
+    PRICE_DATA_PATH,
     sep=";"
 )
 
@@ -65,4 +74,6 @@ cols = ["date", "SP95-E10", "Gazole", "SP98"]
 tidy_roll_mean = tidy_roll_mean[[c for c in cols if c in tidy_roll_mean.columns]]
 
 # export
-tidy_roll_mean.to_csv("data/roll_mean_2026.csv", index=False)
+output_file = DATA_DIR / "roll_mean_2026.csv"
+
+tidy_roll_mean.to_csv(output_file, index=False)

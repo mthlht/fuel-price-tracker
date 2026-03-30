@@ -6,13 +6,20 @@ import pandas as pd
 from lxml import etree
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+# chemin vers le dossier du script
+BASE_DIR = Path(__file__).resolve().parent.parent  # remonte d'un niveau depuis script/
+
+# chemin vers data/
+DATA_DIR = BASE_DIR / "data"
 
 # ------------------------
 # 1. Téléchargement (sync)
 # ------------------------
 url = "https://donnees.roulez-eco.fr/opendata/annee"
 
-zip_path = "data/prix-en-2026.zip"
+zip_path = DATA_DIR / "prix-en-2026.zip"
 os.makedirs(os.path.dirname(zip_path), exist_ok=True)
 
 response = requests.get(url)
@@ -105,6 +112,8 @@ async def main():
 # ------------------------
 df = asyncio.run(main())
 
-df.to_csv("data/fuel-prices-2026.csv", index = False, sep = ";")
+output_file = DATA_DIR / "fuel-prices-2026.csv"
+
+df.to_csv(output_file, index = False, sep = ";")
 
 print(df.head())
