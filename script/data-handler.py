@@ -7,13 +7,19 @@ BASE_DIR = Path(__file__).resolve().parent.parent  # remonte d'un niveau depuis 
 # chemin vers data/
 DATA_DIR = BASE_DIR / "data"
 
-# Chargement des données
-PRICE_DATA_PATH = DATA_DIR / "fuel-prices-2026.csv"
+# Dossier contenant les fichiers mensuels
+PRICE_DATA_DIR = DATA_DIR / "fuel-prices-csv"
 
-raw_prix = pd.read_csv(
-    PRICE_DATA_PATH,
-    sep=";"
-)
+# Liste de tous les fichiers CSV
+csv_files = list(PRICE_DATA_DIR.glob("*.csv"))
+
+# Lecture + concaténation
+df_list = [
+    pd.read_csv(file, sep=";")
+    for file in csv_files
+]
+
+raw_prix = pd.concat(df_list, ignore_index=True)
 
 # Tri des données
 tidy_roll_mean = (

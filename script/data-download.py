@@ -19,7 +19,7 @@ DATA_DIR = BASE_DIR / "data"
 # ------------------------
 url = "https://donnees.roulez-eco.fr/opendata/annee"
 
-zip_path = DATA_DIR / "prix-en-2026.zip"
+zip_path = DATA_DIR / "fuel-prices-2026.zip"
 os.makedirs(os.path.dirname(zip_path), exist_ok=True)
 
 response = requests.get(url)
@@ -112,8 +112,25 @@ async def main():
 # ------------------------
 df = asyncio.run(main())
 
-output_file = DATA_DIR / "fuel-prices-2026.csv"
+# Conversion de la date
+df["maj"] = pd.to_datetime(df["maj"], errors="coerce")
 
-df.to_csv(output_file, index = False, sep = ";")
+# Dossier de sortie (data/)
+os.makedirs(DATA_DIR, exist_ok=True)
 
-print(df.head())
+# Groupement par mois
+for period, group in df.groupby(df["maj"].dt.to_period("M")):
+    # Extraire année et mois
+    year_str = str(period.year)
+    month_str = f"{period.month:02d}"
+
+    # Nom du fichier : YYYY-MM-fuel-prices.csv
+    output_file = DATA_DIR / f"fuel-prices-csv/{year_str}-{month_str}-fuel-prices.csv"
+
+    # Tri optionnel
+    group = group.sort_values("maj")
+
+    # Sauvegarde
+    group.to_csv(output_file, index=False, sep=";")
+
+    print(f"Fichier sauvegardé : {output_file}")
