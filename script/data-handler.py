@@ -44,18 +44,6 @@ tidy_roll_mean["roll_mean_price"] = (
     .reset_index(level=0, drop=True)
 )
 
-tidy_roll_mean["roll_mean_left"] = (
-    tidy_roll_mean
-    .groupby("nom_carbu")["mean_price"]
-    .apply(lambda x: x[::-1].rolling(7, min_periods=7).mean()[::-1])
-    .reset_index(level=0, drop=True)
-)
-
-# remplacer NA par version left
-tidy_roll_mean["roll_mean_price"] = tidy_roll_mean["roll_mean_price"].fillna(
-    tidy_roll_mean["roll_mean_left"]
-)
-
 # arrondi
 tidy_roll_mean["roll_mean_price"] = tidy_roll_mean["roll_mean_price"].round(3)
 
@@ -78,6 +66,34 @@ tidy_roll_mean = tidy_roll_mean.rename(columns={
 # sélection finale (si colonnes présentes)
 cols = ["date", "SP95-E10", "Gazole", "SP98"]
 tidy_roll_mean = tidy_roll_mean[[c for c in cols if c in tidy_roll_mean.columns]]
+
+
+# Noms des mois (équivalent label = TRUE, abbr = FALSE en R)
+months_fr = [
+  "janvier", "février", "mars", "avril", "mai", "juin",
+  "juillet", "août", "septembre", "octobre", "novembre", "décembre"
+]
+
+# date_for_axis
+tidy_roll_mean["date_for_axis"] = tidy_roll_mean["date"].apply(
+  lambda d: months_fr[d.month - 1] if d.day == 1 else d.strftime("%Y-%m-%d")
+)
+
+# date_for_popup
+def format_popup(d):
+  month = months_fr[d.month - 1]
+
+  if d.day == 1:
+    return f"1er {month} {d.year}"
+  else:
+    return f"{d.day} {month} {d.year}"
+
+tidy_roll_mean["date_for_popup"] = tidy_roll_mean["date"].apply(format_popup)
+
+# filtre année 2026
+tidy_roll_mean["date"] = pd.to_datetime(tidy_roll_mean["date"], errors="coerce")
+
+tidy_roll_mean = tidy_roll_mean[tidy_roll_mean["date"].dt.year >= 2026]
 
 # export
 output_file = DATA_DIR / "roll_mean_2026.csv"
