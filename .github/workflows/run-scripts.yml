@@ -42,19 +42,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
       
-          # Vérifier les fichiers générés
-          ls -R data || true
-      
           # Ajouter les fichiers
           git add data/
       
-          # Debug
-          git status
-      
           # Commit seulement si changements
           if ! git diff --cached --quiet; then
-            git commit -m "Update fuel price CSV files"
-            git push origin HEAD:${{ github.ref_name }}
+            git commit -m "Update data"
+            git push origin main
           else
             echo "No changes to commit"
           fi
