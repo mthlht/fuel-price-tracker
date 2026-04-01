@@ -39,13 +39,22 @@ jobs:
       # ✅ Commit & push automatique
       - name: Commit and push generated files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Ajouter uniquement ton dossier de sortie
-          git add data/fuel-prices-csv/*.csv
-
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+          # Vérifier les fichiers générés
+          ls -R data || true
+      
+          # Ajouter les fichiers
+          git add data/
+      
+          # Debug
+          git status
+      
           # Commit seulement si changements
-          git diff --cached --quiet || git commit -m "Update fuel price CSV files"
-
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update fuel price CSV files"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No changes to commit"
+          fi
