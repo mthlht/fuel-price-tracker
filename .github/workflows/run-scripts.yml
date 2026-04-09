@@ -3,7 +3,7 @@ name: Run Python scripts periodically
 on:
   schedule:
     - cron: "*/15 * * * *"   # toutes les 15 minutes
-  workflow_dispatch:s
+  workflow_dispatch:
 
 permissions:
   contents: write   # 🔑 nécessaire pour push
