@@ -1,5 +1,18 @@
 import pandas as pd
 from pathlib import Path
+from datetime import datetime
+import pytz
+
+# Heure actuelle
+now = datetime.now(pytz.utc)
+
+# Convertir en heure de Paris (gère CEST / CET automatiquement)
+paris_tz = pytz.timezone("Europe/Paris")
+now_paris = now.astimezone(paris_tz)
+
+# Extraire heure et minute
+heure = now_paris.hour
+minute = now_paris.minute
 
 # chemin vers le dossier du script
 BASE_DIR = Path(__file__).resolve().parent.parent  # remonte d'un niveau depuis script/
@@ -20,6 +33,21 @@ df_list = [
 ]
 
 raw_prix = pd.concat(df_list, ignore_index=True)
+
+# Ajout donnéees du jour entre 19h30 et 20h
+if heure == 19 and minute >= 30:
+  
+    instant_file = DATA_DIR / "fuel-prices-instant.csv"
+  
+    raw_instant_prices = pd.read_csv(instant_file, sep=";")
+    
+    raw_instant_prices["maj"] = pd.to_datetime(raw_instant_prices["maj"], errors="coerce")
+    
+    instant_prices_checked = raw_instant_prices[
+        raw_instant_prices["maj"].dt.date >= now_paris.date()
+    ]
+    
+    raw_prix = pd.concat([raw_prix, instant_prices_checked], ignore_index=True)
 
 # Tri des données
 tidy_roll_mean = (

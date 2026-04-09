@@ -1,9 +1,9 @@
-name: Run Python scripts hourly
+name: Run Python scripts periodically
 
 on:
   schedule:
-    - cron: "0 * * * *"   # toutes les heures
-  workflow_dispatch:
+    - cron: "*/15 * * * *"   # toutes les 15 minutes
+  workflow_dispatch:s
 
 permissions:
   contents: write   # 🔑 nécessaire pour push
