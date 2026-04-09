@@ -35,7 +35,7 @@ df_list = [
 raw_prix = pd.concat(df_list, ignore_index=True)
 
 # Ajout donnéees du jour entre 19h30 et 20h
-if heure == 19 and minute >= 30:
+if heure >= 19:
   
     instant_file = DATA_DIR / "fuel-prices-instant.csv"
   
