@@ -108,7 +108,7 @@ now_paris = now.astimezone(paris_tz)
 heure = now_paris.hour
 
 # Filtre affichage des données du jour, uniquement après 19h
-if heure < 19:
+if heure < 10:
   tidy_roll_mean = tidy_roll_mean[
         tidy_roll_mean["date"].dt.date < now_paris.date()
     ]
