@@ -1,8 +1,8 @@
-name: Run Python scripts periodically
+name: Run Python scripts periodically (test)
 
 on:
   schedule:
-    - cron: "* * * * *"   # toutes les 15 minutes
+    - cron: "* * * * *"   # toutes les minutes
   workflow_dispatch:
 
 permissions:
