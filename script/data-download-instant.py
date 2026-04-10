@@ -7,6 +7,7 @@ from lxml import etree
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+from datetime import datetime
 import pytz
 
 # chemin vers le dossier du script
