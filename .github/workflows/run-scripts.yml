@@ -31,7 +31,7 @@ jobs:
       - name: Run data download script
         run: |
           python script/data-download.py
-          
+
       - name: Run data download instant script
         run: |
           python script/data-download-instant.py

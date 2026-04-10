@@ -7,6 +7,7 @@ from lxml import etree
 import asyncio
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+import pytz
 
 # chemin vers le dossier du script
 BASE_DIR = Path(__file__).resolve().parent.parent  # remonte d'un niveau depuis script/
@@ -112,8 +113,22 @@ async def main():
 # ------------------------
 df = asyncio.run(main())
 
+# Heure actuelle
+now = datetime.now(pytz.utc)
+
+# Convertir en heure de Paris (gère CEST / CET automatiquement)
+paris_tz = pytz.timezone("Europe/Paris")
+now_paris = now.astimezone(paris_tz)
+
+# Filtre prix du jour
+df["maj"] = pd.to_datetime(df["maj"], errors="coerce")
+    
+df = df[
+  df["maj"].dt.date >= now_paris.date()
+  ]
+
 # Nom du fichier : YYYY-MM-fuel-prices.csv
-output_file = DATA_DIR / f"fuel-prices-instant.csv"
+output_file = DATA_DIR / f"fuel-prices-csv/fuel-prices-instant.csv"
 
 # Sauvegarde
 df.to_csv(output_file, index = False, sep = ";")
