@@ -9,11 +9,11 @@ library(purrr)
 #Sys.setlocale("LC_TIME", "fr_FR.UTF-8")
 
 # Chargement des données
-raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), function(x) {
+raw_prix <- purrr::map_dfr(list.files("script/fuel_web_app/data/fuel-prices-csv/", full.names = T), function(x) {
   
   data_to_return <- read_delim(x,
-                               delim = ";") %>%
-    mutate(id_pdv=as.character(id_pdv))
+                               delim = ";",
+                               col_types = cols(.default="c"))
   
   data_to_return
   
