@@ -9,14 +9,14 @@ library(purrr)
 #Sys.setlocale("LC_TIME", "fr_FR.UTF-8")
 
 # Chargement des données
-raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), functioon(x) {
+raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), function(x) {
   
   data_to_return <- read_delim(x,
                                delim = ";")
   
   data_to_return
   
-}
+})
   
 
 raw_ruptures <- read_delim("data/fuel-shortage.csv",
