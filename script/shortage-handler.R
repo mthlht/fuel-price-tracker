@@ -12,7 +12,8 @@ library(purrr)
 raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), function(x) {
   
   data_to_return <- read_delim(x,
-                               delim = ";")
+                               delim = ";") %>%
+    mutate(id_pdv=as.character(id_pdv))
   
   data_to_return
   
@@ -20,10 +21,12 @@ raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), 
   
 
 raw_ruptures <- read_delim("data/fuel-shortage.csv",
-                           delim = ";")
+                           delim = ";") %>%
+  mutate(id_pdv = as.character(id_pdv))
 
 instant_ruptures <- read_delim("data/fuel-shortage-instant.csv",
-                               delim = ";")
+                               delim = ";") %>%
+  mutate(id_pdv = as.character(id_pdv))
 
 
 # Binding des ruptures
