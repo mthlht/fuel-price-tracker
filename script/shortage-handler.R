@@ -6,7 +6,7 @@ library(tidyr)
 library(purrr)
 
 
-#Sys.setlocale("LC_TIME", "fr_FR.UTF-8")
+Sys.setlocale("LC_TIME", "fr_FR.UTF-8")
 
 # Chargement des données
 raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), function(x) {
