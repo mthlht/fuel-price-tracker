@@ -3,19 +3,26 @@ library(magrittr)
 library(dplyr)
 library(lubridate)
 library(tidyr)
+library(purrr)
 
 
 #Sys.setlocale("LC_TIME", "fr_FR.UTF-8")
 
 # Chargement des données
-raw_prix <- read_delim("data/input/data-prix-carburants/prix-2026.csv",
-                       delim = ";")
+raw_prix <- purrr::map_dfr(list.files("data/fuel-prices-csv/", full.names = T), functioon(x) {
+  
+  data_to_return <- read_delim(x,
+                               delim = ";")
+  
+  data_to_return
+  
+}
+  
 
-
-raw_ruptures <- read_delim("data/input/data-prix-carburants/ruptures-2026.csv",
+raw_ruptures <- read_delim("data/fuel-shortage.csv",
                            delim = ";")
 
-instant_ruptures <- read_delim("script/fuel_web_app/data/fuel-shortage-instant.csv",
+instant_ruptures <- read_delim("data/fuel-shortage-instant.csv",
                                delim = ";")
 
 
