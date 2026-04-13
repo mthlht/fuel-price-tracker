@@ -988,6 +988,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 30700003;10 CROIX PALMIER;UZèS;44.00805;4.41802;R;SP98;6;2018-01-02 07:09:54;;definitive
 30700003;10 CROIX PALMIER;UZèS;44.00805;4.41802;R;Gazole;1;2025-10-11 12:49:26;;temporaire
 30700003;10 CROIX PALMIER;UZèS;44.00805;4.41802;R;SP95;2;2025-10-11 12:49:26;;temporaire
+1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;SP98;6;2019-02-16 08:05:11;;definitive
+1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;E85;3;2019-02-16 08:06:40;;definitive
+1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;GPLc;4;2019-02-16 08:06:40;;definitive
+1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;SP95;2;2025-06-10 10:29:56;;definitive
 62820003;ROUTE DE CARVIN;LIBERCOURT;50.486;2.997;R;SP95;2;2026-03-13 09:46:52;;definitive
 62820003;ROUTE DE CARVIN;LIBERCOURT;50.486;2.997;R;E85;3;2026-03-13 09:46:52;;definitive
 62820003;ROUTE DE CARVIN;LIBERCOURT;50.486;2.997;R;GPLc;4;2026-03-13 09:46:52;;definitive
@@ -1011,10 +1015,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 29590001;ZONE DE QUIELLA;LE FAOU;48.298;-4.17;R;E10;5;2017-09-05 10:26:04;;definitive
 62221001;87, rue Jean Monnet;NOYELLES-SOUS-LENS;50.431;2.864;R;E85;3;2022-01-18 11:08:29;;definitive
 62221001;87, rue Jean Monnet;NOYELLES-SOUS-LENS;50.431;2.864;R;GPLc;4;2022-01-18 11:08:29;;definitive
-1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;SP98;6;2019-02-16 08:05:11;;definitive
-1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;E85;3;2019-02-16 08:06:40;;definitive
-1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;GPLc;4;2019-02-16 08:06:40;;definitive
-1750001;223 route de Bourg-en-Bresse;Replonges;46.299;4.881;R;SP95;2;2025-06-10 10:29:56;;definitive
 62219001;Avenue des Frais Fonds;LONGUENESSE;50.735;2.274;R;SP95;2;2024-12-07 08:16:59;;definitive
 13420001;553 ROUTE DU VAISSEAU;GEMENOS;43.279;5.615;R;SP95;2;2022-02-28 16:26:04;;definitive
 13420001;553 ROUTE DU VAISSEAU;GEMENOS;43.279;5.615;R;E85;3;2024-12-20 17:48:59;;definitive
