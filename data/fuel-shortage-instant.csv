@@ -16185,8 +16185,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63290001;31 avenue E. Vaillant;PUY-GUILLAUME;45.955;3.478;R;GPLc;4;2020-09-26 10:45:20;;definitive
 63290001;31 avenue E. Vaillant;PUY-GUILLAUME;45.955;3.478;R;SP95;2;2020-09-26 10:45:20;;definitive
 63290001;31 avenue E. Vaillant;PUY-GUILLAUME;45.955;3.478;R;E85;3;2020-09-26 10:45:20;;definitive
-27670004;18 rue des canadiens;Saint-Ouen-du-Tilleul;49.293;0.955;R;E85;3;2021-10-22 11:54:19;;definitive
-27670004;18 rue des canadiens;Saint-Ouen-du-Tilleul;49.293;0.955;R;SP95;2;2022-11-03 16:58:18;;definitive
 1800001;47 Route de Lyon;MEXIMIEUX;45.901;5.191;R;SP95;2;2021-08-23 17:31:37;;definitive
 1800001;47 Route de Lyon;MEXIMIEUX;45.901;5.191;R;E85;3;2023-01-16 12:23:59;;definitive
 1800001;47 Route de Lyon;MEXIMIEUX;45.901;5.191;R;GPLc;4;2023-01-16 12:23:59;;definitive
@@ -16197,6 +16195,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 16500005;2 Rue Arnaud Beltrame - ZA du pré de l'étang;Confolens;46.0;0.674;R;SP95;2;2021-03-26 09:01:20;;definitive
 16500005;2 Rue Arnaud Beltrame - ZA du pré de l'étang;Confolens;46.0;0.674;R;GPLc;4;2021-03-26 09:01:21;;definitive
 40420002;170 Route de Sabres;LABRIT;44.106;-0.547;R;SP95;2;2023-10-27 10:29:48;;definitive
+27670004;18 rue des canadiens;Saint-Ouen-du-Tilleul;49.293;0.955;R;E85;3;2021-10-22 11:54:19;;definitive
+27670004;18 rue des canadiens;Saint-Ouen-du-Tilleul;49.293;0.955;R;SP95;2;2022-11-03 16:58:18;;definitive
 57190001;11 Rue Nationale;FLORANGE;49.31759;6.11436;R;GPLc;4;2019-01-02 07:48:41;;definitive
 57190001;11 Rue Nationale;FLORANGE;49.31759;6.11436;R;E10;5;2019-07-29 07:53:11;;definitive
 57190001;11 Rue Nationale;FLORANGE;49.31759;6.11436;R;E85;3;2019-07-29 07:53:11;;definitive
@@ -18108,11 +18108,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 12150007;37 AVENUE DE PARIS;Sévérac d'Aveyron;44.329;3.069;R;E85;3;2022-05-19 11:34:35;;definitive
 12150007;37 AVENUE DE PARIS;Sévérac d'Aveyron;44.329;3.069;R;GPLc;4;2022-05-19 11:34:35;;definitive
 12150007;37 AVENUE DE PARIS;Sévérac d'Aveyron;44.329;3.069;R;E10;5;2022-06-01 17:38:36;;definitive
+24150001;Route de Mauzac;LALINDE;44.837;0.746;R;GPLc;4;2018-01-02 12:35:18;;definitive
+24150001;Route de Mauzac;LALINDE;44.837;0.746;R;SP95;2;2019-03-25 09:40:13;;definitive
 66000021;AVENUE ANDRE TOURNE;PERPIGNAN;42.666794065493;2.8953289633491;R;SP95;2;2022-03-08 11:24:20;;definitive
 66000021;AVENUE ANDRE TOURNE;PERPIGNAN;42.666794065493;2.8953289633491;R;E85;3;2022-03-08 11:24:20;;definitive
 66000021;AVENUE ANDRE TOURNE;PERPIGNAN;42.666794065493;2.8953289633491;R;GPLc;4;2022-03-08 11:24:20;;definitive
-24150001;Route de Mauzac;LALINDE;44.837;0.746;R;GPLc;4;2018-01-02 12:35:18;;definitive
-24150001;Route de Mauzac;LALINDE;44.837;0.746;R;SP95;2;2019-03-25 09:40:13;;definitive
 62142001;L D LES PICHOTTESZA LEGERE;ALINCTHUN;50.739;1.802;R;SP95;2;2026-04-15 12:37:42;;definitive
 70100003;20 Avenue du Maréchal Lyautey;GRAY;47.445;5.598;R;SP95;2;2017-09-04 08:17:35;;definitive
 70100003;20 Avenue du Maréchal Lyautey;GRAY;47.445;5.598;R;E85;3;2017-09-04 08:17:35;;definitive
