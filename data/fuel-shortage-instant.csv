@@ -22429,11 +22429,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 3240003;route de longeville;Deux-Chaises;46.38;3.04;R;GPLc;4;2019-08-29 11:37:07;;definitive
 3240003;route de longeville;Deux-Chaises;46.38;3.04;R;SP95;2;2020-11-25 18:47:24;;definitive
 3240003;route de longeville;Deux-Chaises;46.38;3.04;R;SP98;6;2026-04-14 09:30:10;;temporaire
-85160006;Rue de la Rivière;Saint-Jean-de-Monts;46.795677436793994;-2.0494800138474;R;SP95;2;2017-09-07 09:33:16;;definitive
-85160006;Rue de la Rivière;Saint-Jean-de-Monts;46.795677436793994;-2.0494800138474;R;E85;3;2022-07-07 09:50:33;;definitive
 10200006;18 rue Louis Desprez;Bar-sur-Aube;48.226361576052994;4.7128066819557;R;E85;3;2025-10-31 17:14:22;;definitive
 10200006;18 rue Louis Desprez;Bar-sur-Aube;48.226361576052994;4.7128066819557;R;GPLc;4;2025-10-31 17:14:22;;definitive
 10200006;18 rue Louis Desprez;Bar-sur-Aube;48.226361576052994;4.7128066819557;R;E10;5;2025-10-31 17:14:22;;definitive
+85160006;Rue de la Rivière;Saint-Jean-de-Monts;46.795677436793994;-2.0494800138474;R;SP95;2;2017-09-07 09:33:16;;definitive
+85160006;Rue de la Rivière;Saint-Jean-de-Monts;46.795677436793994;-2.0494800138474;R;E85;3;2022-07-07 09:50:33;;definitive
 60160002;Rue André Ginisti;MONTATAIRE;49.253;2.428;R;GPLc;4;2023-10-04 08:37:18;;definitive
 60160002;Rue André Ginisti;MONTATAIRE;49.253;2.428;R;SP95;2;2025-06-04 11:23:16;;definitive
 23000007;Rue du Docteur Manouvrier;GUéRET;46.168;1.874;R;SP95;2;2017-08-29 17:39:46;;definitive
