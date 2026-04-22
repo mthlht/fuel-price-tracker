@@ -37,10 +37,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;E85;3;2019-02-15 09:09:18;;definitive
 83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;GPLc;4;2019-02-15 09:09:18;;definitive
 83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;SP98;6;2019-02-15 09:09:18;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E85;3;2017-09-15 12:11:43;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;GPLc;4;2017-09-15 12:11:43;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E10;5;2017-09-15 12:11:44;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;SP98;6;2017-09-15 12:11:44;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;E85;3;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;GPLc;4;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;SP95;2;2024-01-25 06:43:16;;definitive
@@ -61,6 +57,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83590001;Le Murier, RD 97;Gonfaron;43.316;6.275;R;GPLc;4;2021-11-05 07:55:41;;definitive
 33210008;route de Bazas ZI dumes;LANGON;44.542;-0.242;R;E85;3;2020-03-10 08:58:26;;definitive
 33210008;route de Bazas ZI dumes;LANGON;44.542;-0.242;R;GPLc;4;2020-03-11 08:59:39;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E85;3;2017-09-15 12:11:43;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;GPLc;4;2017-09-15 12:11:43;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E10;5;2017-09-15 12:11:44;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;SP98;6;2017-09-15 12:11:44;;definitive
 34670001;103 Avenue de la Biste;BAILLARGUES;43.655;3.996;R;GPLc;4;2013-01-12 19:45:00;;
 34670001;103 Avenue de la Biste;BAILLARGUES;43.655;3.996;R;E85;3;2017-09-14 12:07:09;;definitive
 34670001;103 Avenue de la Biste;BAILLARGUES;43.655;3.996;R;SP95;2;2019-01-08 14:08:44;;definitive
@@ -5345,8 +5345,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38110006;151 GRANDE RUE;Montalieu-Vercieu;45.810097973474;5.4033595557715;R;E10;5;2022-09-01 11:02:56;;definitive
 38110006;151 GRANDE RUE;Montalieu-Vercieu;45.810097973474;5.4033595557715;R;E85;3;2022-09-21 08:40:51;;definitive
 38110006;151 GRANDE RUE;Montalieu-Vercieu;45.810097973474;5.4033595557715;R;GPLc;4;2022-09-21 08:40:51;;definitive
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-21 18:17:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-21 20:08:00;;temporaire
+33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-22 01:07:00;;temporaire
 22500004;Route de Lézardrieux;Paimpol;48.778;-3.057;R;E85;3;2018-12-29 18:17:07;;definitive
 22500004;Route de Lézardrieux;Paimpol;48.778;-3.057;R;GPLc;4;2018-12-29 18:17:08;;definitive
 71130002;ROUTE DE DIGOIN;GUEUGNON;46.591;4.065;R;E85;3;2017-08-30 10:56:58;;definitive
