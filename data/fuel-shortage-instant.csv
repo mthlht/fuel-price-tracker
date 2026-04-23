@@ -9030,7 +9030,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;E85;3;2017-09-01 19:11:52;;definitive
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;GPLc;4;2017-09-01 19:11:52;;definitive
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;SP98;6;2017-09-01 19:11:53;;definitive
-91100016;RUE SIGMUND FREUD;CORBEIL ESSONNES;48.608;2.449;R;SP98;6;2026-04-21 22:45:05;;temporaire
 37230003;4 AVENUE JAURES;FONDETTES;47.4033668855;0.605448665855;R;E85;3;2017-09-26 09:28:01;;definitive
 37230003;4 AVENUE JAURES;FONDETTES;47.4033668855;0.605448665855;R;GPLc;4;2017-09-26 09:28:01;;definitive
 37230003;4 AVENUE JAURES;FONDETTES;47.4033668855;0.605448665855;R;SP95;2;2024-05-07 11:36:51;;definitive
@@ -14470,6 +14469,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33133002;2 AVENUE FERNAND PILLOT;GALGON;44.996;-0.275;R;SP98;6;2017-09-21 10:16:06;;definitive
 33133002;2 AVENUE FERNAND PILLOT;GALGON;44.996;-0.275;R;GPLc;4;2019-10-08 13:53:11;;definitive
 33133002;2 AVENUE FERNAND PILLOT;GALGON;44.996;-0.275;R;SP95;2;2025-07-17 07:36:47;;definitive
+61200003;24 Avenue de Paris;Argentan;48.749;-0.011;R;SP95;2;2020-05-08 09:19:37;;definitive
+61200003;24 Avenue de Paris;Argentan;48.749;-0.011;R;E85;3;2020-05-08 09:19:37;;definitive
+61200003;24 Avenue de Paris;Argentan;48.749;-0.011;R;GPLc;4;2020-05-08 09:19:37;;definitive
 70700004;Rue Sous les Vorpes;Gy;47.411;5.819;R;E85;3;2018-10-10 08:29:44;;definitive
 70700004;Rue Sous les Vorpes;Gy;47.411;5.819;R;GPLc;4;2018-10-10 08:29:45;;definitive
 70700004;Rue Sous les Vorpes;Gy;47.411;5.819;R;SP95;2;2018-10-10 08:29:43;;definitive
@@ -14485,9 +14487,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 47800003; Avenue Alfred Court;MIRAMONT-DE-GUYENNE;44.59548;0.35238;R;E10;5;2022-04-21 09:46:20;;definitive
 47800003; Avenue Alfred Court;MIRAMONT-DE-GUYENNE;44.59548;0.35238;R;E85;3;2024-07-19 07:40:15;;definitive
 47800003; Avenue Alfred Court;MIRAMONT-DE-GUYENNE;44.59548;0.35238;R;GPLc;4;2024-07-19 07:40:15;;definitive
-61200003;24 Avenue de Paris;Argentan;48.749;-0.011;R;SP95;2;2020-05-08 09:19:37;;definitive
-61200003;24 Avenue de Paris;Argentan;48.749;-0.011;R;E85;3;2020-05-08 09:19:37;;definitive
-61200003;24 Avenue de Paris;Argentan;48.749;-0.011;R;GPLc;4;2020-05-08 09:19:37;;definitive
 38260003;RN 85;La Frette;45.387;5.368;R;E85;3;2010-07-27 14:47:00;;
 38260003;RN 85;La Frette;45.387;5.368;R;GPLc;4;2010-07-27 14:50:00;;
 38260003;RN 85;La Frette;45.387;5.368;R;SP95;2;2017-09-04 19:10:54;;definitive
@@ -14941,11 +14940,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83510003;Route des Arcs;Lorgues;43.471;6.381;R;E10;5;2026-04-23 15:03:33;;temporaire
 63360001;ALLEE DE FONCHENILLE;Gerzat;45.81675;3.15286;R;E85;3;2019-08-26 14:33:08;;definitive
 63360001;ALLEE DE FONCHENILLE;Gerzat;45.81675;3.15286;R;GPLc;4;2019-08-26 14:33:08;;definitive
+37530002;Boulevard du Sevrage;Pocé-sur-Cisse;47.423;0.976;R;SP95;2;2019-04-20 09:48:56;;definitive
+37530002;Boulevard du Sevrage;Pocé-sur-Cisse;47.423;0.976;R;GPLc;4;2017-09-04 07:55:21;;definitive
 91230003;72 Avenue Jean Jaurès;Montgeron;48.716;2.446;R;E85;3;2017-09-26 18:58:35;;definitive
 91230003;72 Avenue Jean Jaurès;Montgeron;48.716;2.446;R;GPLc;4;2017-09-26 18:58:35;;definitive
 91230003;72 Avenue Jean Jaurès;Montgeron;48.716;2.446;R;E10;5;2017-09-26 18:58:35;;definitive
-37530002;Boulevard du Sevrage;Pocé-sur-Cisse;47.423;0.976;R;SP95;2;2019-04-20 09:48:56;;definitive
-37530002;Boulevard du Sevrage;Pocé-sur-Cisse;47.423;0.976;R;GPLc;4;2017-09-04 07:55:21;;definitive
 33390004;6 Avenue Pierre Mendès France;Saint-Ciers-sur-Gironde;45.291;-0.607;R;GPLc;4;2017-08-30 16:50:49;;definitive
 33390004;6 Avenue Pierre Mendès France;Saint-Ciers-sur-Gironde;45.291;-0.607;R;SP95;2;2020-01-29 18:17:01;;definitive
 1200003;Avenue Maréchal de Lattre de Tassigny;Bellegarde-sur-Valserine;46.124;5.812;R;E85;3;2017-10-26 15:28:20;;definitive
@@ -19963,13 +19962,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35350004;16, rue d'Aleth;LA GOUESNIERE;48.605;-1.9;R;SP95;2;2017-08-29 21:13:05;;definitive
 35350004;16, rue d'Aleth;LA GOUESNIERE;48.605;-1.9;R;E85;3;2017-08-29 21:13:05;;definitive
 35350004;16, rue d'Aleth;LA GOUESNIERE;48.605;-1.9;R;GPLc;4;2017-08-29 21:13:05;;definitive
-86000023;10 Boulevard Jeanne d'Arc;Poitiers;46.589;0.34;R;E85;3;2017-08-30 22:17:58;;definitive
-86000023;10 Boulevard Jeanne d'Arc;Poitiers;46.589;0.34;R;GPLc;4;2017-08-30 22:17:58;;definitive
-86000023;10 Boulevard Jeanne d'Arc;Poitiers;46.589;0.34;R;SP95;2;2026-04-02 15:44:38;;definitive
 4160008;30 ROUTE NATIONALE 96;Château-Arnoux-Saint-Auban;44.074616472074;5.992643254634699;R;SP95;2;2026-03-04 10:46:04;;definitive
 4160008;30 ROUTE NATIONALE 96;Château-Arnoux-Saint-Auban;44.074616472074;5.992643254634699;R;E85;3;2026-03-04 10:46:04;;definitive
 4160008;30 ROUTE NATIONALE 96;Château-Arnoux-Saint-Auban;44.074616472074;5.992643254634699;R;GPLc;4;2026-03-04 10:46:04;;definitive
 76420006;184 ROUTE DE NEUFCHATEL;BIHOREL;49.458;1.108;R;SP95;2;2026-04-07 11:57:03;;definitive
+86000023;10 Boulevard Jeanne d'Arc;Poitiers;46.589;0.34;R;E85;3;2017-08-30 22:17:58;;definitive
+86000023;10 Boulevard Jeanne d'Arc;Poitiers;46.589;0.34;R;GPLc;4;2017-08-30 22:17:58;;definitive
+86000023;10 Boulevard Jeanne d'Arc;Poitiers;46.589;0.34;R;SP95;2;2026-04-02 15:44:38;;definitive
 22100011;16 route de Normandie;LANVALLAY;48.460706633427;-2.0151670080546;R;SP95;2;2026-01-23 13:32:47;;definitive
 85800003;rd pt de l'Europe parc Océanis;Saint-Gilles-Croix-de-Vie;46.694;-1.914;R;SP95;2;2018-05-22 09:18:22;;definitive
 85800003;rd pt de l'Europe parc Océanis;Saint-Gilles-Croix-de-Vie;46.694;-1.914;R;GPLc;4;2023-06-28 11:25:36;;definitive
@@ -20332,14 +20331,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 19800007;1 RD 1089;GIMEL LES CASCADES;45.317480999999994;1.8390879999999998;R;GPLc;4;2026-04-08 18:00:59;;definitive
 19800007;1 RD 1089;GIMEL LES CASCADES;45.317480999999994;1.8390879999999998;R;SP98;6;2026-04-09 08:37:02;;temporaire
 19800007;1 RD 1089;GIMEL LES CASCADES;45.317480999999994;1.8390879999999998;R;E10;5;2026-04-09 08:37:26;;temporaire
+64170001;35 Route Départementale 817;LACQ;43.415;-0.628;R;GPLc;4;2017-10-31 18:50:41;;definitive
+64170001;35 Route Départementale 817;LACQ;43.415;-0.628;R;SP95;2;2023-06-19 19:06:32;;definitive
 20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;E85;3;2011-04-29 14:01:00;;
 20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;GPLc;4;2018-04-13 08:23:57;;definitive
 20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;E10;5;2018-04-13 08:23:57;;definitive
 20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;SP98;6;2018-12-06 18:17:37;;definitive
 27540001;17 Rue d'Ézy;IVRY-LA-BATAILLE;48.881;1.46;R;GPLc;4;2017-09-29 10:33:10;;temporaire
 27540001;17 Rue d'Ézy;IVRY-LA-BATAILLE;48.881;1.46;R;SP95;2;2025-02-05 09:31:18;;definitive
-64170001;35 Route Départementale 817;LACQ;43.415;-0.628;R;GPLc;4;2017-10-31 18:50:41;;definitive
-64170001;35 Route Départementale 817;LACQ;43.415;-0.628;R;SP95;2;2023-06-19 19:06:32;;definitive
 54830001;18 Rue du Général Leclerc;Gerbéviller;48.497;6.514;R;E85;3;2022-06-08 10:57:29;;definitive
 54830001;18 Rue du Général Leclerc;Gerbéviller;48.497;6.514;R;GPLc;4;2022-06-08 10:57:29;;definitive
 54830001;18 Rue du Général Leclerc;Gerbéviller;48.497;6.514;R;E10;5;2022-06-08 10:57:29;;definitive
