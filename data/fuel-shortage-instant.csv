@@ -5418,7 +5418,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-25 21:25:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-25 23:16:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-26 09:24:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-26 09:24:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-26 11:56:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-26 13:33:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-26 13:48:00;;temporaire
@@ -5426,6 +5425,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-26 16:30:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-26 16:45:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-26 16:45:00;;temporaire
+33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-26 22:04:00;;temporaire
 71130002;ROUTE DE DIGOIN;GUEUGNON;46.591;4.065;R;E85;3;2017-08-30 10:56:58;;definitive
 71130002;ROUTE DE DIGOIN;GUEUGNON;46.591;4.065;R;GPLc;4;2017-08-30 10:56:58;;definitive
 71130002;ROUTE DE DIGOIN;GUEUGNON;46.591;4.065;R;E10;5;2024-07-05 11:28:02;;definitive
@@ -8471,6 +8471,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 22610001;24 Rue de l'Armor;PLEUBIAN;48.844;-3.137;R;E10;5;2024-10-01 11:59:24;;definitive
 58470005;AIRE DE MAGNY-COURS RN 7 PRE DE LA FONTAINE;MAGNY COURS;46.870873780093;3.1631482733857;R;SP95;2;2019-02-07 11:37:39;;definitive
 58470005;AIRE DE MAGNY-COURS RN 7 PRE DE LA FONTAINE;MAGNY COURS;46.870873780093;3.1631482733857;R;GPLc;4;2019-02-07 11:37:39;;definitive
+38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;GPLc;4;2022-09-27 14:24:48;;definitive
+38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;SP95;2;2022-11-08 09:50:23;;definitive
+38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;SP98;6;2026-04-24 18:29:56;;temporaire
+38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;E10;5;2026-04-26 23:29:11;;temporaire
 13200016;99 AVENUE DE STALINGRAD;ARLES;43.691;4.638;R;SP95;2;2023-03-20 15:29:58;;definitive
 13200016;99 AVENUE DE STALINGRAD;ARLES;43.691;4.638;R;GPLc;4;2023-03-20 15:29:58;;definitive
 13200016;99 AVENUE DE STALINGRAD;ARLES;43.691;4.638;R;E85;3;2026-04-26 15:32:54;;temporaire
@@ -8494,9 +8498,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 27000003;rue Lépouzé;ÉVREUX;49.02709;1.1555;R;E85;3;2022-08-19 11:24:50;;definitive
 27000003;rue Lépouzé;ÉVREUX;49.02709;1.1555;R;GPLc;4;2022-08-19 11:24:51;;definitive
 14740001;RUE HECTOR MALOT;Bretteville-l'Orgueilleuse THUE ET MUE;49.215;-0.505;R;GPLc;4;2017-09-01 12:34:22;;definitive
-38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;GPLc;4;2022-09-27 14:24:48;;definitive
-38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;SP95;2;2022-11-08 09:50:23;;definitive
-38340013;1159 AVENUE DE JUIN 1940;VOREPPE;45.306;5.624;R;SP98;6;2026-04-24 18:29:56;;temporaire
 33360003;9 AV DE LA LIBERATION;LATRESNE;44.783;-0.496;R;E85;3;2022-05-19 16:15:02;;definitive
 33360003;9 AV DE LA LIBERATION;LATRESNE;44.783;-0.496;R;GPLc;4;2022-05-19 16:15:02;;definitive
 33360003;9 AV DE LA LIBERATION;LATRESNE;44.783;-0.496;R;SP95;2;2026-01-09 14:18:58;;definitive
@@ -8683,10 +8684,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 14110003;RUE ST JACQUES;condé en normandie;48.855034234699005;-0.54190441915746;R;GPLc;4;2026-02-03 09:39:36;;temporaire
 64310001;RD 918 ZAC de Lizardia II - Quartier Ibarron;SAINT-PEE-SUR-NIVELLE;43.359;-1.575;R;GPLc;4;2017-09-01 08:43:19;;definitive
 64310001;RD 918 ZAC de Lizardia II - Quartier Ibarron;SAINT-PEE-SUR-NIVELLE;43.359;-1.575;R;SP95;2;2020-07-07 18:09:00;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP95;2;2021-10-04 10:48:22;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;E85;3;2021-10-04 10:48:22;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;GPLc;4;2022-12-07 18:37:25;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP98;6;2026-04-23 19:52:10;;definitive
 1100002;Rue Brillat-Savarin;OYONNAX;46.25;5.644;R;E85;3;2022-03-02 16:12:58;;definitive
 1100002;Rue Brillat-Savarin;OYONNAX;46.25;5.644;R;GPLc;4;2022-03-02 16:12:58;;definitive
 1100002;Rue Brillat-Savarin;OYONNAX;46.25;5.644;R;E10;5;2022-03-02 16:12:58;;definitive
@@ -8709,6 +8706,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 22800003;le vivier rond point du volozen;Quintin;48.40807360198001;-2.9186782083897;R;E85;3;2019-05-13 11:40:38;;definitive
 22800003;le vivier rond point du volozen;Quintin;48.40807360198001;-2.9186782083897;R;GPLc;4;2019-05-13 11:40:38;;definitive
 22800003;le vivier rond point du volozen;Quintin;48.40807360198001;-2.9186782083897;R;SP95;2;2025-04-16 15:46:10;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP95;2;2021-10-04 10:48:22;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;E85;3;2021-10-04 10:48:22;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;GPLc;4;2022-12-07 18:37:25;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP98;6;2026-04-23 19:52:10;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;E10;5;2026-04-26 22:39:44;;definitive
 54500005;2 Rue Bernard Palissy;VANDOEUVRE-LèS-NANCY;48.654;6.177;R;E85;3;2010-10-21 16:36:00;;
 54500005;2 Rue Bernard Palissy;VANDOEUVRE-LèS-NANCY;48.654;6.177;R;E85;3;2017-08-30 08:48:44;;definitive
 86550001;ZAE DE BEAUBATON;MIGNALOUX-BEAUVOIR;46.54;0.403;R;E85;3;2017-09-19 11:57:19;;definitive
@@ -9592,6 +9594,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 69200009;RTE DE CORBAS - RD 57;VENISSIEUX;45.69;4.891;R;SP98;6;2026-04-25 12:30:26;;temporaire
 38340012;RN 75 CRUE DE MOIRANS;VOREPPE;45.305;5.623;R;SP95;2;2018-12-05 11:07:58;;definitive
 38340012;RN 75 CRUE DE MOIRANS;VOREPPE;45.305;5.623;R;GPLc;4;2018-12-05 11:07:58;;definitive
+38340012;RN 75 CRUE DE MOIRANS;VOREPPE;45.305;5.623;R;SP98;6;2026-04-26 23:27:20;;temporaire
 54250001;Rue de Frouard;Champigneulles;48.738;6.162;R;E85;3;2017-11-08 12:46:50;;definitive
 54250001;Rue de Frouard;Champigneulles;48.738;6.162;R;GPLc;4;2017-11-08 12:46:51;;definitive
 54250001;Rue de Frouard;Champigneulles;48.738;6.162;R;SP95;2;2018-02-20 19:02:23;;definitive
@@ -20545,6 +20548,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 49570001;24 rue d'Anjou;MONTJEAN SUR LOIRE;47.39;-0.862;R;SP95;2;2017-08-30 10:42:53;;definitive
 49570001;24 rue d'Anjou;MONTJEAN SUR LOIRE;47.39;-0.862;R;E85;3;2017-08-30 10:42:53;;definitive
 49570001;24 rue d'Anjou;MONTJEAN SUR LOIRE;47.39;-0.862;R;GPLc;4;2017-08-30 10:42:53;;definitive
+49570001;24 rue d'Anjou;MONTJEAN SUR LOIRE;47.39;-0.862;R;SP98;6;2026-04-26 22:33:38;;temporaire
 30470001;Route des Plages;Aimargues;43.694;4.203;R;GPLc;4;2017-09-01 08:23:54;;definitive
 30470001;Route des Plages;Aimargues;43.694;4.203;R;SP95;2;2022-12-23 06:56:16;;definitive
 34120001;26 AVENUE DE VERDUN;Pézenas;43.454;3.421;R;E85;3;2017-09-27 08:57:17;;definitive
@@ -23143,6 +23147,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 88250001;GRAND RUE;La Bresse;47.999;6.87;R;E85;3;2024-03-29 09:17:03;;definitive
 88250001;GRAND RUE;La Bresse;47.999;6.87;R;GPLc;4;2024-03-29 09:17:05;;definitive
 88250001;GRAND RUE;La Bresse;47.999;6.87;R;SP95;2;2023-07-17 07:51:45;;definitive
+13013017;75 CHE. DE CHATEAU GOMBERT;MARSEILLE;43.343;5.422;R;GPLc;4;2017-09-26 15:39:36;;temporaire
 50170008;31 Route Nationale;TANIS;48.573;-1.458;R;E85;3;2026-04-02 19:44:09;;definitive
 50170008;31 Route Nationale;TANIS;48.573;-1.458;R;GPLc;4;2026-04-02 19:44:09;;definitive
 50170008;31 Route Nationale;TANIS;48.573;-1.458;R;SP98;6;2026-04-02 19:44:09;;definitive
