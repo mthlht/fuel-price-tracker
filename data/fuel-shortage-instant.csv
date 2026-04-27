@@ -8133,9 +8133,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 55600001;11 Avenue de Verdun;Montmédy;49.513;5.375;R;E10;5;2017-09-27 10:57:39;;definitive
 50500005;RUE DE LA GUINGUETTE;CARENTAN;49.302;-1.263;R;SP95;2;2020-12-04 11:27:35;;definitive
 50500005;RUE DE LA GUINGUETTE;CARENTAN;49.302;-1.263;R;GPLc;4;2022-03-05 08:20:05;;definitive
-91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2012-08-30 09:07:00;;
-91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2017-09-01 06:10:51;;definitive
-91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;SP95;2;2025-09-24 04:19:49;;temporaire
 63300003;52 Avenue Léo Lagrange;THIERS;45.848;3.53;R;SP95;2;2017-08-31 11:14:44;;definitive
 63300003;52 Avenue Léo Lagrange;THIERS;45.848;3.53;R;E85;3;2017-08-31 11:14:44;;definitive
 63300003;52 Avenue Léo Lagrange;THIERS;45.848;3.53;R;GPLc;4;2017-08-31 11:14:45;;definitive
@@ -8147,6 +8144,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 25500002;40 Rue de la Louhière;Morteau;47.06295999304;6.6061820549367996;R;E85;3;2017-09-01 09:35:07;;definitive
 25500002;40 Rue de la Louhière;Morteau;47.06295999304;6.6061820549367996;R;GPLc;4;2017-09-01 09:35:07;;definitive
 25500002;40 Rue de la Louhière;Morteau;47.06295999304;6.6061820549367996;R;SP98;6;2026-04-25 19:45:22;;temporaire
+91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2012-08-30 09:07:00;;
+91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2017-09-01 06:10:51;;definitive
+91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;SP95;2;2025-09-24 04:19:49;;temporaire
 63730001;Avenue du Commandant Berrier;Les Martres-de-Veyre;45.685;3.195;R;GPLc;4;2017-09-19 14:32:02;;definitive
 63730001;Avenue du Commandant Berrier;Les Martres-de-Veyre;45.685;3.195;R;SP95;2;2022-08-17 09:56:43;;definitive
 69160005;49 AVENUE VICTOR HUGO;TASSIN LA DEMI LUNE;45.766;4.784;R;GPLc;4;2021-01-10 22:28:31;;definitive
@@ -12422,6 +12422,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 93700004;35-39 AVENUE HENRI BARBUSSE;DRANCY;48.91625;2.44355;R;SP95;2;2024-11-25 12:49:16;;definitive
 93700004;35-39 AVENUE HENRI BARBUSSE;DRANCY;48.91625;2.44355;R;GPLc;4;2024-11-25 12:50:10;;definitive
 93700004;35-39 AVENUE HENRI BARBUSSE;DRANCY;48.91625;2.44355;R;E85;3;2026-04-26 19:38:15;;temporaire
+93700004;35-39 AVENUE HENRI BARBUSSE;DRANCY;48.91625;2.44355;R;E10;5;2026-04-27 00:41:40;;temporaire
 2270001;2 AVENUE DE LA LIBERATION;Crécy-sur-Serre;49.689;3.622;R;SP95;2;2017-11-17 14:55:57;;definitive
 2270001;2 AVENUE DE LA LIBERATION;Crécy-sur-Serre;49.689;3.622;R;GPLc;4;2017-11-17 14:55:57;;definitive
 59260007;BOULEVARD DE TOURNAI;LEZENNES;50.616;3.119;R;SP95;2;2022-11-22 09:49:54;;definitive
@@ -22300,6 +22301,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 53000006;61 Boulevard Félix Grat;LAVAL;48.0682848174;-0.761818336311;R;E85;3;2017-08-31 09:47:19;;definitive
 53000006;61 Boulevard Félix Grat;LAVAL;48.0682848174;-0.761818336311;R;GPLc;4;2017-08-31 09:47:19;;definitive
 53000006;61 Boulevard Félix Grat;LAVAL;48.0682848174;-0.761818336311;R;SP95;2;2021-04-07 08:59:07;;definitive
+22120007;RN 12 LA VILLE CARIO;HILLION;48.5145374;-2.6666760186126;R;SP95;2;2024-01-23 20:42:57;;definitive
 77160003;15 Avenue du Maréchal de Lattre de Tassigny;Provins;48.559;3.309;R;GPLc;4;2018-12-30 10:17:40;;definitive
 77160003;15 Avenue du Maréchal de Lattre de Tassigny;Provins;48.559;3.309;R;SP95;2;2026-01-29 10:21:17;;definitive
 44250004;Avenue Guy Lafontaine;Saint-Brevin-les-Pins;47.243;-2.157;R;GPLc;4;2017-09-04 07:57:07;;definitive
@@ -22316,7 +22318,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 44130004;11 Rue Du 8 Mai 1945;BLAIN;47.476667007029;-1.7614514139338;R;GPLc;4;2025-09-08 14:18:20;;definitive
 42410005;365 route de verlieu RN86;Saint Michel;45.444;4.752;R;GPLc;4;2021-10-12 12:32:08;;definitive
 42410005;365 route de verlieu RN86;Saint Michel;45.444;4.752;R;SP95;2;2025-10-31 14:53:21;;definitive
-22120007;RN 12 LA VILLE CARIO;HILLION;48.5145374;-2.6666760186126;R;SP95;2;2024-01-23 20:42:57;;definitive
 66400006;place de la resistance;ceret;42.49;2.751;R;E85;3;2024-08-01 08:24:44;;definitive
 66400006;place de la resistance;ceret;42.49;2.751;R;GPLc;4;2024-08-01 08:24:44;;definitive
 66400006;place de la resistance;ceret;42.49;2.751;R;E10;5;2024-08-01 08:24:44;;definitive
