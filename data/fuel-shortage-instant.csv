@@ -5414,13 +5414,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 10:30:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 11:50:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 12:06:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-27 12:06:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 15:03:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 15:33:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-27 15:33:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 18:36:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 19:57:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-27 19:57:00;;temporaire
+33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-27 21:53:00;;temporaire
 40270004;2 Avenue de Mont de Marsan;Grenade-sur-l'Adour;43.774;-0.432;R;E85;3;2018-09-19 08:56:10;;definitive
 40270004;2 Avenue de Mont de Marsan;Grenade-sur-l'Adour;43.774;-0.432;R;GPLc;4;2018-09-19 08:56:10;;definitive
 40270004;2 Avenue de Mont de Marsan;Grenade-sur-l'Adour;43.774;-0.432;R;E10;5;2018-09-19 08:56:11;;definitive
@@ -8103,6 +8103,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59520001;Rue Georges Maertens;MARQUETTE-LEZ-LILLE;50.6633;3.04615;R;GPLc;4;2018-12-14 06:56:15;;definitive
 38150003;RN 7;Chanas;45.32128;4.80769;R;SP95;2;2025-07-09 14:22:22;;temporaire
 35760002;Zone Industrielle de L'Etang;SAINT-GREGOIRE;48.14;-1.686;R;SP95;2;2017-08-30 08:30:50;;definitive
+91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2012-08-30 09:07:00;;
+91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2017-09-01 06:10:51;;definitive
+91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;SP95;2;2025-09-24 04:19:49;;temporaire
 47200002;PONT DES SABLES;Marmande;44.464;0.14;R;SP95;2;2021-07-28 10:36:11;;definitive
 47200002;PONT DES SABLES;Marmande;44.464;0.14;R;GPLc;4;2021-07-28 10:36:12;;definitive
 59129001;Rue Sadi Carnot;AVESNES-LES-AUBERT;50.19;3.388;R;E85;3;2020-07-04 07:07:15;;definitive
@@ -8124,9 +8127,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 25500002;40 Rue de la Louhière;Morteau;47.06295999304;6.6061820549367996;R;SP95;2;2017-09-01 09:35:07;;definitive
 25500002;40 Rue de la Louhière;Morteau;47.06295999304;6.6061820549367996;R;E85;3;2017-09-01 09:35:07;;definitive
 25500002;40 Rue de la Louhière;Morteau;47.06295999304;6.6061820549367996;R;GPLc;4;2017-09-01 09:35:07;;definitive
-91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2012-08-30 09:07:00;;
-91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;GPLc;4;2017-09-01 06:10:51;;definitive
-91260002;Avenue Camille Desmoulins;JUVISY-SUR-ORGE;48.695;2.356;R;SP95;2;2025-09-24 04:19:49;;temporaire
 63730001;Avenue du Commandant Berrier;Les Martres-de-Veyre;45.685;3.195;R;GPLc;4;2017-09-19 14:32:02;;definitive
 63730001;Avenue du Commandant Berrier;Les Martres-de-Veyre;45.685;3.195;R;SP95;2;2022-08-17 09:56:43;;definitive
 69160005;49 AVENUE VICTOR HUGO;TASSIN LA DEMI LUNE;45.766;4.784;R;GPLc;4;2021-01-10 22:28:31;;definitive
@@ -13225,6 +13225,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38090004;62 AVENUE DE LA VERPILLIERE;Villefontaine;45.615;5.158;R;E10;5;2017-09-13 08:03:12;;definitive
 38090004;62 AVENUE DE LA VERPILLIERE;Villefontaine;45.615;5.158;R;GPLc;4;2018-01-04 10:00:44;;definitive
 82000006;Rue de l'Abbaye;Montauban;44.003462549649;1.35560564736;R;SP95;2;2019-12-26 08:34:01;;definitive
+86036001;93 Route de Gençay;Poitiers;46.56606713088;0.35440526256445004;R;SP95;2;2017-08-29 16:37:41;;definitive
+86036001;93 Route de Gençay;Poitiers;46.56606713088;0.35440526256445004;R;GPLc;4;2026-03-05 06:15:44;;temporaire
 27620002;ROUTE DE FOURGES;GASNY;49.09375;1.60616;R;E85;3;2015-01-12 00:00:00;;
 27620002;ROUTE DE FOURGES;GASNY;49.09375;1.60616;R;E85;3;2017-09-03 09:01:59;;definitive
 27620002;ROUTE DE FOURGES;GASNY;49.09375;1.60616;R;GPLc;4;2017-09-03 09:01:59;;definitive
@@ -13235,8 +13237,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 74400001;Route Blanche;CHAMONIX-MONT-BLANC;45.912;6.861;R;E85;3;2017-08-31 12:22:59;;definitive
 74400001;Route Blanche;CHAMONIX-MONT-BLANC;45.912;6.861;R;GPLc;4;2017-08-31 12:22:59;;definitive
 74400001;Route Blanche;CHAMONIX-MONT-BLANC;45.912;6.861;R;SP98;6;2017-08-31 12:23:00;;definitive
-86036001;93 Route de Gençay;Poitiers;46.56606713088;0.35440526256445004;R;SP95;2;2017-08-29 16:37:41;;definitive
-86036001;93 Route de Gençay;Poitiers;46.56606713088;0.35440526256445004;R;GPLc;4;2026-03-05 06:15:44;;temporaire
 56800006;ROUTE NATIONALE 24 - AIRE SUD DE BROCÉLIANDE;PLOERMEL;47.918994310637;-2.3637616080019;R;SP95;2;2021-10-05 08:34:43;;definitive
 4120004;Boulevard Saint Michel;Castellane;43.851;6.508;R;E85;3;2017-10-20 19:05:24;;definitive
 4120004;Boulevard Saint Michel;Castellane;43.851;6.508;R;GPLc;4;2017-10-20 19:05:25;;definitive
@@ -22229,9 +22229,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 53000006;61 Boulevard Félix Grat;LAVAL;48.0682848174;-0.761818336311;R;E85;3;2017-08-31 09:47:19;;definitive
 53000006;61 Boulevard Félix Grat;LAVAL;48.0682848174;-0.761818336311;R;GPLc;4;2017-08-31 09:47:19;;definitive
 53000006;61 Boulevard Félix Grat;LAVAL;48.0682848174;-0.761818336311;R;SP95;2;2021-04-07 08:59:07;;definitive
-22120007;RN 12 LA VILLE CARIO;HILLION;48.5145374;-2.6666760186126;R;SP95;2;2024-01-23 20:42:57;;definitive
 77160003;15 Avenue du Maréchal de Lattre de Tassigny;Provins;48.559;3.309;R;GPLc;4;2018-12-30 10:17:40;;definitive
 77160003;15 Avenue du Maréchal de Lattre de Tassigny;Provins;48.559;3.309;R;SP95;2;2026-01-29 10:21:17;;definitive
+22120007;RN 12 LA VILLE CARIO;HILLION;48.5145374;-2.6666760186126;R;SP95;2;2024-01-23 20:42:57;;definitive
 89440001;9 Route de Dissangis;L'ISLE SUR SEREIN;47.591429000000005;4.002189;R;E85;3;2025-09-04 15:51:51;;definitive
 89440001;9 Route de Dissangis;L'ISLE SUR SEREIN;47.591429000000005;4.002189;R;GPLc;4;2025-09-04 15:51:51;;definitive
 89440001;9 Route de Dissangis;L'ISLE SUR SEREIN;47.591429000000005;4.002189;R;E10;5;2025-09-04 15:51:51;;definitive
