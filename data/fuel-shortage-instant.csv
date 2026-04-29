@@ -5398,6 +5398,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-28 14:01:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-28 14:17:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;Gazole;1;2026-04-28 14:17:00;;temporaire
+33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-28 14:17:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-28 16:23:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;Gazole;1;2026-04-28 16:23:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-28 17:49:00;;temporaire
@@ -5410,11 +5411,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-28 18:35:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;Gazole;1;2026-04-28 21:22:00;;temporaire
 33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-28 21:22:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;Gazole;1;2026-04-28 22:18:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-28 22:18:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;SP98;6;2026-04-28 22:18:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;E10;5;2026-04-28 22:33:00;;temporaire
-33520005;463 Route du Médoc;BRUGES;44.878;-0.624;R;Gazole;1;2026-04-28 22:33:00;;temporaire
 40270004;2 Avenue de Mont de Marsan;Grenade-sur-l'Adour;43.774;-0.432;R;E85;3;2018-09-19 08:56:10;;definitive
 40270004;2 Avenue de Mont de Marsan;Grenade-sur-l'Adour;43.774;-0.432;R;GPLc;4;2018-09-19 08:56:10;;definitive
 40270004;2 Avenue de Mont de Marsan;Grenade-sur-l'Adour;43.774;-0.432;R;E10;5;2018-09-19 08:56:11;;definitive
