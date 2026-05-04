@@ -13998,10 +13998,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83630003;Centre Commercial des CLOUOS, Route de Montmeyan;REGUSSE;43.6560537166;6.11974997415;R;SP95;2;2017-09-26 08:28:30;;definitive
 83630003;Centre Commercial des CLOUOS, Route de Montmeyan;REGUSSE;43.6560537166;6.11974997415;R;E85;3;2017-09-26 08:28:30;;definitive
 83630003;Centre Commercial des CLOUOS, Route de Montmeyan;REGUSSE;43.6560537166;6.11974997415;R;GPLc;4;2017-09-26 08:28:30;;definitive
-31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;E85;3;2022-03-10 15:16:42;;definitive
-31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;GPLc;4;2022-03-10 15:16:43;;definitive
-31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;SP95;2;2026-03-31 18:04:31;;definitive
-31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;SP98;6;2026-04-30 07:05:15;;temporaire
 64122001;RN 10;Urrugne;43.375;-1.679;R;E85;3;2017-09-05 09:00:22;;definitive
 64122001;RN 10;Urrugne;43.375;-1.679;R;GPLc;4;2017-09-05 09:00:23;;definitive
 12170004;80 Avenue d'Albi;Réquista;44.037;2.523;R;E85;3;2019-05-07 09:51:00;;definitive
@@ -14011,6 +14007,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76640004;Place Gaston Sanson;FAUVILLE-EN-CAUX;49.651;0.591;R;GPLc;4;2017-09-16 09:04:14;;definitive
 17450001;9 rue Dieu me Garde;FOURAS;45.99074;-1.0762;R;GPLc;4;2017-09-07 10:53:53;;definitive
 17450001;9 rue Dieu me Garde;FOURAS;45.99074;-1.0762;R;SP95;2;2020-06-11 10:47:36;;definitive
+31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;E85;3;2022-03-10 15:16:42;;definitive
+31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;GPLc;4;2022-03-10 15:16:43;;definitive
+31620002;Rue Jean Jaurès;BOULOC;43.781;1.405;R;SP95;2;2026-03-31 18:04:31;;definitive
 57530001;RN3 ZAC SAINT JEAN;COURCELLES-CHAUSSY;49.11;6.392;R;E85;3;2009-08-26 15:43:00;;
 57530001;RN3 ZAC SAINT JEAN;COURCELLES-CHAUSSY;49.11;6.392;R;GPLc;4;2009-08-26 15:43:00;;
 57530001;RN3 ZAC SAINT JEAN;COURCELLES-CHAUSSY;49.11;6.392;R;E85;3;2017-08-30 09:40:53;;definitive
@@ -21360,6 +21359,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 8460001;1 route de rocroi;signy l'abbaye;49.699763;4.4230659999999995;R;E10;5;2026-04-09 16:30:37;;temporaire
 8460001;1 route de rocroi;signy l'abbaye;49.699763;4.4230659999999995;R;SP98;6;2026-05-02 11:29:44;;temporaire
 89100017;17 boulevard de Verdun;SENS;48.204847767689;3.2890251042323;R;SP95;2;2025-07-18 09:52:50;;definitive
+44350007;2 impasse de Breninguen;Saint-Molf;47.39;-2.432;R;SP95;2;2023-05-31 16:44:48;;temporaire
+44350007;2 impasse de Breninguen;Saint-Molf;47.39;-2.432;R;GPLc;4;2024-02-14 11:35:37;;temporaire
 92000018;47 BLD DU HAVRE;NANTERRE;48.919;2.223;R;SP95;2;2022-11-04 16:52:43;;definitive
 92000018;47 BLD DU HAVRE;NANTERRE;48.919;2.223;R;SP98;6;2026-05-04 07:31:33;;temporaire
 37150003;5 Avenue du 11 Novembre 1918;BLéRé;47.325;1.004;R;SP95;2;2019-05-31 08:10:57;;definitive
@@ -21391,8 +21392,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;E85;3;2018-07-06 07:56:43;;definitive
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;GPLc;4;2018-07-06 07:56:43;;definitive
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;SP95;2;2018-12-20 16:34:03;;definitive
-44350007;2 impasse de Breninguen;Saint-Molf;47.39;-2.432;R;SP95;2;2023-05-31 16:44:48;;temporaire
-44350007;2 impasse de Breninguen;Saint-Molf;47.39;-2.432;R;GPLc;4;2024-02-14 11:35:37;;temporaire
 19140003;Lieu-dit les Paturaux;Uzerche;45.41736;1.58159;R;E85;3;2015-04-03 00:00:00;;
 19140003;Lieu-dit les Paturaux;Uzerche;45.41736;1.58159;R;E85;3;2017-09-02 06:39:30;;definitive
 19140003;Lieu-dit les Paturaux;Uzerche;45.41736;1.58159;R;GPLc;4;2017-09-02 06:39:30;;definitive
@@ -22473,14 +22472,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 79360001;1 impasse des Acacias;BEAUVOIR-SUR-NIORT;46.184;-0.472;R;SP98;6;2013-07-31 14:54:00;;
 79360001;1 impasse des Acacias;BEAUVOIR-SUR-NIORT;46.184;-0.472;R;GPLc;4;2017-08-30 17:41:30;;definitive
 79360001;1 impasse des Acacias;BEAUVOIR-SUR-NIORT;46.184;-0.472;R;SP98;6;2017-08-30 17:41:31;;definitive
+8000008;197 Avenue Carnot;Charleville-Mézières;49.746;4.727;R;GPLc;4;2017-10-04 05:37:24;;temporaire
+8000008;197 Avenue Carnot;Charleville-Mézières;49.746;4.727;R;SP95;2;2022-12-08 08:46:34;;temporaire
 75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;GPLc;4;2024-05-16 11:11:49;;temporaire
 75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;SP95;2;2024-05-03 16:48:27;;temporaire
 75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;Gazole;1;2024-09-30 15:39:27;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;E85;3;2026-05-04 11:29:39;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;E10;5;2026-05-04 11:29:39;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;SP98;6;2026-05-04 11:29:39;;temporaire
-8000008;197 Avenue Carnot;Charleville-Mézières;49.746;4.727;R;GPLc;4;2017-10-04 05:37:24;;temporaire
-8000008;197 Avenue Carnot;Charleville-Mézières;49.746;4.727;R;SP95;2;2022-12-08 08:46:34;;temporaire
 22360001;Rue Jules Verne;LANGUEUX;48.496;-2.728;R;GPLc;4;2017-10-28 08:46:04;;definitive
 36140002;La Combette;Aigurande;46.437;1.827;R;E85;3;2017-10-17 09:41:24;;definitive
 36140002;La Combette;Aigurande;46.437;1.827;R;GPLc;4;2017-10-17 09:41:25;;definitive
