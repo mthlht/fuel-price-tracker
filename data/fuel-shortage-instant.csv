@@ -7343,11 +7343,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 7100008;13-14 avenue Rhin Danube;ANNONAY;45.241;4.69;R;GPLc;4;2018-07-11 14:59:31;;definitive
 33260001;RUE LAGRUA;LA TESTE-DE-BUCH;44.641;-1.156;R;GPLc;4;2014-09-01 00:00:00;;
 33260001;RUE LAGRUA;LA TESTE-DE-BUCH;44.641;-1.156;R;SP95;2;2023-04-04 08:04:28;;temporaire
-43190002;za de leygat;TENCE;45.101;4.321;R;E85;3;2017-09-15 12:11:05;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;GPLc;4;2017-09-15 12:11:05;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;E10;5;2017-09-15 12:11:06;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;SP98;6;2017-09-15 12:11:06;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;SP95;2;2017-12-13 08:49:32;;definitive
 22230003; Rue Chanoine le Texier;MERDRIGNAC;48.19538;-2.41743;R;E85;3;2017-08-29 12:27:23;;definitive
 22230003; Rue Chanoine le Texier;MERDRIGNAC;48.19538;-2.41743;R;GPLc;4;2017-08-29 12:27:23;;definitive
 56450002;LA CROIX DE BONNERVAUD - RN 165;THEIX;47.64;-2.68;R;SP95;2;2018-02-08 19:44:58;;definitive
@@ -7361,6 +7356,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 40000001;19 Boulevard Yves Mainguy;MONT-DE-MARSAN;43.883;-0.482;R;E85;3;2017-11-28 12:45:47;;definitive
 40000001;19 Boulevard Yves Mainguy;MONT-DE-MARSAN;43.883;-0.482;R;GPLc;4;2017-11-28 12:45:47;;definitive
 40000001;19 Boulevard Yves Mainguy;MONT-DE-MARSAN;43.883;-0.482;R;SP95;2;2023-01-11 11:03:13;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;E85;3;2017-09-15 12:11:05;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;GPLc;4;2017-09-15 12:11:05;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;E10;5;2017-09-15 12:11:06;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;SP98;6;2017-09-15 12:11:06;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;SP95;2;2017-12-13 08:49:32;;definitive
 47200004;41 AVENUE GEORGES POMPIDOU;Marmande;44.508;0.191;R;SP95;2;2017-09-07 08:04:07;;definitive
 47200004;41 AVENUE GEORGES POMPIDOU;Marmande;44.508;0.191;R;E85;3;2017-09-07 08:04:07;;definitive
 47200004;41 AVENUE GEORGES POMPIDOU;Marmande;44.508;0.191;R;GPLc;4;2017-09-07 08:04:07;;definitive
