@@ -6778,10 +6778,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63700004;Rue Jean Moulin;Saint-Éloy-les-Mines;46.16;2.838;R;GPLc;4;2017-09-08 14:15:20;;definitive
 63700004;Rue Jean Moulin;Saint-Éloy-les-Mines;46.16;2.838;R;E85;3;2024-08-08 09:08:32;;definitive
 63700004;Rue Jean Moulin;Saint-Éloy-les-Mines;46.16;2.838;R;SP95;2;2024-11-15 09:44:36;;definitive
-35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;SP95;2;2020-10-17 19:29:19;;definitive
-35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;E85;3;2020-10-17 19:29:19;;definitive
-35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;GPLc;4;2020-10-17 19:29:19;;definitive
-35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;SP98;6;2026-04-29 08:34:28;;temporaire
 68580001;9,rue de Bâle;SEPPOIS-LE-HAUT;47.534;7.182;R;SP95;2;2017-09-07 11:32:58;;definitive
 68580001;9,rue de Bâle;SEPPOIS-LE-HAUT;47.534;7.182;R;E85;3;2017-09-07 11:32:58;;definitive
 68580001;9,rue de Bâle;SEPPOIS-LE-HAUT;47.534;7.182;R;GPLc;4;2017-09-07 11:32:59;;definitive
@@ -6790,6 +6786,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83470004;ROND POINT DE LA GENDARMERIE RN 7;Saint-Maximin-la-Sainte-Baume;43.446;5.865;R;SP95;2;2019-12-09 06:41:14;;definitive
 83470004;ROND POINT DE LA GENDARMERIE RN 7;Saint-Maximin-la-Sainte-Baume;43.446;5.865;R;GPLc;4;2019-12-09 06:41:14;;definitive
 72000022;362 AVENUE RHIN ET DANUBE;LE MANS;48.027;0.181;R;E10;5;2022-10-07 14:53:52;;definitive
+35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;SP95;2;2020-10-17 19:29:19;;definitive
+35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;E85;3;2020-10-17 19:29:19;;definitive
+35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;GPLc;4;2020-10-17 19:29:19;;definitive
+35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;SP98;6;2026-04-29 08:34:28;;temporaire
 54610001;Route de Nancy;NOMENY;48.88701;6.23214;R;E85;3;2017-09-05 07:32:56;;definitive
 54610001;Route de Nancy;NOMENY;48.88701;6.23214;R;GPLc;4;2017-09-05 07:32:56;;definitive
 54610001;Route de Nancy;NOMENY;48.88701;6.23214;R;SP95;2;2022-01-26 10:04:33;;temporaire
@@ -17728,11 +17728,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24200007;8 Avenue de Selves;SARLAT LA CANEDA;44.9;1.212;R;E85;3;2019-12-15 12:40:26;;definitive
 24200007;8 Avenue de Selves;SARLAT LA CANEDA;44.9;1.212;R;GPLc;4;2019-12-15 12:40:26;;definitive
 24200007;8 Avenue de Selves;SARLAT LA CANEDA;44.9;1.212;R;SP95;2;2026-01-20 18:52:36;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;E85;3;2018-02-19 18:46:15;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;GPLc;4;2018-02-19 18:46:15;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;SP95;2;2026-05-07 02:23:34;;definitive
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E85;3;2020-11-19 16:17:07;;definitive
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;GPLc;4;2020-11-19 16:17:08;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;E85;3;2018-02-19 18:46:15;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;GPLc;4;2018-02-19 18:46:15;;definitive
 63700007;2 route de Clermont Ferrand;St Eloy les Mines;46.161214900000004;2.8351164;R;SP95;2;2021-07-30 18:43:02;;definitive
 63700007;2 route de Clermont Ferrand;St Eloy les Mines;46.161214900000004;2.8351164;R;E85;3;2021-07-30 18:43:02;;definitive
 63700007;2 route de Clermont Ferrand;St Eloy les Mines;46.161214900000004;2.8351164;R;GPLc;4;2021-07-30 18:43:02;;definitive
@@ -20750,9 +20751,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 2860001;89 RUE PORTE DE LAON;Bruyères-et-Montbérault;49.532;3.653;R;SP95;2;2017-11-16 18:34:16;;definitive
 2860001;89 RUE PORTE DE LAON;Bruyères-et-Montbérault;49.532;3.653;R;E85;3;2017-11-16 18:34:16;;definitive
 2860001;89 RUE PORTE DE LAON;Bruyères-et-Montbérault;49.532;3.653;R;GPLc;4;2017-11-16 18:34:17;;definitive
-63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;SP95;2;2022-10-27 13:13:17;;temporaire
-63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;GPLc;4;2022-10-27 13:13:17;;temporaire
-63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;SP98;6;2026-05-02 13:42:22;;temporaire
 31500013;6 rue claudius Rougenet;Toulouse;43.598;1.486;R;SP95;2;2024-02-06 09:29:42;;definitive
 31500013;6 rue claudius Rougenet;Toulouse;43.598;1.486;R;GPLc;4;2019-10-29 09:55:10;;definitive
 31500013;6 rue claudius Rougenet;Toulouse;43.598;1.486;R;E85;3;2019-10-29 09:55:10;;definitive
@@ -20762,6 +20760,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 53410001;Route de Laval;LE BOURGNEUF-LA-FORêT;48.161;-0.968;R;E85;3;2017-08-31 09:40:25;;definitive
 53410001;Route de Laval;LE BOURGNEUF-LA-FORêT;48.161;-0.968;R;GPLc;4;2017-08-31 09:40:25;;definitive
 53410001;Route de Laval;LE BOURGNEUF-LA-FORêT;48.161;-0.968;R;E10;5;2017-08-31 09:40:25;;definitive
+63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;SP95;2;2022-10-27 13:13:17;;temporaire
+63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;GPLc;4;2022-10-27 13:13:17;;temporaire
+63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;SP98;6;2026-05-02 13:42:22;;temporaire
 1500007;CENTRE COMMERCIAL DE L'AVIATIONRAIS;Ambérieu-en-Bugey;45.972;5.338;R;SP95;2;2019-12-16 17:33:51;;definitive
 26300003;1005 AV. CHARLES DE GAULLE;Chatuzange-le-Goubet;45.037;5.07;R;E85;3;2011-11-18 09:56:00;;
 26300003;1005 AV. CHARLES DE GAULLE;Chatuzange-le-Goubet;45.037;5.07;R;SP95;2;2014-02-05 11:21:00;;
@@ -21264,9 +21265,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 52500001;39 Route de Vesoul;FAYL-BILLOT;47.784;5.615;R;E85;3;2017-09-09 09:56:07;;definitive
 52500001;39 Route de Vesoul;FAYL-BILLOT;47.784;5.615;R;GPLc;4;2017-09-09 09:56:07;;definitive
 52500001;39 Route de Vesoul;FAYL-BILLOT;47.784;5.615;R;E10;5;2017-09-09 09:56:08;;definitive
-44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;SP95;2;2013-10-01 00:52:00;;
-44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;SP95;2;2017-09-01 19:41:18;;definitive
-44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;GPLc;4;2017-09-01 19:41:19;;definitive
 39000010;Rue Des Salines;LONS LE SAUNIER;46.674094018411004;5.5395137771469996;R;E85;3;2024-12-05 15:53:38;;definitive
 39000010;Rue Des Salines;LONS LE SAUNIER;46.674094018411004;5.5395137771469996;R;SP95;2;2025-04-03 08:33:32;;definitive
 2000013;RUE DU DOCTEUR MENU;LAON;49.561343;3.6409990000000003;R;GPLc;4;2025-11-04 13:06:18;;temporaire
@@ -21286,6 +21284,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 65230003;11 route du Gers;Castelnau Magnoac;43.299;0.518;R;GPLc;4;2026-03-23 22:21:47;;definitive
 65230003;11 route du Gers;Castelnau Magnoac;43.299;0.518;R;E10;5;2026-03-23 22:21:47;;definitive
 65230003;11 route du Gers;Castelnau Magnoac;43.299;0.518;R;SP98;6;2026-03-23 22:21:47;;definitive
+44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;SP95;2;2013-10-01 00:52:00;;
+44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;SP95;2;2017-09-01 19:41:18;;definitive
+44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;GPLc;4;2017-09-01 19:41:19;;definitive
 69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP95;2;2024-02-14 18:46:57;;definitive
 69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;GPLc;4;2024-02-14 18:46:57;;definitive
 69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP98;6;2024-02-14 18:46:57;;definitive
