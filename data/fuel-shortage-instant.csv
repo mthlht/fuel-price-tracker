@@ -12851,6 +12851,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 17740001;CD201;Sainte-Marie-de-Ré;46.158;-1.324;R;E85;3;2018-02-23 15:14:28;;definitive
 17740001;CD201;Sainte-Marie-de-Ré;46.158;-1.324;R;SP95;2;2018-06-01 12:44:05;;temporaire
 17740001;CD201;Sainte-Marie-de-Ré;46.158;-1.324;R;SP98;6;2026-05-08 17:23:57;;temporaire
+17740001;CD201;Sainte-Marie-de-Ré;46.158;-1.324;R;E10;5;2026-05-15 00:45:59;;temporaire
 26790006;87, Route De Bouchet;Suze La Rousse;44.29;4.852;R;E85;3;2021-12-13 16:22:13;;definitive
 26790006;87, Route De Bouchet;Suze La Rousse;44.29;4.852;R;GPLc;4;2021-12-13 16:22:14;;definitive
 26790006;87, Route De Bouchet;Suze La Rousse;44.29;4.852;R;E10;5;2021-12-13 16:22:14;;definitive
@@ -18239,10 +18240,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 69150004;397 avenue jean jaures;Décines-Charpieu;45.772;4.98;R;E85;3;2026-05-08 19:36:01;;temporaire
 26600015;49 AVENUE DU PRESIDENT ROOSEVELT;Tain-l'Hermitage;45.068;4.848;R;SP95;2;2024-06-11 13:31:00;;definitive
 26600015;49 AVENUE DU PRESIDENT ROOSEVELT;Tain-l'Hermitage;45.068;4.848;R;GPLc;4;2024-06-11 13:31:00;;definitive
-71260005;RD 906;Fleurville;46.445;4.885;R;SP95;2;2017-09-04 09:27:13;;definitive
-71260005;RD 906;Fleurville;46.445;4.885;R;GPLc;4;2017-09-04 09:27:13;;definitive
-71260005;RD 906;Fleurville;46.445;4.885;R;E10;5;2026-05-14 15:29:04;;temporaire
-71260005;RD 906;Fleurville;46.445;4.885;R;SP98;6;2026-05-14 15:29:04;;temporaire
 87270005;187 Avenue de Limoges;COUZEIX;45.879;1.238;R;SP95;2;2024-05-21 15:52:18;;definitive
 87270005;187 Avenue de Limoges;COUZEIX;45.879;1.238;R;GPLc;4;2024-05-21 15:52:19;;definitive
 87270005;187 Avenue de Limoges;COUZEIX;45.879;1.238;R;E85;3;2026-03-05 08:27:17;;temporaire
@@ -18260,6 +18257,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68110006;77 AVENUE DE FRIBOURG;ILLZACH;47.768;7.387;R;Gazole;1;2026-05-12 13:22:59;;temporaire
 68110006;77 AVENUE DE FRIBOURG;ILLZACH;47.768;7.387;R;E10;5;2026-05-13 08:36:59;;temporaire
 59720001;Rue Jules Stephenne;LOUVROIL;50.254;3.937;R;SP95;2;2023-05-25 10:13:48;;temporaire
+71260005;RD 906;Fleurville;46.445;4.885;R;SP95;2;2017-09-04 09:27:13;;definitive
+71260005;RD 906;Fleurville;46.445;4.885;R;GPLc;4;2017-09-04 09:27:13;;definitive
+71260005;RD 906;Fleurville;46.445;4.885;R;E10;5;2026-05-14 15:29:04;;temporaire
+71260005;RD 906;Fleurville;46.445;4.885;R;SP98;6;2026-05-14 15:29:04;;temporaire
+71260005;RD 906;Fleurville;46.445;4.885;R;Gazole;1;2026-05-15 00:00:03;;temporaire
 50700004;Route de Montebourg - La Victoire;VALOGNES;49.502;-1.456;R;E85;3;2017-09-01 10:57:02;;definitive
 50700004;Route de Montebourg - La Victoire;VALOGNES;49.502;-1.456;R;GPLc;4;2017-09-01 10:57:03;;definitive
 62131001;D 937 ZAC DU BEAUPRE;VERQUIN;50.502;2.652;R;SP95;2;2020-06-16 14:21:46;;definitive
