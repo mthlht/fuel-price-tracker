@@ -19552,6 +19552,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 11000016;ZI PONT ROUGE;CARCASSONNE;43.236;2.369;R;SP95;2;2019-05-22 11:56:58;;definitive
 93240001;80 BOULEVARD MAXIME GORKI;STAINS;48.949;2.385;R;GPLc;4;2010-09-27 18:16:00;;
 93240001;80 BOULEVARD MAXIME GORKI;STAINS;48.949;2.385;R;GPLc;4;2017-08-30 09:33:49;;definitive
+50300005;Avenue du Quesnoy;AVRANCHES;48.678;-1.351;R;GPLc;4;2017-09-01 11:01:41;;definitive
+50300005;Avenue du Quesnoy;AVRANCHES;48.678;-1.351;R;SP95;2;2021-05-03 17:58:24;;definitive
+50300005;Avenue du Quesnoy;AVRANCHES;48.678;-1.351;R;SP98;6;2022-06-23 12:21:20;;definitive
 1500001;Rue Alexandre Bérard;Ambérieu-en-Bugey;45.962439754254;5.3590707856714;R;SP95;2;2022-10-21 13:37:04;;temporaire
 1500001;Rue Alexandre Bérard;Ambérieu-en-Bugey;45.962439754254;5.3590707856714;R;E85;3;2026-02-10 17:20:32;;temporaire
 1500001;Rue Alexandre Bérard;Ambérieu-en-Bugey;45.962439754254;5.3590707856714;R;GPLc;4;2026-02-10 17:20:32;;temporaire
@@ -19576,9 +19579,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59650002;140 Rue Jean Jaurès;Villeneuve-d'Ascq;50.6648;3.14041;R;E85;3;2026-04-10 11:39:52;;temporaire
 59650002;140 Rue Jean Jaurès;Villeneuve-d'Ascq;50.6648;3.14041;R;E10;5;2026-04-10 11:39:52;;temporaire
 59650002;140 Rue Jean Jaurès;Villeneuve-d'Ascq;50.6648;3.14041;R;SP98;6;2026-04-10 11:39:53;;temporaire
-50300005;Avenue du Quesnoy;AVRANCHES;48.678;-1.351;R;GPLc;4;2017-09-01 11:01:41;;definitive
-50300005;Avenue du Quesnoy;AVRANCHES;48.678;-1.351;R;SP95;2;2021-05-03 17:58:24;;definitive
-50300005;Avenue du Quesnoy;AVRANCHES;48.678;-1.351;R;SP98;6;2022-06-23 12:21:20;;definitive
 2400004;Z.I rue de la Plaine;CHÂTEAU-THIERRY;49.037;3.39;R;GPLc;4;2017-08-30 14:20:21;;definitive
 2400004;Z.I rue de la Plaine;CHÂTEAU-THIERRY;49.037;3.39;R;SP98;6;2017-08-30 14:20:22;;definitive
 2400004;Z.I rue de la Plaine;CHÂTEAU-THIERRY;49.037;3.39;R;SP95;2;2022-04-04 10:28:25;;definitive
