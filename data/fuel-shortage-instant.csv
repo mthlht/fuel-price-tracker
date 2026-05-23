@@ -2907,13 +2907,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 81370002;102 Route de Lavaur;Saint-Sulpice-la-Pointe;43.76664;1.69252;R;E85;3;2025-10-30 17:01:27;;temporaire
 81370002;102 Route de Lavaur;Saint-Sulpice-la-Pointe;43.76664;1.69252;R;SP98;6;2025-10-30 17:01:27;;temporaire
 92210009;65 QUAI MARCEL DASSAULT;Saint-Cloud;48.855;2.223;R;SP95;2;2025-08-25 16:08:02;;definitive
+70120002;Place du 15 Juin 1940;Combeaufontaine;47.712;5.888;R;E85;3;2017-09-08 16:41:55;;definitive
+70120002;Place du 15 Juin 1940;Combeaufontaine;47.712;5.888;R;GPLc;4;2017-09-08 16:41:55;;definitive
+70120002;Place du 15 Juin 1940;Combeaufontaine;47.712;5.888;R;E10;5;2017-09-08 16:41:55;;definitive
 31310004;21 ROUTE DE CARBONNE;RIEUX-VOLVESTRE;43.264;1.194;R;E85;3;2017-10-19 11:12:12;;definitive
 31310004;21 ROUTE DE CARBONNE;RIEUX-VOLVESTRE;43.264;1.194;R;GPLc;4;2017-10-19 11:12:12;;definitive
 31310004;21 ROUTE DE CARBONNE;RIEUX-VOLVESTRE;43.264;1.194;R;SP95;2;2021-03-22 17:13:12;;definitive
 31310004;21 ROUTE DE CARBONNE;RIEUX-VOLVESTRE;43.264;1.194;R;SP98;6;2026-01-23 13:32:56;;definitive
-70120002;Place du 15 Juin 1940;Combeaufontaine;47.712;5.888;R;E85;3;2017-09-08 16:41:55;;definitive
-70120002;Place du 15 Juin 1940;Combeaufontaine;47.712;5.888;R;GPLc;4;2017-09-08 16:41:55;;definitive
-70120002;Place du 15 Juin 1940;Combeaufontaine;47.712;5.888;R;E10;5;2017-09-08 16:41:55;;definitive
 49110004;2 B Avenue de l'Evre;Montrevault sur Evre;47.262;-1.038;R;SP95;2;2022-07-08 10:04:44;;definitive
 49110004;2 B Avenue de l'Evre;Montrevault sur Evre;47.262;-1.038;R;GPLc;4;2022-07-08 10:04:44;;definitive
 33250004;21 Rue de la République;PAUILLAC;45.201;-0.75;R;E85;3;2017-11-22 12:58:26;;definitive
@@ -7863,6 +7863,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 8130004;5 ROUTE DE CHARLEVILLE;Attigny;49.485;4.581;R;SP95;2;2026-05-15 07:21:29;;definitive
 8130004;5 ROUTE DE CHARLEVILLE;Attigny;49.485;4.581;R;E85;3;2026-05-15 07:21:29;;definitive
 8130004;5 ROUTE DE CHARLEVILLE;Attigny;49.485;4.581;R;GPLc;4;2026-05-15 07:21:29;;definitive
+8130004;5 ROUTE DE CHARLEVILLE;Attigny;49.485;4.581;R;Gazole;1;2026-05-23 22:35:47;;temporaire
+8130004;5 ROUTE DE CHARLEVILLE;Attigny;49.485;4.581;R;E10;5;2026-05-23 22:35:47;;temporaire
+8130004;5 ROUTE DE CHARLEVILLE;Attigny;49.485;4.581;R;SP98;6;2026-05-23 22:35:47;;temporaire
 34490001;Rue de la Carrièrasse;Thézan-lès-Béziers;43.421;3.161;R;GPLc;4;2017-09-30 08:06:11;;definitive
 34490001;Rue de la Carrièrasse;Thézan-lès-Béziers;43.421;3.161;R;SP95;2;2022-09-28 19:02:22;;definitive
 87100007;86 Rue Abbe Pierre;LIMOGES;45.838;1.219;R;GPLc;4;2017-09-02 13:51:15;;definitive
@@ -21836,13 +21839,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 15300007;38 route du lioran;USSEL;45.079;2.937;R;SP98;6;2022-02-15 17:20:50;;definitive
 15300007;38 route du lioran;USSEL;45.079;2.937;R;E10;5;2023-04-26 18:54:50;;definitive
 13600024;1045 AVENUE ÉMILE BODIN;LA CIOTAT;43.193;5.6;R;SP95;2;2025-01-07 14:29:37;;definitive
+48300006;AV. MARECHAL FOCH;LANGOGNE;44.72842;3.85645;R;SP98;6;2026-05-17 15:08:40;;temporaire
 54500007;R.N.57 LE DERNIER SOU;Vandoeuvre-lès-nancy;48.655;6.186;R;SP95;2;2022-11-29 09:10:11;;definitive
 54500007;R.N.57 LE DERNIER SOU;Vandoeuvre-lès-nancy;48.655;6.186;R;GPLc;4;2026-05-18 13:20:20;;temporaire
 6910002;5 route de Sigale;Roquesteron;43.874;7.004;R;SP95;2;2025-01-11 16:00:13;;definitive
 6910002;5 route de Sigale;Roquesteron;43.874;7.004;R;E85;3;2025-01-11 16:00:13;;definitive
 6910002;5 route de Sigale;Roquesteron;43.874;7.004;R;GPLc;4;2025-01-11 16:00:13;;definitive
 6910002;5 route de Sigale;Roquesteron;43.874;7.004;R;E10;5;2025-01-11 16:00:13;;definitive
-48300006;AV. MARECHAL FOCH;LANGOGNE;44.72842;3.85645;R;SP98;6;2026-05-17 15:08:40;;temporaire
 59501001;345 Boulevard Louis Breguet;Douai;50.381;3.085;R;GPLc;4;2017-09-04 11:14:22;;definitive
 59501001;345 Boulevard Louis Breguet;Douai;50.381;3.085;R;SP95;2;2023-09-12 08:44:29;;definitive
 17102001;cours du Maréchal Leclerc;SAINTES;45.756247447199996;-0.65210476871;R;SP95;2;2025-01-24 11:25:12;;definitive
