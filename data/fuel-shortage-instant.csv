@@ -5352,7 +5352,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;E85;3;2017-09-19 18:45:19;;definitive
 17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;SP95;2;2017-09-29 18:49:36;;definitive
 17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;GPLc;4;2017-09-29 18:49:37;;definitive
-17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;SP98;6;2026-05-26 07:05:49;;temporaire
 35370002;8 rue des Sports;Argentré-du-Plessis;48.06;-1.152;R;E85;3;2017-09-06 17:56:10;;definitive
 35370002;8 rue des Sports;Argentré-du-Plessis;48.06;-1.152;R;GPLc;4;2017-09-06 17:56:10;;definitive
 35370002;8 rue des Sports;Argentré-du-Plessis;48.06;-1.152;R;SP95;2;2023-08-17 17:59:01;;definitive
@@ -23087,6 +23086,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38680001;Quartier Clairivaux;Saint-Just-de-Claix;45.064875311603;5.2674007162912;R;GPLc;4;2026-03-31 15:15:42;;temporaire
 38680001;Quartier Clairivaux;Saint-Just-de-Claix;45.064875311603;5.2674007162912;R;SP98;6;2026-03-31 15:15:42;;temporaire
 38680001;Quartier Clairivaux;Saint-Just-de-Claix;45.064875311603;5.2674007162912;R;E85;3;2026-04-17 16:54:13;;temporaire
+6800020;RN.7 COTE HIPPODROME;Cagnes-sur-Mer;43.654;7.148;R;SP95;2;2018-12-06 10:18:07;;definitive
+6800020;RN.7 COTE HIPPODROME;Cagnes-sur-Mer;43.654;7.148;R;E85;3;2018-12-06 10:18:07;;definitive
+6800020;RN.7 COTE HIPPODROME;Cagnes-sur-Mer;43.654;7.148;R;GPLc;4;2018-12-06 10:18:08;;definitive
 12170001;28 Avenue de la Vallée du Tarn;REQUISTA;44.029;2.534;R;E85;3;2017-08-31 15:52:44;;definitive
 12170001;28 Avenue de la Vallée du Tarn;REQUISTA;44.029;2.534;R;SP98;6;2017-08-31 15:52:45;;definitive
 12170001;28 Avenue de la Vallée du Tarn;REQUISTA;44.029;2.534;R;GPLc;4;2017-09-29 10:33:11;;definitive
@@ -23111,9 +23113,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 51700007;60 RUE DU DOCTEUR MORET;DORMANS;49.081;3.65;R;E85;3;2022-05-14 09:36:16;;definitive
 51700007;60 RUE DU DOCTEUR MORET;DORMANS;49.081;3.65;R;GPLc;4;2022-05-14 09:36:16;;definitive
 51700007;60 RUE DU DOCTEUR MORET;DORMANS;49.081;3.65;R;SP95;2;2026-02-12 14:49:43;;definitive
-6800020;RN.7 COTE HIPPODROME;Cagnes-sur-Mer;43.654;7.148;R;SP95;2;2018-12-06 10:18:07;;definitive
-6800020;RN.7 COTE HIPPODROME;Cagnes-sur-Mer;43.654;7.148;R;E85;3;2018-12-06 10:18:07;;definitive
-6800020;RN.7 COTE HIPPODROME;Cagnes-sur-Mer;43.654;7.148;R;GPLc;4;2018-12-06 10:18:08;;definitive
 59100011;660 AVENUE DES NATIONS UNIES;ROUBAIX;50.698;3.166;R;E85;3;2026-05-22 12:45:55;;temporaire
 21190002;Route du Pont de Paris;CORPEAU;46.92;4.753;R;SP95;2;2021-08-04 09:27:59;;definitive
 21190002;Route du Pont de Paris;CORPEAU;46.92;4.753;R;E85;3;2017-12-02 10:51:19;;definitive
