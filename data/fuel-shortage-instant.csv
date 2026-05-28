@@ -30,6 +30,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 56580001;16 rue chateaubriand;Bréhan;48.061;-2.69;R;E85;3;2020-02-05 05:48:52;;definitive
 92230008;192 Avenue Louis Roche;GENNEVILLIERS;48.9327;2.3044;R;E85;3;2018-11-02 12:13:02;;definitive
 92230008;192 Avenue Louis Roche;GENNEVILLIERS;48.9327;2.3044;R;GPLc;4;2018-11-02 12:13:03;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E85;3;2017-09-15 12:11:43;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;GPLc;4;2017-09-15 12:11:43;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E10;5;2017-09-15 12:11:44;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;SP98;6;2017-09-15 12:11:44;;definitive
 59550001;Boulevard des Résistants;LANDRECIES;50.124;3.689;R;E85;3;2017-08-31 09:02:25;;definitive
 59550001;Boulevard des Résistants;LANDRECIES;50.124;3.689;R;GPLc;4;2017-08-31 09:02:25;;definitive
 59550001;Boulevard des Résistants;LANDRECIES;50.124;3.689;R;SP95;2;2023-12-16 09:57:32;;definitive
@@ -44,10 +48,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 4170002;RN 202;SAINT-ANDRé-LES-ALPES;43.967;6.507;R;E85;3;2016-06-01 00:00:00;;
 4170002;RN 202;SAINT-ANDRé-LES-ALPES;43.967;6.507;R;GPLc;4;2025-08-07 16:24:09;;definitive
 4170002;RN 202;SAINT-ANDRé-LES-ALPES;43.967;6.507;R;E10;5;2025-08-07 16:24:09;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E85;3;2017-09-15 12:11:43;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;GPLc;4;2017-09-15 12:11:43;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E10;5;2017-09-15 12:11:44;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;SP98;6;2017-09-15 12:11:44;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;E85;3;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;GPLc;4;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;SP95;2;2024-01-25 06:43:16;;definitive
@@ -6405,8 +6405,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59540003;Boulevard du 19 Mars 1962;CAUDRY;50.113;3.416;R;GPLc;4;2017-08-31 08:04:23;;definitive
 59540003;Boulevard du 19 Mars 1962;CAUDRY;50.113;3.416;R;SP98;6;2017-08-31 08:04:23;;definitive
 59540003;Boulevard du 19 Mars 1962;CAUDRY;50.113;3.416;R;E10;5;2022-09-30 15:51:36;;definitive
-44340006;CD 723 - ZI DE CHEVIRE;BOUGUENAIS;47.186;-1.602;R;SP95;2;2018-11-13 10:05:50;;definitive
-44340006;CD 723 - ZI DE CHEVIRE;BOUGUENAIS;47.186;-1.602;R;GPLc;4;2018-11-13 10:05:52;;definitive
 92100010;16 Avenue André Morizet;Boulogne-Billancourt;48.83468;2.24193;R;E85;3;2023-04-24 18:53:18;;definitive
 92100010;16 Avenue André Morizet;Boulogne-Billancourt;48.83468;2.24193;R;GPLc;4;2023-04-24 18:53:18;;definitive
 92100010;16 Avenue André Morizet;Boulogne-Billancourt;48.83468;2.24193;R;E10;5;2023-04-24 18:53:18;;definitive
@@ -6541,6 +6539,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 77120004;RN 34;Mouroux;48.81675;3.05222;R;GPLc;4;2017-11-10 08:42:07;;temporaire
 77120004;RN 34;Mouroux;48.81675;3.05222;R;E10;5;2024-09-04 14:33:45;;temporaire
 28000007;Route de Patay;CHARTRES;48.4324014794;1.49271484815;R;GPLc;4;2021-08-11 13:44:06;;definitive
+44340006;CD 723 - ZI DE CHEVIRE;BOUGUENAIS;47.186;-1.602;R;SP95;2;2018-11-13 10:05:50;;definitive
+44340006;CD 723 - ZI DE CHEVIRE;BOUGUENAIS;47.186;-1.602;R;GPLc;4;2018-11-13 10:05:52;;definitive
+44340006;CD 723 - ZI DE CHEVIRE;BOUGUENAIS;47.186;-1.602;R;SP98;6;2026-05-28 00:04:38;;temporaire
 62400003;Rue du 11 Novembre;ESSARS;50.54721;2.66418;R;E85;3;2017-09-05 09:33:14;;definitive
 62400003;Rue du 11 Novembre;ESSARS;50.54721;2.66418;R;GPLc;4;2017-09-05 09:33:15;;definitive
 62400003;Rue du 11 Novembre;ESSARS;50.54721;2.66418;R;SP95;2;2026-03-13 17:38:42;;definitive
@@ -8969,10 +8970,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13112005;672 Route des vignerons;LA DESTROUSSE;43.384;5.602;R;GPLc;4;2017-09-28 16:07:25;;definitive
 13120001;Petit Chemin d'Aix;Gardanne;43.465;5.464;R;GPLc;4;2018-06-04 10:03:54;;definitive
 13120001;Petit Chemin d'Aix;Gardanne;43.465;5.464;R;SP95;2;2024-05-13 16:18:34;;temporaire
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP95;2;2021-10-04 10:48:22;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;E85;3;2021-10-04 10:48:22;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;GPLc;4;2022-12-07 18:37:25;;definitive
-69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP98;6;2026-05-17 15:08:30;;definitive
 64310001;RD 918 ZAC de Lizardia II - Quartier Ibarron;SAINT-PEE-SUR-NIVELLE;43.359;-1.575;R;GPLc;4;2017-09-01 08:43:19;;definitive
 64310001;RD 918 ZAC de Lizardia II - Quartier Ibarron;SAINT-PEE-SUR-NIVELLE;43.359;-1.575;R;SP95;2;2020-07-07 18:09:00;;definitive
 49130004;Rue des maisons rouges;LES PONTS-DE-Cé;47.437;-0.514;R;E85;3;2017-09-15 08:00:38;;definitive
@@ -8992,6 +8989,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 1100002;Rue Brillat-Savarin;OYONNAX;46.25;5.644;R;E85;3;2022-03-02 16:12:58;;definitive
 1100002;Rue Brillat-Savarin;OYONNAX;46.25;5.644;R;GPLc;4;2022-03-02 16:12:58;;definitive
 1100002;Rue Brillat-Savarin;OYONNAX;46.25;5.644;R;E10;5;2022-03-02 16:12:58;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP95;2;2021-10-04 10:48:22;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;E85;3;2021-10-04 10:48:22;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;GPLc;4;2022-12-07 18:37:25;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;SP98;6;2026-05-17 15:08:30;;definitive
+69300011;Place Maréchal Foch - Montée des soldats;Caluire-et-Cuire;45.797;4.852;R;E10;5;2026-05-28 00:06:34;;definitive
 14110003;RUE ST JACQUES;condé en normandie;48.855034234699005;-0.54190441915746;R;E85;3;2019-10-15 08:38:19;;definitive
 14110003;RUE ST JACQUES;condé en normandie;48.855034234699005;-0.54190441915746;R;SP95;2;2022-10-24 08:15:41;;definitive
 14110003;RUE ST JACQUES;condé en normandie;48.855034234699005;-0.54190441915746;R;SP98;6;2026-05-27 16:49:43;;temporaire
@@ -22596,6 +22598,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 42540002;110 AVENUE DES GRANGES BLANCHES;SAINT JUST LA PENDUE;45.893264;4.23973;R;GPLc;4;2020-09-23 13:51:06;;definitive
 42540002;110 AVENUE DES GRANGES BLANCHES;SAINT JUST LA PENDUE;45.893264;4.23973;R;E10;5;2020-09-23 13:51:06;;definitive
 42540002;110 AVENUE DES GRANGES BLANCHES;SAINT JUST LA PENDUE;45.893264;4.23973;R;SP98;6;2020-09-23 13:51:06;;definitive
+31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;SP95;2;2022-03-01 21:39:12;;definitive
+31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;E85;3;2022-03-01 21:39:12;;definitive
+31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;GPLc;4;2022-03-01 21:39:12;;definitive
 86000012;10 rue de la Demi-Lune;POITIERS;46.597;0.322;R;SP95;2;2018-11-22 10:17:20;;definitive
 44360009;D17 - ROUTE DE COUERON;Saint-Étienne-de-Montluc;47.274;-1.78;R;SP95;2;2019-03-23 08:38:28;;definitive
 44360009;D17 - ROUTE DE COUERON;Saint-Étienne-de-Montluc;47.274;-1.78;R;E85;3;2019-03-23 08:38:28;;definitive
@@ -22606,10 +22611,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 80230006;208 ROUTE D'ABBEVILLE;SAINT VALERY SUR SOMME;50.173;1.656;R;SP95;2;2025-06-19 18:58:55;;definitive
 80230006;208 ROUTE D'ABBEVILLE;SAINT VALERY SUR SOMME;50.173;1.656;R;E85;3;2025-06-19 18:58:55;;definitive
 80230006;208 ROUTE D'ABBEVILLE;SAINT VALERY SUR SOMME;50.173;1.656;R;GPLc;4;2025-06-19 18:58:55;;definitive
-31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;SP95;2;2022-03-01 21:39:12;;definitive
-31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;E85;3;2022-03-01 21:39:12;;definitive
-31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;GPLc;4;2022-03-01 21:39:12;;definitive
-31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;E10;5;2026-05-24 23:29:46;;temporaire
 51800014;6 BIS RUE DU POIRIER AUX LOUPS;SAINTE MENEHOULD;49.095920119844;4.9235629037049;R;SP95;2;2025-10-16 16:53:16;;definitive
 62136001;580 route de bethune;Lestrem;50.618;2.686;R;GPLc;4;2018-04-24 18:46:50;;definitive
 62136001;580 route de bethune;Lestrem;50.618;2.686;R;SP95;2;2018-11-29 14:50:18;;definitive
