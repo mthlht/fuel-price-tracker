@@ -8095,11 +8095,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33680001;RTE DE BORDEAUX;Lacanau;44.97654;-1.06739;R;SP98;6;2017-09-04 18:57:08;;definitive
 33680001;RTE DE BORDEAUX;Lacanau;44.97654;-1.06739;R;SP95;2;2022-10-29 09:07:38;;definitive
 33680001;RTE DE BORDEAUX;Lacanau;44.97654;-1.06739;R;E10;5;2026-05-29 14:07:48;;temporaire
+58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;SP95;2;2023-05-02 10:56:28;;definitive
+58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;GPLc;4;2023-05-02 10:56:28;;definitive
 25480001;6 Rue de Châtillon;ÉCOLE-VALENTIN;47.284;5.993;R;GPLc;4;2018-06-12 10:24:34;;definitive
 11000012;42 Boulevard Jean Jaurès;Carcassonne;43.216;2.355;R;GPLc;4;2012-01-31 15:54:00;;
 11000012;42 Boulevard Jean Jaurès;Carcassonne;43.216;2.355;R;E10;5;2012-01-31 15:54:00;;
-58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;SP95;2;2023-05-02 10:56:28;;definitive
-58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;GPLc;4;2023-05-02 10:56:28;;definitive
 57280003;A 31 Sortie Maizières les Metz;HAUCONCOURT;49.214;6.17;R;E85;3;2017-08-31 15:19:12;;definitive
 57280003;A 31 Sortie Maizières les Metz;HAUCONCOURT;49.214;6.17;R;SP98;6;2017-08-31 15:19:12;;definitive
 23300006;Avenue Jean Jaures;La Souterraine;46.238577409039;1.4792175194644;R;SP98;6;2019-06-28 05:30:05;;definitive
@@ -8128,12 +8128,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 86200003;Parc Commercial CareoLes Landes;Loudun;47.0;0.069;R;SP95;2;2022-06-17 12:05:42;;definitive
 86200003;Parc Commercial CareoLes Landes;Loudun;47.0;0.069;R;E85;3;2022-06-17 12:05:42;;definitive
 86200003;Parc Commercial CareoLes Landes;Loudun;47.0;0.069;R;GPLc;4;2022-06-17 12:05:42;;definitive
-66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;GPLc;4;2026-05-26 09:37:03;;definitive
-66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;SP95;2;2025-07-16 14:36:09;;definitive
-66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;SP98;6;2025-08-18 08:49:26;;definitive
 4160004;LE BELVEDERE - RN 96;Château-Arnoux-Saint-Auban;44.088;6.009;R;SP95;2;2025-12-11 17:23:57;;definitive
 67500003;88 Route de Bischwiller;HAGUENAU;48.803;7.812;R;GPLc;4;2018-01-04 08:27:50;;definitive
 67500003;88 Route de Bischwiller;HAGUENAU;48.803;7.812;R;SP95;2;2022-10-11 09:08:03;;definitive
+66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;GPLc;4;2026-05-26 09:37:03;;definitive
+66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;SP95;2;2025-07-16 14:36:09;;definitive
+66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;SP98;6;2025-08-18 08:49:26;;definitive
 21230005;Rue de l'Arquebuse;ARNAY-LE-DUC;47.131;4.49;R;E10;5;2019-10-25 15:45:03;;definitive
 21230005;Rue de l'Arquebuse;ARNAY-LE-DUC;47.131;4.49;R;E85;3;2024-10-05 07:29:42;;definitive
 21230005;Rue de l'Arquebuse;ARNAY-LE-DUC;47.131;4.49;R;GPLc;4;2024-10-05 07:30:13;;definitive
@@ -18480,10 +18480,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 4200003;route de Sisteron;PEIPIN;44.14295;5.95926;R;SP95;2;2026-04-18 08:47:59;;definitive
 31410004;ROUTE DE MAUZAC;LAVERNOSE-LACASSE;43.392;1.267;R;SP95;2;2017-09-01 11:52:01;;definitive
 31410004;ROUTE DE MAUZAC;LAVERNOSE-LACASSE;43.392;1.267;R;GPLc;4;2017-09-01 11:52:01;;definitive
-60000011;9 Avenue Montaigne;BEAUVAIS;49.41;2.109;R;E10;5;2017-09-04 09:49:27;;definitive
 66000021;AVENUE ANDRE TOURNE;PERPIGNAN;42.667;2.895;R;SP95;2;2022-03-08 11:24:20;;definitive
 66000021;AVENUE ANDRE TOURNE;PERPIGNAN;42.667;2.895;R;E85;3;2022-03-08 11:24:20;;definitive
 66000021;AVENUE ANDRE TOURNE;PERPIGNAN;42.667;2.895;R;GPLc;4;2022-03-08 11:24:20;;definitive
+60000011;9 Avenue Montaigne;BEAUVAIS;49.41;2.109;R;E10;5;2017-09-04 09:49:27;;definitive
 59600009;QUARTIER DE L'EPINETTE;Maubeuge;50.290083699991;3.9657730404875005;R;SP95;2;2024-02-23 10:30:14;;definitive
 59600009;QUARTIER DE L'EPINETTE;Maubeuge;50.290083699991;3.9657730404875005;R;E85;3;2024-02-23 10:30:14;;definitive
 59600009;QUARTIER DE L'EPINETTE;Maubeuge;50.290083699991;3.9657730404875005;R;GPLc;4;2024-02-23 10:30:14;;definitive
@@ -21760,10 +21760,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 85400008;les quatre chemins;Sainte-Gemme-la-Plaine;46.467;-1.109;R;SP98;6;2025-01-27 08:21:43;;definitive
 85400008;les quatre chemins;Sainte-Gemme-la-Plaine;46.467;-1.109;R;GPLc;4;2026-04-29 07:57:21;;definitive
 85400008;les quatre chemins;Sainte-Gemme-la-Plaine;46.467;-1.109;R;SP95;2;2026-05-25 08:04:27;;temporaire
-21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;GPLc;4;2018-10-08 17:24:53;;definitive
-21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;E10;5;2018-10-08 17:24:54;;definitive
-21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;SP98;6;2018-10-08 17:24:55;;definitive
-21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;E85;3;2018-10-08 17:24:53;;definitive
 13007001;13 Avenue Pasteur;Marseille;43.291;5.359;R;E85;3;2023-04-06 10:14:28;;temporaire
 13013019;1 chemin du chateau gombert;MARSEILLE;43.34;5.42;R;SP95;2;2024-06-26 14:23:21;;definitive
 13013019;1 chemin du chateau gombert;MARSEILLE;43.34;5.42;R;GPLc;4;2024-06-26 14:23:21;;definitive
@@ -21772,6 +21768,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24470001;Avenue Léon Sireyjol;Saint-Pardoux-la-Rivière;45.495;0.746;R;E85;3;2012-11-28 09:49:00;;
 24470001;Avenue Léon Sireyjol;Saint-Pardoux-la-Rivière;45.495;0.746;R;GPLc;4;2012-11-28 09:49:00;;
 24470001;Avenue Léon Sireyjol;Saint-Pardoux-la-Rivière;45.495;0.746;R;SP95;2;2026-02-18 11:14:19;;temporaire
+21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;GPLc;4;2018-10-08 17:24:53;;definitive
+21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;E10;5;2018-10-08 17:24:54;;definitive
+21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;SP98;6;2018-10-08 17:24:55;;definitive
+21250002;58 Faubourg St Georges;SEURRE;46.99;5.148;R;E85;3;2018-10-08 17:24:53;;definitive
 38590001;2 CHEMIN DE LA PIERRE ZONE COMMERCIALE;SAINT-ÉTIENNE-DE-SAINT-GEOIRS;45.354;5.334;R;GPLc;4;2017-08-29 15:02:52;;definitive
 38590001;2 CHEMIN DE LA PIERRE ZONE COMMERCIALE;SAINT-ÉTIENNE-DE-SAINT-GEOIRS;45.354;5.334;R;SP95;2;2023-09-05 11:35:57;;definitive
 1210003;Route de Meyrin;FERNEY-VOLTAIRE;46.244;6.095;R;GPLc;4;2017-09-27 08:13:52;;definitive
