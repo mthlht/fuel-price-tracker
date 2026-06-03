@@ -5153,6 +5153,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24620001;24 av de la Forge;Les Eyzies;44.935;1.02;R;GPLc;4;2025-07-13 09:57:38;;definitive
 24620001;24 av de la Forge;Les Eyzies;44.935;1.02;R;E10;5;2025-07-13 09:57:38;;definitive
 24620001;24 av de la Forge;Les Eyzies;44.935;1.02;R;SP98;6;2025-07-13 09:57:38;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;E85;3;2021-11-08 14:45:39;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;GPLc;4;2021-11-08 14:45:39;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;E10;5;2021-11-08 14:45:39;;definitive
@@ -5173,9 +5176,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 67000026;49 RTE DU RHIN;STRASBOURG;48.57287;7.78835;R;SP98;6;2020-12-19 08:46:11;;definitive
 67000026;49 RTE DU RHIN;STRASBOURG;48.57287;7.78835;R;Gazole;1;2026-04-30 17:10:04;;temporaire
 67000026;49 RTE DU RHIN;STRASBOURG;48.57287;7.78835;R;E10;5;2026-04-30 17:10:04;;temporaire
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
 31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;SP95;2;2020-10-19 16:05:57;;definitive
 31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;E85;3;2020-10-19 16:05:58;;definitive
 31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;GPLc;4;2020-10-19 16:05:58;;definitive
