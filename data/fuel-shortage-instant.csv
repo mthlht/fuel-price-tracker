@@ -17311,6 +17311,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 84500001;BP 24 QUARTIER LA DEVERASSE;BOLLèNE;44.288678396899996;4.74894670835;R;SP98;6;2020-07-13 17:08:24;;definitive
 16270003;122 Rue Nationale;Roumazières-Loubert;45.884;0.575;R;GPLc;4;2022-02-25 09:35:15;;definitive
 16270003;122 Rue Nationale;Roumazières-Loubert;45.884;0.575;R;SP95;2;2022-11-10 09:09:37;;definitive
+88500004; Avenue Maréchal de Lattre de Tassigny;MIRECOURT;48.29234;6.13127;R;E85;3;2017-09-26 18:33:29;;definitive
+88500004; Avenue Maréchal de Lattre de Tassigny;MIRECOURT;48.29234;6.13127;R;GPLc;4;2017-09-26 18:33:29;;definitive
+88500004; Avenue Maréchal de Lattre de Tassigny;MIRECOURT;48.29234;6.13127;R;SP95;2;2022-11-05 08:51:47;;definitive
 14500001;RTE DE CAEN;VIRE;48.853689160611;-0.88014229836738;R;E85;3;2017-09-21 07:47:15;;definitive
 14500001;RTE DE CAEN;VIRE;48.853689160611;-0.88014229836738;R;SP95;2;2025-11-03 07:25:24;;definitive
 39500006;Place du 1er mai;DAMPARIS;47.07224;5.41392;R;GPLc;4;2022-06-03 09:54:21;;definitive
@@ -17328,9 +17331,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33490004;2 rue des jésuites;Saint-Maixant;44.574980414883996;-0.25492902257619;R;E10;5;2022-05-13 06:39:09;;definitive
 13124003;A52 aire de Manon des sources;PEYPIN;43.4;5.576;A;SP95;2;2021-02-11 13:17:42;;definitive
 13124003;A52 aire de Manon des sources;PEYPIN;43.4;5.576;A;GPLc;4;2021-02-11 13:17:43;;definitive
-88500004; Avenue Maréchal de Lattre de Tassigny;MIRECOURT;48.29234;6.13127;R;E85;3;2017-09-26 18:33:29;;definitive
-88500004; Avenue Maréchal de Lattre de Tassigny;MIRECOURT;48.29234;6.13127;R;GPLc;4;2017-09-26 18:33:29;;definitive
-88500004; Avenue Maréchal de Lattre de Tassigny;MIRECOURT;48.29234;6.13127;R;SP95;2;2022-11-05 08:51:47;;definitive
 18700001;AVENUE EUGENE CASELLA;Aubigny-sur-Nère;47.475;2.423;R;E85;3;2018-11-21 14:56:31;;definitive
 18700001;AVENUE EUGENE CASELLA;Aubigny-sur-Nère;47.475;2.423;R;GPLc;4;2024-04-02 12:28:54;;definitive
 18700001;AVENUE EUGENE CASELLA;Aubigny-sur-Nère;47.475;2.423;R;SP95;2;2026-05-29 10:23:28;;definitive
