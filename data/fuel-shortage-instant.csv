@@ -2529,6 +2529,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 71380003;5 rue du curtil canot;Saint-Marcel;46.7775404;4.8966289000000005;R;GPLc;4;2023-04-12 18:28:29;;definitive
 71380003;5 rue du curtil canot;Saint-Marcel;46.7775404;4.8966289000000005;R;E10;5;2023-04-12 18:28:29;;definitive
 71380003;5 rue du curtil canot;Saint-Marcel;46.7775404;4.8966289000000005;R;Gazole;1;2026-05-28 17:04:30;;temporaire
+78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;SP95;2;2023-03-29 14:33:33;;definitive
+78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;GPLc;4;2024-06-26 20:46:44;;definitive
 20144003;LIEU DIT MOLENDINU;ste lucie de porto vecchio;41.7;9.348;R;E85;3;2020-07-17 11:17:04;;definitive
 81200002;RD 112;AUSSILLON;43.511538214165;2.3759665502905998;R;SP98;6;2025-08-12 07:37:43;;temporaire
 44470007;6 rue joseph cugnot;Carquefou;47.295949;-1.484173;R;E85;3;2026-05-18 10:00:24;;definitive
@@ -2539,8 +2541,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63201001;Route de Volvic;ENVAL;45.888;3.069;R;E85;3;2019-09-24 11:05:35;;definitive
 51110006;46 rue Jean Jaurès;Bazancourt;49.362;4.176;R;GPLc;4;2023-10-28 07:51:53;;definitive
 51110006;46 rue Jean Jaurès;Bazancourt;49.362;4.176;R;E10;5;2023-10-28 07:51:53;;definitive
-78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;SP95;2;2023-03-29 14:33:33;;definitive
-78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;GPLc;4;2024-06-26 20:46:44;;definitive
 61230007;40 route d'Alençon;Gacé;48.785057169822;0.29557538992625;R;SP95;2;2024-01-12 17:55:11;;definitive
 61230007;40 route d'Alençon;Gacé;48.785057169822;0.29557538992625;R;GPLc;4;2024-01-12 17:55:11;;definitive
 13112003;Chemin des Matelots;LA DESTROUSSE;43.39;5.596;R;E85;3;2017-12-12 11:46:22;;definitive
@@ -13096,6 +13096,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 84140007;4316 RTE DE MARSEILLE;MONTFAVET;43.907;4.89;R;SP95;2;2018-12-05 14:47:13;;definitive
 84140007;4316 RTE DE MARSEILLE;MONTFAVET;43.907;4.89;R;E85;3;2018-12-05 14:47:13;;definitive
 84140007;4316 RTE DE MARSEILLE;MONTFAVET;43.907;4.89;R;GPLc;4;2018-12-05 14:47:13;;definitive
+84140007;4316 RTE DE MARSEILLE;MONTFAVET;43.907;4.89;R;Gazole;1;2026-06-06 22:05:57;;temporaire
+84140007;4316 RTE DE MARSEILLE;MONTFAVET;43.907;4.89;R;E10;5;2026-06-06 22:05:58;;temporaire
+84140007;4316 RTE DE MARSEILLE;MONTFAVET;43.907;4.89;R;SP98;6;2026-06-06 22:05:58;;temporaire
 89400001;Rue Pierre et Marie Curie;MIGENNES;47.962;3.505;R;E85;3;2022-07-07 10:43:17;;definitive
 89400001;Rue Pierre et Marie Curie;MIGENNES;47.962;3.505;R;GPLc;4;2022-07-07 10:43:17;;definitive
 89400001;Rue Pierre et Marie Curie;MIGENNES;47.962;3.505;R;E10;5;2022-07-07 10:43:17;;definitive
@@ -14449,10 +14452,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 71140001;ROUTE DE MOULINS;BOURBON-LANCY;46.623;3.761;R;GPLc;4;2022-04-15 11:39:24;;definitive
 44460001;Avenue Jean Burel;Saint-Nicolas-de-Redon;47.647;-2.078;R;SP95;2;2019-09-23 08:53:00;;definitive
 91160009;31 ROUTE D'ORLEANS;BALLAINVILLIERS;48.677;2.282;R;SP95;2;2022-10-22 19:36:30;;definitive
-47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;E85;3;2017-09-10 16:38:39;;definitive
-47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;GPLc;4;2017-09-10 16:38:39;;definitive
-47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;E10;5;2017-09-10 16:38:40;;definitive
-47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;SP98;6;2026-05-18 11:17:01;;definitive
 60870003;ROCADE INDUSTRIELLE;Villers-Saint-Paul;49.284;2.492;R;SP98;6;2026-05-26 06:44:52;;temporaire
 24310003;Avenue du 8 mai 1945;Brantôme;45.35705;0.652914;R;E85;3;2022-08-26 11:12:05;;definitive
 24310003;Avenue du 8 mai 1945;Brantôme;45.35705;0.652914;R;GPLc;4;2022-08-26 11:12:05;;definitive
@@ -14466,6 +14465,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31150007;Lieu dit l'Espagnoulet;Gagnac-sur-Garonne;43.706;1.378;R;GPLc;4;2017-09-04 08:38:03;;definitive
 31150007;Lieu dit l'Espagnoulet;Gagnac-sur-Garonne;43.706;1.378;R;E85;3;2023-11-09 09:55:25;;definitive
 31150007;Lieu dit l'Espagnoulet;Gagnac-sur-Garonne;43.706;1.378;R;SP98;6;2023-11-09 09:55:26;;definitive
+47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;E85;3;2017-09-10 16:38:39;;definitive
+47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;GPLc;4;2017-09-10 16:38:39;;definitive
+47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;E10;5;2017-09-10 16:38:40;;definitive
+47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;SP98;6;2026-05-18 11:17:01;;definitive
+47200011;1440 rte de Miramont de Guyenne;VIRAZEIL;44.505;0.221;R;SP95;2;2026-06-06 22:20:37;;temporaire
 94594003;RUE DU VIADUC;RUNGIS CEDEX;48.760473268084006;2.348661444053;R;E10;5;2026-03-23 19:10:35;;temporaire
 94594003;RUE DU VIADUC;RUNGIS CEDEX;48.760473268084006;2.348661444053;R;SP95;2;2026-03-24 09:32:02;;definitive
 38750001;55 Entrée Est - Zac des Berger;ALPE D'HUEZ;45.088;6.073;R;E85;3;2020-03-22 11:08:40;;definitive
@@ -16917,12 +16921,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 16100001;40 rue de l'Annisserie;Châteaubernard;45.684;-0.305;R;E85;3;2017-09-01 09:02:35;;definitive
 16100001;40 rue de l'Annisserie;Châteaubernard;45.684;-0.305;R;SP95;2;2020-09-01 08:53:50;;definitive
 16100001;40 rue de l'Annisserie;Châteaubernard;45.684;-0.305;R;GPLc;4;2026-04-22 09:31:05;;temporaire
-44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;E85;3;2020-03-26 10:31:09;;definitive
-44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;SP95;2;2026-06-05 07:33:03;;definitive
-44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;E10;5;2026-06-06 11:05:44;;temporaire
 62100002;23 Rue Paul Bert;CALAIS;50.953;1.853;R;E85;3;2013-06-13 14:12:00;;
 62100002;23 Rue Paul Bert;CALAIS;50.953;1.853;R;GPLc;4;2013-06-13 14:12:00;;
 62100002;23 Rue Paul Bert;CALAIS;50.953;1.853;R;SP95;2;2019-05-20 07:29:05;;definitive
+44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;E85;3;2020-03-26 10:31:09;;definitive
+44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;SP95;2;2026-06-05 07:33:03;;definitive
+44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;E10;5;2026-06-06 11:05:44;;temporaire
+44340005;ROCADE SUD;BOUGUENAIS;47.167;-1.575;R;SP98;6;2026-06-06 21:52:40;;temporaire
 38230002;48 Route de Crémieu;Tignieu-Jameyzieu;45.752;5.193;R;SP95;2;2017-08-31 18:35:12;;definitive
 38230002;48 Route de Crémieu;Tignieu-Jameyzieu;45.752;5.193;R;E85;3;2017-08-31 18:35:12;;definitive
 38230002;48 Route de Crémieu;Tignieu-Jameyzieu;45.752;5.193;R;GPLc;4;2017-08-31 18:35:12;;definitive
