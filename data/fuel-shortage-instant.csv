@@ -5059,10 +5059,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24620001;24 av de la Forge;Les Eyzies;44.935;1.02;R;GPLc;4;2025-07-13 09:57:38;;definitive
 24620001;24 av de la Forge;Les Eyzies;44.935;1.02;R;E10;5;2025-07-13 09:57:38;;definitive
 24620001;24 av de la Forge;Les Eyzies;44.935;1.02;R;SP98;6;2025-07-13 09:57:38;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP98;6;2026-06-05 09:17:10;;temporaire
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;E85;3;2021-11-08 14:45:39;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;GPLc;4;2021-11-08 14:45:39;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;E10;5;2021-11-08 14:45:39;;definitive
@@ -5074,6 +5070,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76600023;600 RUE DE VERDUN;LE HAVRE;49.503;0.191;R;E85;3;2018-06-25 09:36:26;;definitive
 76600023;600 RUE DE VERDUN;LE HAVRE;49.503;0.191;R;GPLc;4;2018-06-25 09:36:26;;definitive
 76600023;600 RUE DE VERDUN;LE HAVRE;49.503;0.191;R;SP98;6;2018-06-25 09:36:26;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP98;6;2026-06-05 09:17:10;;temporaire
 67000026;49 RTE DU RHIN;STRASBOURG;48.57287;7.78835;R;SP95;2;2020-12-19 08:46:10;;definitive
 67000026;49 RTE DU RHIN;STRASBOURG;48.57287;7.78835;R;E85;3;2020-12-19 08:46:10;;definitive
 67000026;49 RTE DU RHIN;STRASBOURG;48.57287;7.78835;R;GPLc;4;2020-12-19 08:46:10;;definitive
@@ -6629,9 +6629,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 88410001;rue de La Croix de mission;Monthureux-sur-Saône;48.032;5.978;R;E85;3;2020-01-23 09:43:24;;definitive
 88410001;rue de La Croix de mission;Monthureux-sur-Saône;48.032;5.978;R;GPLc;4;2020-01-23 09:43:24;;definitive
 88410001;rue de La Croix de mission;Monthureux-sur-Saône;48.032;5.978;R;E10;5;2020-01-23 09:43:24;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;SP95;2;2018-03-29 12:04:51;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;GPLc;4;2018-03-29 12:04:51;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;E85;3;2018-03-29 15:27:37;;definitive
 38430001;8 rue Carnot;MOIRANS;45.325;5.567;R;E85;3;2017-09-04 09:36:06;;definitive
 38430001;8 rue Carnot;MOIRANS;45.325;5.567;R;GPLc;4;2017-09-04 09:36:06;;definitive
 38430001;8 rue Carnot;MOIRANS;45.325;5.567;R;SP95;2;2021-08-03 14:02:42;;definitive
@@ -6654,6 +6651,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 20600002;556 Avenue de la Libération;Bastia;42.681;9.444;R;GPLc;4;2023-09-12 07:53:58;;definitive
 20600002;556 Avenue de la Libération;Bastia;42.681;9.444;R;SP98;6;2023-09-12 07:53:58;;definitive
 20600002;556 Avenue de la Libération;Bastia;42.681;9.444;R;E10;5;2024-03-03 20:42:15;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;SP95;2;2018-03-29 12:04:51;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;GPLc;4;2018-03-29 12:04:51;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;E85;3;2018-03-29 15:27:37;;definitive
 60000010;40 avenue du 8 Mai 1945;Beauvais;49.443;2.093;R;E10;5;2022-10-06 10:04:45;;definitive
 77620001;ROUTE DE LORREZ;ÉGREVILLE;48.177;2.872;R;GPLc;4;2019-10-08 11:38:12;;definitive
 77620001;ROUTE DE LORREZ;ÉGREVILLE;48.177;2.872;R;E10;5;2022-11-08 10:06:34;;definitive
