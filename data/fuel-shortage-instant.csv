@@ -5579,7 +5579,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 62730002;rue pasteur;MARCK;50.946;1.952;R;E10;5;2022-08-02 15:18:13;;definitive
 24120007;740 avenue des jardins;Terrasson-Lavilledieu;45.124;1.321;R;SP95;2;2024-06-18 22:20:46;;definitive
 24120007;740 avenue des jardins;Terrasson-Lavilledieu;45.124;1.321;R;E85;3;2024-06-18 22:20:46;;definitive
-27670005;18 Rue des Canadiens;Saint-Ouen-du-Tilleul;49.293395938798;0.95457613579793;R;E85;3;2026-05-21 21:04:13;;definitive
 6430001;Quartier celestrera;Tende;44.087683067888;7.5937221262687;R;SP98;6;2022-10-10 15:03:28;;definitive
 6430001;Quartier celestrera;Tende;44.087683067888;7.5937221262687;R;E85;3;2022-10-11 13:27:26;;definitive
 22140002;Rue de Guingamp;Bégard;48.623;-3.296;R;SP95;2;2024-03-05 09:10:38;;definitive
@@ -5595,6 +5594,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31620009;ZI LES PELISSIERES;Bouloc;43.784;1.402;R;GPLc;4;2017-09-25 09:36:25;;definitive
 13300008;Boulevard Reine Jeanne;Salon-de-Provence;43.634;5.091;R;GPLc;4;2017-09-26 14:13:37;;definitive
 13300008;Boulevard Reine Jeanne;Salon-de-Provence;43.634;5.091;R;SP95;2;2017-12-04 10:49:06;;definitive
+27670005;18 Rue des Canadiens;Saint-Ouen-du-Tilleul;49.293395938798;0.95457613579793;R;E85;3;2026-05-21 21:04:13;;definitive
 54480001;1.RUE DU PARTERRE;CIREY-SUR-VEZOUZE;48.579;6.943;R;GPLc;4;2017-09-15 18:15:39;;definitive
 54480001;1.RUE DU PARTERRE;CIREY-SUR-VEZOUZE;48.579;6.943;R;E85;3;2018-07-30 17:18:06;;definitive
 54480001;1.RUE DU PARTERRE;CIREY-SUR-VEZOUZE;48.579;6.943;R;E10;5;2018-09-12 09:56:18;;definitive
@@ -12880,6 +12880,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;E85;3;2017-09-26 14:19:07;;definitive
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;GPLc;4;2017-10-18 14:04:36;;definitive
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;SP95;2;2017-10-31 15:55:01;;definitive
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP95;2;2017-09-02 09:42:42;;definitive
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;E85;3;2023-08-16 21:01:44;;temporaire
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;GPLc;4;2020-06-25 17:31:49;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;SP98;6;2020-06-25 17:31:50;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;E10;5;2022-09-16 09:06:53;;definitive
@@ -12896,8 +12898,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 89630001;RUE DE L'ETANG;Quarré-les-Tombes;47.371;3.998;R;SP98;6;2017-09-27 11:24:25;;definitive
 89630001;RUE DE L'ETANG;Quarré-les-Tombes;47.371;3.998;R;SP95;2;2026-03-09 10:36:07;;temporaire
 85140001;CC  LES CHARMETTES;Les Essarts;46.765;-1.235;R;SP95;2;2022-11-14 17:29:33;;definitive
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP95;2;2017-09-02 09:42:42;;definitive
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;E85;3;2023-08-16 21:01:44;;temporaire
 46340001;Les Peyroutilles;Salviac;44.679844320529;1.2609330195636;R;SP95;2;2021-10-20 16:52:05;;definitive
 46340001;Les Peyroutilles;Salviac;44.679844320529;1.2609330195636;R;GPLc;4;2021-10-20 16:52:06;;definitive
 59000017;365, BOULEVARD VICTOR HUGO;LILLE;50.618;3.051;R;SP95;2;2022-03-16 06:44:39;;definitive
@@ -22117,13 +22117,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 10200006;18 rue Louis Desprez;Bar-sur-Aube;48.226361576052994;4.7128066819557;R;E85;3;2025-10-31 17:14:22;;definitive
 10200006;18 rue Louis Desprez;Bar-sur-Aube;48.226361576052994;4.7128066819557;R;GPLc;4;2025-10-31 17:14:22;;definitive
 10200006;18 rue Louis Desprez;Bar-sur-Aube;48.226361576052994;4.7128066819557;R;E10;5;2025-10-31 17:14:22;;definitive
+83300001;127 Avenue du Gal de GAULLE;DRAGUIGNAN;43.529;6.472;R;SP95;2;2017-09-01 11:08:34;;definitive
+83300001;127 Avenue du Gal de GAULLE;DRAGUIGNAN;43.529;6.472;R;GPLc;4;2017-09-01 11:08:35;;definitive
 23000007;Rue du Docteur Manouvrier;GUéRET;46.168;1.874;R;SP95;2;2017-08-29 17:39:46;;definitive
 23000007;Rue du Docteur Manouvrier;GUéRET;46.168;1.874;R;E85;3;2017-08-29 17:39:46;;definitive
 23000007;Rue du Docteur Manouvrier;GUéRET;46.168;1.874;R;GPLc;4;2017-08-29 17:39:47;;definitive
 85160006;Rue de la Rivière;Saint-Jean-de-Monts;46.795677436793994;-2.0494800138474;R;SP95;2;2017-09-07 09:33:16;;definitive
 85160006;Rue de la Rivière;Saint-Jean-de-Monts;46.795677436793994;-2.0494800138474;R;E85;3;2022-07-07 09:50:33;;definitive
-83300001;127 Avenue du Gal de GAULLE;DRAGUIGNAN;43.529;6.472;R;SP95;2;2017-09-01 11:08:34;;definitive
-83300001;127 Avenue du Gal de GAULLE;DRAGUIGNAN;43.529;6.472;R;GPLc;4;2017-09-01 11:08:35;;definitive
 3240003;route de longeville;Deux-Chaises;46.38;3.04;R;E85;3;2019-08-29 11:37:07;;definitive
 3240003;route de longeville;Deux-Chaises;46.38;3.04;R;GPLc;4;2019-08-29 11:37:07;;definitive
 3240003;route de longeville;Deux-Chaises;46.38;3.04;R;SP95;2;2020-11-25 18:47:24;;definitive
