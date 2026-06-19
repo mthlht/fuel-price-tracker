@@ -1665,13 +1665,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 58320001;ROUTE DE PARIS;Pougues-les-Eaux;47.07736;3.09879;R;E85;3;2017-11-04 11:51:23;;definitive
 58320001;ROUTE DE PARIS;Pougues-les-Eaux;47.07736;3.09879;R;GPLc;4;2017-11-04 11:51:23;;definitive
 58320001;ROUTE DE PARIS;Pougues-les-Eaux;47.07736;3.09879;R;E10;5;2017-11-04 11:51:24;;definitive
-91590009;RN191 - ROUTE DE CORBEIL;BAULNE;48.507;2.37442;R;GPLc;4;2025-09-09 06:41:17;;definitive
-91590009;RN191 - ROUTE DE CORBEIL;BAULNE;48.507;2.37442;R;SP95;2;2026-02-26 16:13:52;;definitive
 18700003;Avenue de Paris;AUBIGNY-SUR-NERE;47.498;2.441;R;GPLc;4;2017-09-12 09:34:27;;definitive
 18700003;Avenue de Paris;AUBIGNY-SUR-NERE;47.498;2.441;R;SP95;2;2023-12-05 09:19:10;;definitive
 86100001;Avenue Jean Moulin;CHâTELLERAULT;46.797;0.531;R;SP95;2;2020-08-13 13:18:20;;definitive
 29150003;place kerjean;CHâTEAULIN;48.20011;-4.08904;R;E85;3;2024-02-17 08:54:07;;definitive
 29150003;place kerjean;CHâTEAULIN;48.20011;-4.08904;R;GPLc;4;2024-02-17 08:54:07;;definitive
+91590009;RN191 - ROUTE DE CORBEIL;BAULNE;48.507;2.37442;R;GPLc;4;2025-09-09 06:41:17;;definitive
+91590009;RN191 - ROUTE DE CORBEIL;BAULNE;48.507;2.37442;R;SP95;2;2026-02-26 16:13:52;;definitive
 13560002;17 route nationale 7;Sénas;43.74032;5.0975;R;E10;5;2022-11-30 10:28:26;;definitive
 13560002;17 route nationale 7;Sénas;43.74032;5.0975;R;SP98;6;2022-10-17 06:48:39;;definitive
 13560002;17 route nationale 7;Sénas;43.74032;5.0975;R;E85;3;2023-03-28 10:45:13;;definitive
@@ -12114,9 +12114,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;SP95;2;2026-06-01 09:00:12;;definitive
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;SP98;6;2026-06-03 17:12:12;;temporaire
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;GPLc;4;2026-06-14 09:53:56;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
 33000023;116 QUAI DE LA SOUYS;BORDEAUX;44.829;-0.541;R;SP95;2;2022-09-05 14:50:21;;definitive
 33000023;116 QUAI DE LA SOUYS;BORDEAUX;44.829;-0.541;R;GPLc;4;2022-09-05 14:50:21;;definitive
 93420007;BD ROBERT BALLANGER D115;VILLEPINTE;48.953965389285;2.533686306402;R;E85;3;2019-01-15 15:24:30;;definitive
@@ -12131,6 +12128,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24170002;Route du Buisson;Siorac-en-Périgord;44.81;0.989;R;GPLc;4;2021-07-29 10:23:48;;definitive
 24170002;Route du Buisson;Siorac-en-Périgord;44.81;0.989;R;E10;5;2021-07-29 10:23:48;;definitive
 24170002;Route du Buisson;Siorac-en-Périgord;44.81;0.989;R;E85;3;2023-08-12 07:20:17;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
 2270001;2 AVENUE DE LA LIBERATION;Crécy-sur-Serre;49.689;3.622;R;SP95;2;2017-11-17 14:55:57;;definitive
 2270001;2 AVENUE DE LA LIBERATION;Crécy-sur-Serre;49.689;3.622;R;GPLc;4;2017-11-17 14:55:57;;definitive
 54121001;28, rue Charles de Gaulle;VANDIèRES;48.951;6.038;R;SP95;2;2017-09-01 12:29:23;;definitive
