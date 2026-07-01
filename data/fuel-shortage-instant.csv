@@ -451,6 +451,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 34620002;43 avenue de béziers;Puisserguier;43.367;3.049;R;GPLc;4;2024-05-13 19:49:36;;definitive
 34620002;43 avenue de béziers;Puisserguier;43.367;3.049;R;E10;5;2024-05-13 19:49:36;;definitive
 8090001;RN 43 LE PORT LEROY;Cliron;49.805;4.621;R;SP95;2;2011-02-21 23:43:00;;
+92160006;100 AV DU PRESIDENT KENNEDY;ANTONY;48.738;2.295;R;E10;5;2026-07-01 14:09:30;;temporaire
 77210001;73 Avenue du Président Franklin Roosevelt;Avon;48.417;2.723;R;SP95;2;2009-12-14 12:32:00;;
 78170002;64 Avenue Lucien-René Duchesne;La Celle-Saint-Cloud;48.837;2.13;R;SP95;2;2009-07-02 03:05:00;;
 11100010;AVENUE CROIX SUD;Narbonne;43.161;2.988;R;SP95;2;2012-02-16 12:45:00;;
@@ -2508,6 +2509,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 26100001;56 av gambetta;romans sur isère;45.046;5.061;R;E85;3;2018-06-21 15:09:02;;definitive
 26100001;56 av gambetta;romans sur isère;45.046;5.061;R;GPLc;4;2018-06-21 15:09:03;;definitive
 26100001;56 av gambetta;romans sur isère;45.046;5.061;R;SP98;6;2018-06-21 15:09:04;;definitive
+31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;SP95;2;2024-06-26 19:11:58;;definitive
+31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;E85;3;2024-06-26 19:11:58;;definitive
+31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;GPLc;4;2024-06-26 19:11:58;;definitive
+31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;SP98;6;2026-06-27 21:35:01;;temporaire
+31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;Gazole;1;2026-07-01 09:25:47;;temporaire
+31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;E10;5;2026-07-01 09:25:47;;temporaire
 85130006;15 rue Pierre Rangeard;LA GAUBRETIERE;46.94;-1.066;R;E85;3;2017-11-01 11:54:26;;definitive
 85130006;15 rue Pierre Rangeard;LA GAUBRETIERE;46.94;-1.066;R;GPLc;4;2017-11-01 11:54:26;;definitive
 85130006;15 rue Pierre Rangeard;LA GAUBRETIERE;46.94;-1.066;R;E10;5;2017-11-01 11:54:27;;definitive
@@ -2530,9 +2537,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 93360002;3 CHEMIN DE MEAUX;Neuilly-Plaisance;48.862;2.51;R;E85;3;2018-11-13 15:13:40;;definitive
 93360002;3 CHEMIN DE MEAUX;Neuilly-Plaisance;48.862;2.51;R;GPLc;4;2018-11-13 15:13:40;;definitive
 93360002;3 CHEMIN DE MEAUX;Neuilly-Plaisance;48.862;2.51;R;E10;5;2018-11-13 15:13:41;;definitive
-31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;SP95;2;2024-06-26 19:11:58;;definitive
-31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;E85;3;2024-06-26 19:11:58;;definitive
-31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;GPLc;4;2024-06-26 19:11:58;;definitive
 38280001;RUE DES DIAMANTS;Villette-d'Anthon;45.792312864699994;5.1321481139500005;R;SP95;2;2018-06-06 07:18:40;;definitive
 38280001;RUE DES DIAMANTS;Villette-d'Anthon;45.792312864699994;5.1321481139500005;R;GPLc;4;2017-09-01 08:35:11;;definitive
 38280001;RUE DES DIAMANTS;Villette-d'Anthon;45.792312864699994;5.1321481139500005;R;E85;3;2025-12-10 08:35:16;;definitive
@@ -6262,8 +6266,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 60440001;CHEMIN DE LA CROIX VERTE;NANTEUIL-LE-HAUDOUIN;49.136;2.801;R;GPLc;4;2017-09-25 08:57:53;;definitive
 18200005;Route de Bourges;SAINT-AMAND-MONTROND;46.736;2.491;R;E85;3;2018-08-04 09:02:48;;definitive
 18200005;Route de Bourges;SAINT-AMAND-MONTROND;46.736;2.491;R;GPLc;4;2018-11-20 09:02:53;;temporaire
-69803001;BLD. André Boulloche BP 341;Saint-Priest;45.72;4.924;R;E85;3;2016-10-17 00:00:00;;
-69803001;BLD. André Boulloche BP 341;Saint-Priest;45.72;4.924;R;SP95;2;2016-10-17 00:00:00;;
 45330004;Rue de Vauluizard;MALESHERBES;48.292;2.398;R;GPLc;4;2019-10-18 15:27:26;;definitive
 45330004;Rue de Vauluizard;MALESHERBES;48.292;2.398;R;SP95;2;2021-07-11 09:29:30;;definitive
 45330004;Rue de Vauluizard;MALESHERBES;48.292;2.398;R;E85;3;2021-07-11 09:29:30;;definitive
@@ -6283,6 +6285,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 55100004;Place Maurice Genevoix;VERDUN;49.165;5.38;R;SP95;2;2018-03-12 09:48:50;;definitive
 55100004;Place Maurice Genevoix;VERDUN;49.165;5.38;R;E85;3;2022-09-13 08:02:39;;definitive
 55100004;Place Maurice Genevoix;VERDUN;49.165;5.38;R;GPLc;4;2026-06-19 15:40:00;;temporaire
+69803001;BLD. André Boulloche BP 341;Saint-Priest;45.72;4.924;R;E85;3;2016-10-17 00:00:00;;
+69803001;BLD. André Boulloche BP 341;Saint-Priest;45.72;4.924;R;SP95;2;2016-10-17 00:00:00;;
 41360005;5 bis avenue de la Braye;Savigny-sur-Braye;47.881;0.808;R;E85;3;2020-11-03 09:55:11;;definitive
 41360005;5 bis avenue de la Braye;Savigny-sur-Braye;47.881;0.808;R;GPLc;4;2020-11-03 09:55:11;;definitive
 41360005;5 bis avenue de la Braye;Savigny-sur-Braye;47.881;0.808;R;E10;5;2024-09-02 10:50:59;;definitive
@@ -12155,15 +12159,15 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 58800002;5 Pl. du Champ de Foire;Corbigny;47.255153292817;3.6841538044451996;R;E10;5;2023-09-14 08:00:14;;definitive
 50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP95;2;2023-10-13 08:57:07;;definitive
 50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP98;6;2025-01-03 09:33:54;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
 33000023;116 QUAI DE LA SOUYS;BORDEAUX;44.829;-0.541;R;SP95;2;2022-09-05 14:50:21;;definitive
 33000023;116 QUAI DE LA SOUYS;BORDEAUX;44.829;-0.541;R;GPLc;4;2022-09-05 14:50:21;;definitive
 40350001;160, route d'Estibeaux;Pouillon;43.60651;-0.99139;R;GPLc;4;2017-09-22 10:50:55;;definitive
 40350001;160, route d'Estibeaux;Pouillon;43.60651;-0.99139;R;SP95;2;2019-09-05 13:11:13;;definitive
 93420007;BD ROBERT BALLANGER D115;VILLEPINTE;48.953965389285;2.533686306402;R;E85;3;2019-01-15 15:24:30;;definitive
 93420007;BD ROBERT BALLANGER D115;VILLEPINTE;48.953965389285;2.533686306402;R;SP95;2;2026-05-02 10:47:23;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
 33770001;2, rue du Martinet;SALLES;44.548;-0.877;R;GPLc;4;2017-11-22 08:36:04;;temporaire
 33770001;2, rue du Martinet;SALLES;44.548;-0.877;R;SP95;2;2017-11-28 16:33:38;;temporaire
 69005005;165 RUE JOLIOT CURIE;LYON 5EME;45.754;4.777;R;GPLc;4;2021-01-10 22:43:38;;definitive
@@ -13545,9 +13549,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 29540001;Croas houarn;Spezet;48.199;-3.7;R;GPLc;4;2022-09-09 15:58:02;;definitive
 45120005;2 avenue du Général Leclerc;Châlette-sur-Loing;48.021;2.737;R;GPLc;4;2022-07-18 17:17:35;;definitive
 45120005;2 avenue du Général Leclerc;Châlette-sur-Loing;48.021;2.737;R;SP95;2;2025-07-18 09:46:46;;definitive
-31100010;222 ROUTE DE SAINT SIMON;TOULOUSE;43.58;1.395;R;E85;3;2018-11-23 09:55:00;;definitive
-31100010;222 ROUTE DE SAINT SIMON;TOULOUSE;43.58;1.395;R;SP95;2;2026-05-27 14:38:02;;definitive
-31100010;222 ROUTE DE SAINT SIMON;TOULOUSE;43.58;1.395;R;E10;5;2026-07-01 21:33:36;;temporaire
 54170004;17 Rue du Curtin;Colombey-les-Belles;48.534980642217;5.8962712433789;R;SP95;2;2017-09-29 10:08:12;;definitive
 54170004;17 Rue du Curtin;Colombey-les-Belles;48.534980642217;5.8962712433789;R;E85;3;2017-09-29 10:08:12;;definitive
 54170004;17 Rue du Curtin;Colombey-les-Belles;48.534980642217;5.8962712433789;R;GPLc;4;2017-09-29 10:08:12;;definitive
@@ -13575,6 +13576,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 95712004;1 RUE DE L'OR - BP.20212;Roissy-en-France;49.0091;2.53736;R;E85;3;2026-07-01 09:48:31;;temporaire
 14111001;Longue Vue des Photographes;Louvigny;49.161;-0.4;R;SP95;2;2019-03-06 07:50:09;;temporaire
 14111001;Longue Vue des Photographes;Louvigny;49.161;-0.4;R;GPLc;4;2022-12-09 08:22:24;;definitive
+31100010;222 ROUTE DE SAINT SIMON;TOULOUSE;43.58;1.395;R;E85;3;2018-11-23 09:55:00;;definitive
+31100010;222 ROUTE DE SAINT SIMON;TOULOUSE;43.58;1.395;R;SP95;2;2026-05-27 14:38:02;;definitive
 14123010;2 RUE DE L'INDUSTRIE;Cormelles-le-Royal;49.15769717388;-0.32601015714723;R;E85;3;2019-03-30 11:48:12;;definitive
 14123010;2 RUE DE L'INDUSTRIE;Cormelles-le-Royal;49.15769717388;-0.32601015714723;R;GPLc;4;2019-03-30 11:48:13;;definitive
 14123010;2 RUE DE L'INDUSTRIE;Cormelles-le-Royal;49.15769717388;-0.32601015714723;R;E10;5;2022-10-13 13:54:47;;definitive
@@ -14799,10 +14802,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38350001;26 avenue du Docteur Tagnard;La Mure;44.913;5.798;R;E85;3;2012-10-12 17:52:00;;
 38350001;26 avenue du Docteur Tagnard;La Mure;44.913;5.798;R;SP95;2;2017-09-04 08:20:47;;definitive
 38350001;26 avenue du Docteur Tagnard;La Mure;44.913;5.798;R;E85;3;2017-09-04 08:20:47;;definitive
-51100051;Rue Jacques de la Giraudière;Reims;49.242;4.082;R;SP95;2;2017-10-16 16:56:34;;definitive
-51100051;Rue Jacques de la Giraudière;Reims;49.242;4.082;R;GPLc;4;2017-10-16 16:56:34;;definitive
 50000002;ROUTE DE VILLEDIEU;SAINT-Lô;49.102;-1.116;R;SP95;2;2018-02-14 10:54:35;;definitive
 50000002;ROUTE DE VILLEDIEU;SAINT-Lô;49.102;-1.116;R;GPLc;4;2018-02-14 10:54:36;;definitive
+51100051;Rue Jacques de la Giraudière;Reims;49.242;4.082;R;SP95;2;2017-10-16 16:56:34;;definitive
+51100051;Rue Jacques de la Giraudière;Reims;49.242;4.082;R;GPLc;4;2017-10-16 16:56:34;;definitive
 60390001;450 Rue des Aulnes;AUNEUIL;49.368;1.987;R;E85;3;2019-11-29 10:23:34;;definitive
 60390001;450 Rue des Aulnes;AUNEUIL;49.368;1.987;R;GPLc;4;2019-11-29 10:23:34;;definitive
 60390001;450 Rue des Aulnes;AUNEUIL;49.368;1.987;R;SP95;2;2025-05-27 10:06:39;;definitive
@@ -20285,6 +20288,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35720001;AVENUE DE LA LIBERATION;COMBOURG;48.4126705209;-1.74328401232;R;E85;3;2023-03-27 08:45:04;;temporaire
 35720001;AVENUE DE LA LIBERATION;COMBOURG;48.4126705209;-1.74328401232;R;GPLc;4;2023-03-27 08:45:04;;temporaire
 56870001;28 Rue des Frères Le Guénédal;BADEN;47.621;-2.916;R;E85;3;2017-09-28 09:07:44;;definitive
+67112002;2 RUE PRINCIPALE;BREUSCHWICKERSHEIM;48.58;7.611;R;SP95;2;2026-05-11 18:09:50;;definitive
+67112002;2 RUE PRINCIPALE;BREUSCHWICKERSHEIM;48.58;7.611;R;GPLc;4;2026-05-11 18:09:50;;definitive
 63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;SP95;2;2022-10-27 13:13:17;;temporaire
 63000001;60 Boulevard Lafayette;CLERMONT-FERRAND;45.773;3.096;R;GPLc;4;2022-10-27 13:13:17;;temporaire
 62130001;184 Rue de Béthune;SAINT-POL-SUR-TERNOISE;50.387;2.349;R;SP95;2;2020-08-27 11:15:44;;definitive
@@ -20299,8 +20304,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 26300003;1005 AV. CHARLES DE GAULLE;Chatuzange-le-Goubet;45.037;5.07;R;E85;3;2011-11-18 09:56:00;;
 26300003;1005 AV. CHARLES DE GAULLE;Chatuzange-le-Goubet;45.037;5.07;R;SP95;2;2014-02-05 11:21:00;;
 26300003;1005 AV. CHARLES DE GAULLE;Chatuzange-le-Goubet;45.037;5.07;R;GPLc;4;2017-09-15 08:39:28;;definitive
-67112002;2 RUE PRINCIPALE;BREUSCHWICKERSHEIM;48.58;7.611;R;SP95;2;2026-05-11 18:09:50;;definitive
-67112002;2 RUE PRINCIPALE;BREUSCHWICKERSHEIM;48.58;7.611;R;GPLc;4;2026-05-11 18:09:50;;definitive
 31500013;6 rue claudius Rougenet;Toulouse;43.598;1.486;R;SP95;2;2024-02-06 09:29:42;;definitive
 31500013;6 rue claudius Rougenet;Toulouse;43.598;1.486;R;GPLc;4;2019-10-29 09:55:10;;definitive
 31500013;6 rue claudius Rougenet;Toulouse;43.598;1.486;R;E85;3;2019-10-29 09:55:10;;definitive
