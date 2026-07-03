@@ -3695,6 +3695,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 42370001;1500 route de renaison;SAINT-HAON-LE-CHâTEL;46.063;3.92;R;E85;3;2017-09-01 07:34:13;;definitive
 42370001;1500 route de renaison;SAINT-HAON-LE-CHâTEL;46.063;3.92;R;GPLc;4;2017-09-01 07:34:14;;definitive
 42370001;1500 route de renaison;SAINT-HAON-LE-CHâTEL;46.063;3.92;R;E10;5;2017-09-01 07:34:14;;definitive
+38150012;9001 avenue jacques prevert;Roussillon;45.3733438;4.8122397999999995;R;SP95;2;2023-05-16 15:32:43;;definitive
+38150012;9001 avenue jacques prevert;Roussillon;45.3733438;4.8122397999999995;R;E85;3;2023-05-16 15:32:43;;definitive
+38150012;9001 avenue jacques prevert;Roussillon;45.3733438;4.8122397999999995;R;GPLc;4;2023-05-16 15:32:44;;definitive
 68500002;Rue de Guebwiller;Issenheim;47.902;7.239;R;E85;3;2018-01-03 18:50:26;;definitive
 68500002;Rue de Guebwiller;Issenheim;47.902;7.239;R;GPLc;4;2018-01-03 18:50:27;;definitive
 53100001; Rue de Bretagne;MAYENNE;48.30817;-0.62956;R;E85;3;2017-09-28 09:58:07;;definitive
@@ -3718,9 +3721,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 49690001;Rond-point de la Promenade;CORON;47.128;-0.638;R;GPLc;4;2026-04-24 09:27:45;;definitive
 49690001;Rond-point de la Promenade;CORON;47.128;-0.638;R;E10;5;2026-04-24 09:27:45;;definitive
 49690001;Rond-point de la Promenade;CORON;47.128;-0.638;R;SP98;6;2026-04-24 09:27:45;;definitive
-38150012;9001 avenue jacques prevert;Roussillon;45.3733438;4.8122397999999995;R;SP95;2;2023-05-16 15:32:43;;definitive
-38150012;9001 avenue jacques prevert;Roussillon;45.3733438;4.8122397999999995;R;E85;3;2023-05-16 15:32:43;;definitive
-38150012;9001 avenue jacques prevert;Roussillon;45.3733438;4.8122397999999995;R;GPLc;4;2023-05-16 15:32:44;;definitive
 51120003;Route de Troyes;SEZANNE;48.709;3.734;R;SP95;2;2021-11-04 11:13:06;;definitive
 95190005;32/38 AV DE LA GARE;GOUSSAINVILLE;49.015625843572;2.4702620933139;R;SP95;2;2024-03-07 16:21:29;;definitive
 95190005;32/38 AV DE LA GARE;GOUSSAINVILLE;49.015625843572;2.4702620933139;R;GPLc;4;2024-03-07 16:21:29;;definitive
@@ -6478,9 +6478,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 86000024;ROCADE OUEST - Z.I.REPUBLIQUE III;POITIERS;46.604;0.332;R;SP95;2;2015-02-01 00:00:00;;
 56520006;KER FLEURY - RN 165;GUIDEL;47.8200779701;-3.46580898742;R;SP95;2;2026-04-07 12:39:01;;definitive
 56520006;KER FLEURY - RN 165;GUIDEL;47.8200779701;-3.46580898742;R;GPLc;4;2026-04-07 12:39:01;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;SP95;2;2018-03-29 12:04:51;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;GPLc;4;2018-03-29 12:04:51;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;E85;3;2018-03-29 15:27:37;;definitive
 38430001;8 rue Carnot;MOIRANS;45.325;5.567;R;E85;3;2017-09-04 09:36:06;;definitive
 38430001;8 rue Carnot;MOIRANS;45.325;5.567;R;GPLc;4;2017-09-04 09:36:06;;definitive
 38430001;8 rue Carnot;MOIRANS;45.325;5.567;R;SP95;2;2021-08-03 14:02:42;;definitive
@@ -6490,6 +6487,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 88410001;rue de La Croix de mission;Monthureux-sur-Saône;48.032;5.978;R;E85;3;2020-01-23 09:43:24;;definitive
 88410001;rue de La Croix de mission;Monthureux-sur-Saône;48.032;5.978;R;GPLc;4;2020-01-23 09:43:24;;definitive
 88410001;rue de La Croix de mission;Monthureux-sur-Saône;48.032;5.978;R;E10;5;2020-01-23 09:43:24;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;SP95;2;2018-03-29 12:04:51;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;GPLc;4;2018-03-29 12:04:51;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;E85;3;2018-03-29 15:27:37;;definitive
 1320001;259 ROUTE DE MEXIMIEUX;CHALAMONT;45.991;5.169;R;E85;3;2013-02-01 08:06:00;;
 1320001;259 ROUTE DE MEXIMIEUX;CHALAMONT;45.991;5.169;R;GPLc;4;2013-02-01 08:06:00;;
 1320001;259 ROUTE DE MEXIMIEUX;CHALAMONT;45.991;5.169;R;E10;5;2013-02-01 08:07:00;;
@@ -12126,12 +12126,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 41320002;88 rue Nationale;châtres sur cher;47.267591521387;1.8833118791535;R;E85;3;2018-12-08 11:02:08;;definitive
 41320002;88 rue Nationale;châtres sur cher;47.267591521387;1.8833118791535;R;GPLc;4;2018-12-08 11:02:08;;definitive
 41320002;88 rue Nationale;châtres sur cher;47.267591521387;1.8833118791535;R;E10;5;2018-12-08 11:02:09;;definitive
-58800002;5 Pl. du Champ de Foire;Corbigny;47.255153292817;3.6841538044451996;R;E10;5;2023-09-14 08:00:14;;definitive
-50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP95;2;2023-10-13 08:57:07;;definitive
-50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP98;6;2025-01-03 09:33:54;;definitive
 60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
 60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
 60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
+58800002;5 Pl. du Champ de Foire;Corbigny;47.255153292817;3.6841538044451996;R;E10;5;2023-09-14 08:00:14;;definitive
+50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP95;2;2023-10-13 08:57:07;;definitive
+50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP98;6;2025-01-03 09:33:54;;definitive
 33000023;116 QUAI DE LA SOUYS;BORDEAUX;44.829;-0.541;R;SP95;2;2022-09-05 14:50:21;;definitive
 33000023;116 QUAI DE LA SOUYS;BORDEAUX;44.829;-0.541;R;GPLc;4;2022-09-05 14:50:21;;definitive
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;SP95;2;2026-06-01 09:00:12;;definitive
