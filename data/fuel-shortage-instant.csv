@@ -525,8 +525,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 78760004;32 ROUTE DU PONTEL;Jouars-Pontchartrain;48.804;1.896;R;GPLc;4;2022-04-05 07:30:48;;definitive
 78760004;32 ROUTE DU PONTEL;Jouars-Pontchartrain;48.804;1.896;R;SP95;2;2022-10-13 07:11:22;;definitive
 78760004;32 ROUTE DU PONTEL;Jouars-Pontchartrain;48.804;1.896;R;E85;3;2022-10-13 07:11:22;;definitive
-78760004;32 ROUTE DU PONTEL;Jouars-Pontchartrain;48.804;1.896;R;E10;5;2026-07-05 18:35:19;;temporaire
-78760004;32 ROUTE DU PONTEL;Jouars-Pontchartrain;48.804;1.896;R;SP98;6;2026-07-05 18:35:19;;temporaire
 84500006;AV JEAN GIONO;BOLLENE;44.258;4.65;R;SP95;2;2026-03-13 11:13:50;;definitive
 84500006;AV JEAN GIONO;BOLLENE;44.258;4.65;R;GPLc;4;2026-03-13 11:13:50;;definitive
 61000008;111 Avenue de Basingstoke;Alençon;48.44542;0.09912;R;E85;3;2022-07-05 06:47:18;;definitive
@@ -2648,10 +2646,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 34120008;28 Faubourg des cordeliers, route de Montpellier;Pézenas;43.464;3.427;R;E85;3;2022-01-12 15:57:16;;definitive
 34120008;28 Faubourg des cordeliers, route de Montpellier;Pézenas;43.464;3.427;R;GPLc;4;2022-01-12 15:57:16;;definitive
 91230001;105 Avenue de la République;Montgeron;48.703;2.463;R;SP95;2;2009-10-22 10:29:00;;
-75013025;181, BOULEVARD VINCENT AURIOL;PARIS;48.832;2.359;R;SP95;2;2023-01-30 13:35:10;;definitive
-75013025;181, BOULEVARD VINCENT AURIOL;PARIS;48.832;2.359;R;E85;3;2023-01-30 13:35:10;;definitive
-75013025;181, BOULEVARD VINCENT AURIOL;PARIS;48.832;2.359;R;SP98;6;2026-07-06 09:56:17;;temporaire
-75013025;181, BOULEVARD VINCENT AURIOL;PARIS;48.832;2.359;R;E10;5;2026-07-06 10:58:06;;temporaire
 51700006;Rue Clos de la Noue;Châtillon-sur-Marne;49.08766;3.76238;R;SP95;2;2018-12-13 06:53:13;;definitive
 51700006;Rue Clos de la Noue;Châtillon-sur-Marne;49.08766;3.76238;R;E85;3;2018-12-13 06:53:13;;definitive
 51700006;Rue Clos de la Noue;Châtillon-sur-Marne;49.08766;3.76238;R;GPLc;4;2018-12-13 06:53:13;;definitive
@@ -2678,6 +2672,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13130005;Avenue Henri Wallon;BERRE L'ETANG;43.484;5.181;R;GPLc;4;2017-10-02 17:03:03;;definitive
 13130005;Avenue Henri Wallon;BERRE L'ETANG;43.484;5.181;R;SP98;6;2017-10-02 17:04:43;;definitive
 13130005;Avenue Henri Wallon;BERRE L'ETANG;43.484;5.181;R;SP95;2;2018-04-09 09:26:43;;definitive
+75013025;181, BOULEVARD VINCENT AURIOL;PARIS;48.832;2.359;R;SP95;2;2023-01-30 13:35:10;;definitive
+75013025;181, BOULEVARD VINCENT AURIOL;PARIS;48.832;2.359;R;E85;3;2023-01-30 13:35:10;;definitive
 63190001;RUE GEORGES CLEMENCEAU;LEZOUX;45.82699;3.37353;R;GPLc;4;2017-09-21 09:03:04;;definitive
 63190001;RUE GEORGES CLEMENCEAU;LEZOUX;45.82699;3.37353;R;E85;3;2020-04-20 17:40:52;;definitive
 63190001;RUE GEORGES CLEMENCEAU;LEZOUX;45.82699;3.37353;R;SP95;2;2021-10-22 13:01:05;;definitive
@@ -3300,7 +3296,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59890001; Route de Comines;QUESNOY-SUR-DEûLE;50.71687;3.0016;R;SP95;2;2020-09-22 16:41:19;;definitive
 34370001;ROUTE DE BEZIERS;CAZOULS-LèS-BéZIERS;43.387;3.11;R;GPLc;4;2017-09-01 08:47:30;;definitive
 34370001;ROUTE DE BEZIERS;CAZOULS-LèS-BéZIERS;43.387;3.11;R;SP98;6;2017-09-01 08:47:30;;definitive
-75018014;32 AVENUE DE LA PORTE DE ST OUEN;PARIS;48.899525999474;2.3298743609466;R;GPLc;4;2023-10-17 13:04:33;;definitive
 91300020;40 ROUTE DE PALAISEAU;MASSY;48.72852;2.24518;R;SP95;2;2017-09-28 07:33:14;;definitive
 91300020;40 ROUTE DE PALAISEAU;MASSY;48.72852;2.24518;R;GPLc;4;2017-09-28 07:33:14;;definitive
 78160002;120, ROUTE DE VERSAILLES;Marly-le-Roi;48.872;2.105;R;GPLc;4;2022-10-05 18:33:05;;definitive
@@ -3309,6 +3304,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 78160002;120, ROUTE DE VERSAILLES;Marly-le-Roi;48.872;2.105;R;SP98;6;2026-07-06 12:31:23;;temporaire
 71470004;2144 quai de la gare;ROMENAY;46.502338070083994;5.063633308511;R;GPLc;4;2023-11-07 09:55:37;;definitive
 71470004;2144 quai de la gare;ROMENAY;46.502338070083994;5.063633308511;R;E10;5;2023-11-07 09:55:37;;definitive
+75018014;32 AVENUE DE LA PORTE DE ST OUEN;PARIS;48.899525999474;2.3298743609466;R;GPLc;4;2023-10-17 13:04:33;;definitive
+75018014;32 AVENUE DE LA PORTE DE ST OUEN;PARIS;48.899525999474;2.3298743609466;R;E85;3;2026-07-06 23:08:09;;temporaire
 39100011;1 CHEMIN DE ROUGEMONT;FOUCHERANS;47.080169000000005;5.4622;R;E85;3;2018-04-23 10:03:40;;definitive
 39100011;1 CHEMIN DE ROUGEMONT;FOUCHERANS;47.080169000000005;5.4622;R;GPLc;4;2018-04-23 10:03:40;;definitive
 39100011;1 CHEMIN DE ROUGEMONT;FOUCHERANS;47.080169000000005;5.4622;R;SP98;6;2018-04-23 10:03:40;;definitive
@@ -3946,10 +3943,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 54200012;RUE PAUL KELLER;TOUL;48.67219;5.88828;R;GPLc;4;2020-11-25 15:46:05;;definitive
 54200012;RUE PAUL KELLER;TOUL;48.67219;5.88828;R;SP95;2;2026-04-07 12:49:35;;definitive
 94400004;2 Rue Eugène Hénaff;VITRY-SUR-SEINE;48.794;2.416;R;E85;3;2017-09-02 09:49:35;;definitive
-94400004;2 Rue Eugène Hénaff;VITRY-SUR-SEINE;48.794;2.416;R;Gazole;1;2026-07-05 21:54:53;;temporaire
-94400004;2 Rue Eugène Hénaff;VITRY-SUR-SEINE;48.794;2.416;R;SP95;2;2026-07-05 21:54:53;;temporaire
-94400004;2 Rue Eugène Hénaff;VITRY-SUR-SEINE;48.794;2.416;R;E10;5;2026-07-05 21:54:53;;temporaire
-94400004;2 Rue Eugène Hénaff;VITRY-SUR-SEINE;48.794;2.416;R;SP98;6;2026-07-05 21:54:53;;temporaire
 87500007;Le Clos de Bart;Saint-Yrieix-la-Perche;45.521332;1.212822;R;GPLc;4;2024-06-14 09:27:35;;definitive
 87500007;Le Clos de Bart;Saint-Yrieix-la-Perche;45.521332;1.212822;R;SP95;2;2024-06-14 09:27:35;;definitive
 87500007;Le Clos de Bart;Saint-Yrieix-la-Perche;45.521332;1.212822;R;E85;3;2024-06-14 09:27:35;;definitive
@@ -7006,11 +6999,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 7100008;13-14 avenue Rhin Danube;ANNONAY;45.241;4.69;R;SP98;6;2018-07-11 14:59:32;;definitive
 7100008;13-14 avenue Rhin Danube;ANNONAY;45.241;4.69;R;GPLc;4;2018-07-11 14:59:31;;definitive
 56450002;LA CROIX DE BONNERVAUD - RN 165;THEIX;47.64;-2.68;R;SP95;2;2018-02-08 19:44:58;;definitive
-58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;Gazole;1;2019-10-16 10:18:28;;definitive
-58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;SP95;2;2019-10-16 10:18:28;;definitive
-58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;GPLc;4;2019-10-16 10:18:28;;definitive
-58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;E10;5;2019-10-16 10:18:28;;definitive
-58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;SP98;6;2019-10-16 10:18:28;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;E85;3;2017-08-31 19:42:54;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;GPLc;4;2017-08-31 19:42:54;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;E10;5;2017-08-31 19:42:55;;definitive
@@ -7038,6 +7026,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 81290001;9 Boulevard Gambetta;LABRUGUIèRE;43.539;2.262;R;E10;5;2013-03-21 18:53:00;;
 22230003; Rue Chanoine le Texier;MERDRIGNAC;48.19538;-2.41743;R;E85;3;2017-08-29 12:27:23;;definitive
 22230003; Rue Chanoine le Texier;MERDRIGNAC;48.19538;-2.41743;R;GPLc;4;2017-08-29 12:27:23;;definitive
+58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;Gazole;1;2019-10-16 10:18:28;;definitive
+58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;SP95;2;2019-10-16 10:18:28;;definitive
+58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;GPLc;4;2019-10-16 10:18:28;;definitive
+58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;E10;5;2019-10-16 10:18:28;;definitive
+58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;SP98;6;2019-10-16 10:18:28;;definitive
 83670002;Avenue de Tavernes;BARJOLS;43.567;6.012;R;SP95;2;2018-02-15 10:02:00;;definitive
 83670002;Avenue de Tavernes;BARJOLS;43.567;6.012;R;GPLc;4;2018-02-15 10:02:00;;definitive
 30400004;128, Avenue Général Leclerc;Villeneuve-lès-Avignon;43.958;4.779;R;E85;3;2017-09-08 07:57:20;;definitive
@@ -7761,8 +7754,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 62200004;Avenue Percier et Fontaine;Boulogne-sur-Mer;50.74;1.613;R;GPLc;4;2017-09-23 08:43:25;;definitive
 62200004;Avenue Percier et Fontaine;Boulogne-sur-Mer;50.74;1.613;R;SP95;2;2017-11-23 19:26:06;;definitive
 25480001;6 Rue de Châtillon;ÉCOLE-VALENTIN;47.284;5.993;R;GPLc;4;2018-06-12 10:24:34;;definitive
-58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;SP95;2;2023-05-02 10:56:28;;definitive
-58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;GPLc;4;2023-05-02 10:56:28;;definitive
 87000028;26 RUE WAGNER;LIMOGES;45.818457256025;1.2492994846559;R;E85;3;2017-09-01 16:58:55;;definitive
 87000028;26 RUE WAGNER;LIMOGES;45.818457256025;1.2492994846559;R;GPLc;4;2017-09-01 16:58:55;;definitive
 87000028;26 RUE WAGNER;LIMOGES;45.818457256025;1.2492994846559;R;SP98;6;2017-09-01 16:58:56;;definitive
@@ -7785,6 +7776,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33680001;RTE DE BORDEAUX;Lacanau;44.97654;-1.06739;R;SP95;2;2022-10-29 09:07:38;;definitive
 93350003;7/9 AV DU 8 MAI 1945;LE BOURGET;48.942;2.432;R;GPLc;4;2015-02-24 00:00:00;;
 93350003;7/9 AV DU 8 MAI 1945;LE BOURGET;48.942;2.432;R;SP95;2;2022-10-03 12:06:54;;temporaire
+58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;SP95;2;2023-05-02 10:56:28;;definitive
+58200010;Rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.427;2.932;R;GPLc;4;2023-05-02 10:56:28;;definitive
 34490001;Rue de la Carrièrasse;Thézan-lès-Béziers;43.421;3.161;R;GPLc;4;2017-09-30 08:06:11;;definitive
 34490001;Rue de la Carrièrasse;Thézan-lès-Béziers;43.421;3.161;R;SP95;2;2022-09-28 19:02:22;;definitive
 82700002;13 avenue de la Mouscane;Montech;43.964;1.246;R;SP95;2;2019-12-09 11:32:07;;definitive
@@ -8885,9 +8878,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 73500007;19 Cr Aristide Briand;MODANE;45.2;6.669;R;SP98;6;2025-07-17 08:55:52;;definitive
 54500005;2 Rue Bernard Palissy;VANDOEUVRE-LèS-NANCY;48.654;6.177;R;E85;3;2010-10-21 16:36:00;;
 54500005;2 Rue Bernard Palissy;VANDOEUVRE-LèS-NANCY;48.654;6.177;R;E85;3;2017-08-30 08:48:44;;definitive
-3410011;4340 ROUTE DE CHATEAUROUX;DOMERAT;46.406248803056;2.5276292396032;R;SP95;2;2026-07-01 11:53:46;;definitive
-3410011;4340 ROUTE DE CHATEAUROUX;DOMERAT;46.406248803056;2.5276292396032;R;E85;3;2026-07-01 11:53:46;;definitive
-3410011;4340 ROUTE DE CHATEAUROUX;DOMERAT;46.406248803056;2.5276292396032;R;GPLc;4;2026-07-01 11:53:46;;definitive
 25610001;ROUTE DE RANS;Arc-et-Senans;47.035;5.785;R;E85;3;2023-01-30 15:36:31;;definitive
 25610001;ROUTE DE RANS;Arc-et-Senans;47.035;5.785;R;GPLc;4;2023-01-30 15:36:31;;definitive
 25610001;ROUTE DE RANS;Arc-et-Senans;47.035;5.785;R;E10;5;2023-01-30 15:36:31;;definitive
@@ -8908,6 +8898,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 10800007;29 BOULEVARD DE DIJON;Saint-Julien-les-Villas;48.268;4.088;R;SP95;2;2022-03-03 21:39:04;;definitive
 10800007;29 BOULEVARD DE DIJON;Saint-Julien-les-Villas;48.268;4.088;R;GPLc;4;2022-03-03 21:39:04;;definitive
 95150001;CENTRE COMMERCIAL LES PORTES DE TAVERNY;TAVERNY;49.0146669398;2.22190168155;R;SP95;2;2023-12-11 09:35:09;;definitive
+3410011;4340 ROUTE DE CHATEAUROUX;DOMERAT;46.406248803056;2.5276292396032;R;SP95;2;2026-07-01 11:53:46;;definitive
+3410011;4340 ROUTE DE CHATEAUROUX;DOMERAT;46.406248803056;2.5276292396032;R;E85;3;2026-07-01 11:53:46;;definitive
+3410011;4340 ROUTE DE CHATEAUROUX;DOMERAT;46.406248803056;2.5276292396032;R;GPLc;4;2026-07-01 11:53:46;;definitive
 29900004;Route de Trégunc;CONCARNEAU;47.87;-3.895;R;SP95;2;2021-03-11 15:42:22;;definitive
 29900004;Route de Trégunc;CONCARNEAU;47.87;-3.895;R;E85;3;2021-03-30 13:22:20;;definitive
 29900004;Route de Trégunc;CONCARNEAU;47.87;-3.895;R;GPLc;4;2021-03-30 13:22:20;;definitive
@@ -9562,6 +9555,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68320002;Route de Colmar;FORTSCHWIHR;48.096;7.44;R;E85;3;2026-03-03 13:12:07;;definitive
 68320002;Route de Colmar;FORTSCHWIHR;48.096;7.44;R;GPLc;4;2026-03-03 13:12:07;;definitive
 68320002;Route de Colmar;FORTSCHWIHR;48.096;7.44;R;E10;5;2026-03-09 09:34:30;;temporaire
+46000015;43 Avenue du 7ème Régiment d'Infanterie;CAHORS;49.44;1.103;R;SP95;2;2026-07-06 15:40:05;;definitive
 67100007;10 Rue du Landsberg;STRASBOURG;48.571;7.764;R;SP95;2;2018-08-01 15:02:11;;definitive
 1700003;RN 83;Miribel;45.871;4.912;R;SP95;2;2010-09-22 17:15:00;;
 35580004;D177 - LES BOIS;GUIGNEN;47.917;-1.857;R;E85;3;2022-06-30 12:09:52;;definitive
@@ -14971,11 +14965,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38350001;26 avenue du Docteur Tagnard;La Mure;44.913;5.798;R;E85;3;2017-09-04 08:20:47;;definitive
 38350001;26 avenue du Docteur Tagnard;La Mure;44.913;5.798;R;E10;5;2026-07-06 10:40:22;;temporaire
 38350001;26 avenue du Docteur Tagnard;La Mure;44.913;5.798;R;SP98;6;2026-07-06 10:40:22;;temporaire
-50000002;ROUTE DE VILLEDIEU;SAINT-Lô;49.102;-1.116;R;SP95;2;2018-02-14 10:54:35;;definitive
-50000002;ROUTE DE VILLEDIEU;SAINT-Lô;49.102;-1.116;R;GPLc;4;2018-02-14 10:54:36;;definitive
 22710001;31 Rue de Lannion;Penvénan;48.80248;-3.30911;R;E85;3;2019-03-02 08:55:27;;definitive
 22710001;31 Rue de Lannion;Penvénan;48.80248;-3.30911;R;GPLc;4;2019-03-02 08:55:27;;definitive
 22710001;31 Rue de Lannion;Penvénan;48.80248;-3.30911;R;E10;5;2019-03-02 08:55:27;;definitive
+50000002;ROUTE DE VILLEDIEU;SAINT-Lô;49.102;-1.116;R;SP95;2;2018-02-14 10:54:35;;definitive
+50000002;ROUTE DE VILLEDIEU;SAINT-Lô;49.102;-1.116;R;GPLc;4;2018-02-14 10:54:36;;definitive
 60390001;450 Rue des Aulnes;AUNEUIL;49.368;1.987;R;E85;3;2019-11-29 10:23:34;;definitive
 60390001;450 Rue des Aulnes;AUNEUIL;49.368;1.987;R;GPLc;4;2019-11-29 10:23:34;;definitive
 60390001;450 Rue des Aulnes;AUNEUIL;49.368;1.987;R;SP95;2;2025-05-27 10:06:39;;definitive
@@ -17575,9 +17569,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 47700001;3 rue henri iv;Casteljaloux;44.314;0.081;R;GPLc;4;2020-10-24 14:34:39;;definitive
 59660002;102 route d'estaires;Merville;50.641;2.654;R;GPLc;4;2019-12-21 07:44:10;;definitive
 59660002;102 route d'estaires;Merville;50.641;2.654;R;SP95;2;2022-11-19 17:43:20;;definitive
-58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
-58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E85;3;2020-11-19 16:17:07;;definitive
-58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;GPLc;4;2020-11-19 16:17:08;;definitive
 77130006;BOULEVARD DIDEROT;MONTEREAU-FAULT-YONNE;48.39853918239999;2.95158027595;R;E85;3;2017-08-29 10:02:06;;definitive
 77130006;BOULEVARD DIDEROT;MONTEREAU-FAULT-YONNE;48.39853918239999;2.95158027595;R;GPLc;4;2017-08-29 10:02:07;;definitive
 77130006;BOULEVARD DIDEROT;MONTEREAU-FAULT-YONNE;48.39853918239999;2.95158027595;R;SP95;2;2020-10-16 09:41:27;;definitive
@@ -17588,6 +17579,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 3100005;Avenue Pierre Villon;MONTLUçON;46.353;2.587;R;E10;5;2017-09-01 12:13:51;;definitive
 64220004;AV DU JAI ALAI;Saint-Jean-Pied-de-Port;43.165;-1.234;R;GPLc;4;2017-11-06 09:04:37;;temporaire
 64220004;AV DU JAI ALAI;Saint-Jean-Pied-de-Port;43.165;-1.234;R;E10;5;2024-05-28 08:47:51;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E85;3;2020-11-19 16:17:07;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;GPLc;4;2020-11-19 16:17:08;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E10;5;2026-07-07 00:10:14;;temporaire
 24200007;8 Avenue de Selves;Sarlat-la-Canéda;44.9;1.212;R;E85;3;2019-12-15 12:40:26;;definitive
 24200007;8 Avenue de Selves;Sarlat-la-Canéda;44.9;1.212;R;GPLc;4;2019-12-15 12:40:26;;definitive
 24200007;8 Avenue de Selves;Sarlat-la-Canéda;44.9;1.212;R;SP95;2;2026-01-20 18:52:36;;definitive
@@ -18476,6 +18471,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 93150008;1 Avenue Armand Esders;LE BLANC-MESNIL;48.948;2.467;R;E85;3;2017-09-05 09:20:23;;definitive
 93150008;1 Avenue Armand Esders;LE BLANC-MESNIL;48.948;2.467;R;GPLc;4;2017-09-05 09:20:23;;definitive
 14110002;Parc Commercial St JACQUES;CONDE-SUR-NOIREAU;48.85624;-0.53892;R;E10;5;2019-07-31 08:19:14;;definitive
+41000019;107, AVENUE DE VENDOME;BLOIS;47.604;1.315;R;SP95;2;2022-10-06 11:57:08;;definitive
+41000019;107, AVENUE DE VENDOME;BLOIS;47.604;1.315;R;SP98;6;2026-07-02 09:41:04;;temporaire
 33400005;235 route de Toulouse;TALENCE;44.807;-0.573;R;GPLc;4;2017-09-01 10:24:57;;definitive
 33400005;235 route de Toulouse;TALENCE;44.807;-0.573;R;SP98;6;2017-09-01 10:24:57;;definitive
 52220001;Route de Saint-Dizier;MONTIER-EN-DER;48.491;4.778;R;SP95;2;2022-09-03 07:25:12;;definitive
@@ -18491,9 +18488,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68703001;5 Avenue d'Alsace BP60189;CERNAY;47.794;7.17;R;SP95;2;2017-06-14 01:00:00;;
 68703001;5 Avenue d'Alsace BP60189;CERNAY;47.794;7.17;R;SP95;2;2017-09-07 09:02:51;;definitive
 68703001;5 Avenue d'Alsace BP60189;CERNAY;47.794;7.17;R;E85;3;2017-09-07 09:02:51;;definitive
-41000019;107, AVENUE DE VENDOME;BLOIS;47.604;1.315;R;SP95;2;2022-10-06 11:57:08;;definitive
-41000019;107, AVENUE DE VENDOME;BLOIS;47.604;1.315;R;SP98;6;2026-07-02 09:41:04;;temporaire
-41000019;107, AVENUE DE VENDOME;BLOIS;47.604;1.315;R;Gazole;1;2026-07-02 19:50:16;;temporaire
 64150004;Avenue Charles Moureu;Mourenx;43.374;-0.623;R;SP98;6;2013-06-28 08:12:00;;
 64150004;Avenue Charles Moureu;Mourenx;43.374;-0.623;R;E85;3;2013-07-02 11:06:00;;
 64150004;Avenue Charles Moureu;Mourenx;43.374;-0.623;R;GPLc;4;2013-07-02 11:06:00;;
@@ -21024,6 +21018,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 91630007;RN 20 DIRECTION PARIS;AVRAINVILLE;48.562;2.227;R;SP95;2;2022-09-25 16:26:40;;definitive
 91630007;RN 20 DIRECTION PARIS;AVRAINVILLE;48.562;2.227;R;E85;3;2022-09-25 16:26:40;;definitive
 91630007;RN 20 DIRECTION PARIS;AVRAINVILLE;48.562;2.227;R;GPLc;4;2026-07-06 09:05:28;;temporaire
+69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP95;2;2024-02-14 18:46:57;;definitive
+69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;GPLc;4;2024-02-14 18:46:57;;definitive
+69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP98;6;2024-02-14 18:46:57;;definitive
 76910002;100 ROUTE D'HAVELANGE;CRIEL SUR MER;50.022;1.326;R;SP95;2;2026-03-11 07:58:57;;definitive
 76910002;100 ROUTE D'HAVELANGE;CRIEL SUR MER;50.022;1.326;R;E85;3;2026-03-11 07:58:57;;definitive
 76910002;100 ROUTE D'HAVELANGE;CRIEL SUR MER;50.022;1.326;R;GPLc;4;2026-03-11 07:58:58;;definitive
@@ -21055,9 +21052,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 93240008;17 AVENUE MARCEL CACHIN;STAINS;48.95763;2.38253;R;Gazole;1;2026-07-06 11:10:58;;temporaire
 93240008;17 AVENUE MARCEL CACHIN;STAINS;48.95763;2.38253;R;E10;5;2026-07-06 11:10:58;;temporaire
 93240008;17 AVENUE MARCEL CACHIN;STAINS;48.95763;2.38253;R;SP98;6;2026-07-06 11:10:58;;temporaire
-69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP95;2;2024-02-14 18:46:57;;definitive
-69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;GPLc;4;2024-02-14 18:46:57;;definitive
-69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP98;6;2024-02-14 18:46:57;;definitive
 34000013;1160 AV. PIERRE MENDES FRANCE;MONTPELLIER;43.608;3.916;R;GPLc;4;2015-02-19 00:00:00;;
 54520007;5 AVENUE DE LA RESISTANCE;LAXOU;48.694074161799996;6.131897170929999;R;GPLc;4;2022-10-08 07:59:45;;definitive
 54520007;5 AVENUE DE LA RESISTANCE;LAXOU;48.694074161799996;6.131897170929999;R;SP95;2;2026-05-12 07:48:48;;definitive
