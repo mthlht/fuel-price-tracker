@@ -4141,9 +4141,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33200001;493 Avenue du Maréchal de Lattre de Tassigny;BORDEAUX CAUDERAN;44.86;-0.634;R;SP98;6;2020-03-02 18:49:25;;definitive
 33200001;493 Avenue du Maréchal de Lattre de Tassigny;BORDEAUX CAUDERAN;44.86;-0.634;R;GPLc;4;2025-11-26 08:30:38;;definitive
 33200001;493 Avenue du Maréchal de Lattre de Tassigny;BORDEAUX CAUDERAN;44.86;-0.634;R;E10;5;2026-07-06 12:29:11;;temporaire
+59146002;48 RUE ETIENNE D'ORVES;PECQUENCOURT;50.381;3.221;R;SP95;2;2023-05-15 11:30:13;;definitive
 66530001;Route du Barcares;CLAIRA;42.777;2.917;R;E85;3;2009-09-29 10:09:00;;
 66530001;Route du Barcares;CLAIRA;42.777;2.917;R;E85;3;2017-09-04 11:59:38;;definitive
-59146002;48 RUE ETIENNE D'ORVES;PECQUENCOURT;50.381;3.221;R;SP95;2;2023-05-15 11:30:13;;definitive
 62580003;Rue saint Nazaire;Vimy;50.376149699186;2.8070252243759;R;E85;3;2023-10-26 20:08:19;;definitive
 62580003;Rue saint Nazaire;Vimy;50.376149699186;2.8070252243759;R;GPLc;4;2023-10-26 20:08:19;;definitive
 62580003;Rue saint Nazaire;Vimy;50.376149699186;2.8070252243759;R;E10;5;2025-03-28 10:37:18;;definitive
@@ -6516,6 +6516,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;GPLc;4;2022-10-25 10:55:06;;definitive
 93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;SP98;6;2026-07-09 15:02:27;;temporaire
 93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;E10;5;2026-07-09 19:13:49;;temporaire
+93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;E85;3;2026-07-09 20:55:48;;temporaire
 33710002;Route de Blaye - 13-274 Au Mas;Bourg;45.042117694116;-0.56017088552363;R;SP95;2;2018-04-26 11:36:56;;definitive
 33710002;Route de Blaye - 13-274 Au Mas;Bourg;45.042117694116;-0.56017088552363;R;GPLc;4;2025-04-10 15:05:34;;temporaire
 22390001;BOULEVARD D ARMOR;Bourbriac;48.478;-3.186;R;E10;5;2022-12-22 09:10:31;;definitive
@@ -12751,8 +12752,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 10210002;13 route de Troyes;CHAOURCE;48.058;4.141;R;E10;5;2021-03-06 15:14:28;;definitive
 46340001;Les Peyroutilles;Salviac;44.679844320529;1.2609330195636;R;SP95;2;2021-10-20 16:52:05;;definitive
 46340001;Les Peyroutilles;Salviac;44.679844320529;1.2609330195636;R;GPLc;4;2021-10-20 16:52:06;;definitive
-83000010;160 BOULEVARD G.CLEMENCEAU;TOULON;43.124;5.937;R;SP95;2;2019-01-15 10:58:42;;definitive
-83000010;160 BOULEVARD G.CLEMENCEAU;TOULON;43.124;5.937;R;GPLc;4;2026-07-06 10:15:16;;temporaire
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP95;2;2017-09-02 09:42:42;;definitive
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;E85;3;2023-08-16 21:01:44;;temporaire
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP98;6;2026-07-08 18:48:10;;temporaire
 77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;SP95;2;2017-09-06 13:17:38;;definitive
 77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;E85;3;2017-09-06 13:17:38;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;GPLc;4;2020-06-25 17:31:49;;definitive
@@ -12773,9 +12775,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33450007;101 avenue de la République;Saint-Loubès;44.916;-0.422;R;E85;3;2021-05-25 14:38:20;;definitive
 33450007;101 avenue de la République;Saint-Loubès;44.916;-0.422;R;GPLc;4;2021-05-25 14:38:21;;definitive
 33450007;101 avenue de la République;Saint-Loubès;44.916;-0.422;R;E10;5;2021-05-25 14:38:21;;definitive
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP95;2;2017-09-02 09:42:42;;definitive
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;E85;3;2023-08-16 21:01:44;;temporaire
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP98;6;2026-07-08 18:48:10;;temporaire
+83000010;160 BOULEVARD G.CLEMENCEAU;TOULON;43.124;5.937;R;SP95;2;2019-01-15 10:58:42;;definitive
 70000010;Rue Olivier Albert;NOIDANS-LèS-VESOUL;47.615;6.136;R;SP95;2;2021-10-01 08:27:56;;definitive
 70000010;Rue Olivier Albert;NOIDANS-LèS-VESOUL;47.615;6.136;R;E85;3;2021-10-04 08:25:03;;definitive
 70000010;Rue Olivier Albert;NOIDANS-LèS-VESOUL;47.615;6.136;R;GPLc;4;2021-10-04 08:25:04;;definitive
@@ -17270,10 +17270,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 55290001;2, chemin de l'écussey;BURE;48.489;5.355;R;SP95;2;2024-07-25 13:00:45;;definitive
 55290001;2, chemin de l'écussey;BURE;48.489;5.355;R;SP98;6;2024-07-25 13:00:45;;definitive
 10430003;71 rue Victor Hugo;Rosières;48.266508041454;4.0611727612853;R;GPLc;4;2024-08-26 08:51:56;;temporaire
-77250006;RD 606;MORET-LOING-ET-ORVANNE;48.364;2.853;R;SP95;2;2022-10-05 15:06:57;;definitive
 1210001;Chemin de la Brunette;FERNEY-VOLTAIRE;46.25303;6.11817;R;GPLc;4;2018-02-23 11:21:27;;definitive
 1210001;Chemin de la Brunette;FERNEY-VOLTAIRE;46.25303;6.11817;R;E10;5;2022-09-20 10:41:43;;definitive
 1210001;Chemin de la Brunette;FERNEY-VOLTAIRE;46.25303;6.11817;R;E85;3;2022-11-03 10:02:11;;definitive
+77250006;RD 606;MORET-LOING-ET-ORVANNE;48.364;2.853;R;SP95;2;2022-10-05 15:06:57;;definitive
+77250006;RD 606;MORET-LOING-ET-ORVANNE;48.364;2.853;R;SP98;6;2026-07-09 20:54:14;;temporaire
 12140002;Le Moulinet, 10 Route de Las Peyssières;Entraygues-sur-Truyère;44.652402441811006;2.5735091836991;R;E10;5;2025-06-03 19:58:01;;definitive
 76910001;Lieu-dit Les Marais;Criel-sur-Mer;50.012;1.316;R;GPLc;4;2017-02-02 00:00:00;;
 76910001;Lieu-dit Les Marais;Criel-sur-Mer;50.012;1.316;R;E10;5;2017-02-02 00:00:00;;
@@ -17337,6 +17338,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38870001;Le Bizolle;Saint-Siméon-de-Bressieux;45.335058085041;5.2656225241942005;R;SP95;2;2026-03-10 08:14:30;;definitive
 3100005;Avenue Pierre Villon;MONTLUçON;46.353;2.587;R;GPLc;4;2017-09-01 12:13:51;;definitive
 3100005;Avenue Pierre Villon;MONTLUçON;46.353;2.587;R;SP98;6;2026-07-09 16:56:17;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;E85;3;2018-02-19 18:46:15;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;GPLc;4;2018-02-19 18:46:15;;definitive
 59660002;102 route d'estaires;Merville;50.641;2.654;R;GPLc;4;2019-12-21 07:44:10;;definitive
 59660002;102 route d'estaires;Merville;50.641;2.654;R;SP95;2;2022-11-19 17:43:20;;definitive
 3110003;24 Village Des Combes;Broût-Vernet;46.192;3.265;R;E85;3;2018-03-02 07:45:21;;definitive
@@ -17362,8 +17365,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;SP95;2;2023-08-02 09:47:35;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;E85;3;2023-08-02 09:47:35;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;GPLc;4;2023-08-02 09:47:35;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;E85;3;2018-02-19 18:46:15;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;GPLc;4;2018-02-19 18:46:15;;definitive
 38120002;7 Route de Lyon;Fontanil-Cornillon;45.248;5.667;R;SP95;2;2017-09-03 10:10:54;;definitive
 38120002;7 Route de Lyon;Fontanil-Cornillon;45.248;5.667;R;GPLc;4;2017-09-03 10:10:54;;definitive
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
@@ -20525,6 +20526,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 93330006;29-33 BLD DU MARECHAL FOCH;Neuilly-sur-Marne;48.855;2.525;R;SP95;2;2023-02-16 17:12:32;;definitive
 93330006;29-33 BLD DU MARECHAL FOCH;Neuilly-sur-Marne;48.855;2.525;R;E85;3;2023-02-16 17:12:32;;definitive
 93330006;29-33 BLD DU MARECHAL FOCH;Neuilly-sur-Marne;48.855;2.525;R;GPLc;4;2023-02-16 17:12:32;;definitive
+93330006;29-33 BLD DU MARECHAL FOCH;Neuilly-sur-Marne;48.855;2.525;R;SP98;6;2026-07-09 20:59:56;;temporaire
 26600014;RN7;Pont-de-l'Isère;45.008;4.87;R;GPLc;4;2022-09-10 19:44:26;;definitive
 26600014;RN7;Pont-de-l'Isère;45.008;4.87;R;SP95;2;2025-07-07 11:03:38;;definitive
 30900016;BD PASTEUR MARC BOEGNER;NIMES;43.822;4.329;R;SP95;2;2024-06-18 23:16:54;;definitive
