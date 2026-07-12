@@ -17921,6 +17921,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 3110003;24 Village Des Combes;Broût-Vernet;46.192;3.265;R;E85;3;2018-03-02 07:45:21;;definitive
 3110003;24 Village Des Combes;Broût-Vernet;46.192;3.265;R;GPLc;4;2018-03-02 07:45:22;;definitive
 3110003;24 Village Des Combes;Broût-Vernet;46.192;3.265;R;SP95;2;2019-04-05 12:22:18;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E85;3;2020-11-19 16:17:07;;definitive
+58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;GPLc;4;2020-11-19 16:17:08;;definitive
 63700007;2 route de Clermont Ferrand;St Eloy les Mines;46.161214900000004;2.8351164;R;E85;3;2021-07-30 18:43:02;;definitive
 63700007;2 route de Clermont Ferrand;St Eloy les Mines;46.161214900000004;2.8351164;R;GPLc;4;2021-07-30 18:43:02;;definitive
 47700001;3 rue henri iv;Casteljaloux;44.314;0.081;R;GPLc;4;2020-10-24 14:34:39;;definitive
@@ -17933,9 +17936,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;E10;5;2026-07-11 19:58:10;;temporaire
 38870001;Le Bizolle;Saint-Siméon-de-Bressieux;45.335058085041;5.2656225241942005;R;GPLc;4;2017-10-23 08:53:14;;definitive
 38870001;Le Bizolle;Saint-Siméon-de-Bressieux;45.335058085041;5.2656225241942005;R;SP95;2;2026-03-10 08:14:30;;definitive
-58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
-58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E85;3;2020-11-19 16:17:07;;definitive
-58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;GPLc;4;2020-11-19 16:17:08;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;SP95;2;2023-08-02 09:47:35;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;E85;3;2023-08-02 09:47:35;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;GPLc;4;2023-08-02 09:47:35;;definitive
@@ -21440,6 +21440,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 2000013;RUE DU DOCTEUR MENU;LAON;49.561343;3.6409990000000003;R;GPLc;4;2025-11-04 13:06:18;;temporaire
 2000013;RUE DU DOCTEUR MENU;LAON;49.561343;3.6409990000000003;R;SP98;6;2025-11-04 13:06:18;;temporaire
 2000013;RUE DU DOCTEUR MENU;LAON;49.561343;3.6409990000000003;R;E10;5;2026-05-19 08:31:00;;temporaire
+69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP95;2;2024-02-14 18:46:57;;definitive
+69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;GPLc;4;2024-02-14 18:46:57;;definitive
+69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP98;6;2024-02-14 18:46:57;;definitive
 93240008;17 AVENUE MARCEL CACHIN;STAINS;48.95763;2.38253;R;SP95;2;2024-06-18 16:32:54;;definitive
 93240008;17 AVENUE MARCEL CACHIN;STAINS;48.95763;2.38253;R;E85;3;2024-06-18 16:32:54;;definitive
 93240008;17 AVENUE MARCEL CACHIN;STAINS;48.95763;2.38253;R;GPLc;4;2024-06-18 16:32:54;;definitive
@@ -21447,9 +21450,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;SP95;2;2013-10-01 00:52:00;;
 44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;SP95;2;2017-09-01 19:41:18;;definitive
 44190004;Recouvrance;GéTIGNé;47.078;-1.24;R;GPLc;4;2017-09-01 19:41:19;;definitive
-69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP95;2;2024-02-14 18:46:57;;definitive
-69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;GPLc;4;2024-02-14 18:46:57;;definitive
-69210003;33 RUE DE PARIS  RN7;L'Arbresle;45.838;4.611;R;SP98;6;2024-02-14 18:46:57;;definitive
 73202001;29 Rue Raymond Bertrand;Albertville;45.661;6.384;R;SP95;2;2017-09-01 08:40:19;;definitive
 73202001;29 Rue Raymond Bertrand;Albertville;45.661;6.384;R;GPLc;4;2017-09-01 08:40:19;;definitive
 14790002;62 rue du general leclerc;verson;49.156;-0.45;R;SP95;2;2025-07-30 07:43:08;;definitive
