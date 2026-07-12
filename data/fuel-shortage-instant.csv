@@ -8984,11 +8984,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 79000008;358 Route d'Aiffres;NIORT;46.304;-0.438;R;GPLc;4;2022-11-09 08:41:46;;temporaire
 79000008;358 Route d'Aiffres;NIORT;46.304;-0.438;R;E10;5;2026-07-11 17:53:05;;temporaire
 45190014;Aire de Beaugency-Messas, Autoroute A10;Messas;47.819107954506;1.6414407471436;A;E85;3;2022-02-22 11:43:43;;definitive
+87000027;270 ROUTE DE TOULOUSE;LIMOGES;45.812;1.282;R;SP95;2;2018-12-10 08:26:59;;definitive
+87000027;270 ROUTE DE TOULOUSE;LIMOGES;45.812;1.282;R;SP98;6;2026-07-10 12:57:59;;temporaire
 12200001;9 Avenue des Croates;VILLEFRANCHE-DE-ROUERGUE;44.361;2.041;R;SP95;2;2017-10-14 07:40:06;;definitive
 12200001;9 Avenue des Croates;VILLEFRANCHE-DE-ROUERGUE;44.361;2.041;R;E85;3;2017-10-14 07:40:06;;definitive
 12200001;9 Avenue des Croates;VILLEFRANCHE-DE-ROUERGUE;44.361;2.041;R;GPLc;4;2017-10-14 07:40:06;;definitive
-87000027;270 ROUTE DE TOULOUSE;LIMOGES;45.812;1.282;R;SP95;2;2018-12-10 08:26:59;;definitive
-87000027;270 ROUTE DE TOULOUSE;LIMOGES;45.812;1.282;R;SP98;6;2026-07-10 12:57:59;;temporaire
 44570006;ROUTE DE ST NAZAIRE - Z.C. SAVIN;TRIGNAC;47.293;-2.209;R;GPLc;4;2023-04-02 20:58:17;;definitive
 44570006;ROUTE DE ST NAZAIRE - Z.C. SAVIN;TRIGNAC;47.293;-2.209;R;SP95;2;2024-10-11 10:14:14;;definitive
 60360002;8 avenue du Général de Gaulle;Crèvecœur-le-Grand;49.604;2.085;R;E85;3;2023-12-19 14:26:31;;definitive
@@ -9201,11 +9201,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;E85;3;2017-09-01 19:11:52;;definitive
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;GPLc;4;2017-09-01 19:11:52;;definitive
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;SP98;6;2017-09-01 19:11:53;;definitive
-77610003;7 rue Marguerite Perey;Fontenay-Trésigny;48.698;2.889;R;SP95;2;2021-09-22 19:11:56;;definitive
-77610003;7 rue Marguerite Perey;Fontenay-Trésigny;48.698;2.889;R;GPLc;4;2021-09-22 19:11:57;;definitive
 37230003;4 AVENUE JAURES;FONDETTES;47.4033668855;0.605448665855;R;E85;3;2017-09-26 09:28:01;;definitive
 37230003;4 AVENUE JAURES;FONDETTES;47.4033668855;0.605448665855;R;GPLc;4;2017-09-26 09:28:01;;definitive
 37230003;4 AVENUE JAURES;FONDETTES;47.4033668855;0.605448665855;R;SP95;2;2024-05-07 11:36:51;;definitive
+77610003;7 rue Marguerite Perey;Fontenay-Trésigny;48.698;2.889;R;SP95;2;2021-09-22 19:11:56;;definitive
+77610003;7 rue Marguerite Perey;Fontenay-Trésigny;48.698;2.889;R;GPLc;4;2021-09-22 19:11:57;;definitive
 1400006;AVENUE PIERRE MARCAULT;Châtillon-sur-Chalaronne;46.117;4.95;R;SP98;6;2017-12-29 13:16:34;;definitive
 1400006;AVENUE PIERRE MARCAULT;Châtillon-sur-Chalaronne;46.117;4.95;R;E85;3;2018-08-03 11:54:59;;definitive
 1400006;AVENUE PIERRE MARCAULT;Châtillon-sur-Chalaronne;46.117;4.95;R;GPLc;4;2018-08-03 12:02:45;;definitive
@@ -9245,6 +9245,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP95;2;2024-08-23 14:53:45;;temporaire
 68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;GPLc;4;2024-08-23 14:53:45;;temporaire
 68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;E85;3;2024-08-23 14:53:57;;temporaire
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP98;6;2026-07-12 02:16:57;;temporaire
 13011027;73 Boulevard de Saint Marcel;Marseille 11e Arrondissement;43.288883771769;5.4598792629444;R;SP95;2;2024-08-09 16:43:04;;definitive
 13011027;73 Boulevard de Saint Marcel;Marseille 11e Arrondissement;43.288883771769;5.4598792629444;R;E85;3;2024-08-09 16:43:04;;definitive
 13011027;73 Boulevard de Saint Marcel;Marseille 11e Arrondissement;43.288883771769;5.4598792629444;R;GPLc;4;2025-03-13 14:16:41;;definitive
@@ -12991,6 +12992,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;GPLc;4;2020-06-25 17:31:49;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;SP98;6;2020-06-25 17:31:50;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;E10;5;2022-09-16 09:06:53;;definitive
+77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;SP95;2;2017-09-06 13:17:38;;definitive
+77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;E85;3;2017-09-06 13:17:38;;definitive
 45290001;rue raymond picault;Nogent-sur-Vernisson;47.845;2.742;R;E85;3;2017-11-18 16:21:44;;definitive
 45290001;rue raymond picault;Nogent-sur-Vernisson;47.845;2.742;R;GPLc;4;2017-11-18 16:21:44;;definitive
 85140001;CC  LES CHARMETTES;Les Essarts;46.765;-1.235;R;SP95;2;2022-11-14 17:29:33;;definitive
@@ -12999,15 +13002,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;GPLc;4;2017-10-18 14:04:36;;definitive
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;SP95;2;2017-10-31 15:55:01;;definitive
 83000010;160 BOULEVARD G.CLEMENCEAU;TOULON;43.124;5.937;R;SP95;2;2019-01-15 10:58:42;;definitive
-77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;SP95;2;2017-09-06 13:17:38;;definitive
-77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;E85;3;2017-09-06 13:17:38;;definitive
 33450007;101 avenue de la République;Saint-Loubès;44.916;-0.422;R;E85;3;2021-05-25 14:38:20;;definitive
 33450007;101 avenue de la République;Saint-Loubès;44.916;-0.422;R;GPLc;4;2021-05-25 14:38:21;;definitive
 33450007;101 avenue de la République;Saint-Loubès;44.916;-0.422;R;E10;5;2021-05-25 14:38:21;;definitive
 70000010;Rue Olivier Albert;NOIDANS-LèS-VESOUL;47.615;6.136;R;SP95;2;2021-10-01 08:27:56;;definitive
 70000010;Rue Olivier Albert;NOIDANS-LèS-VESOUL;47.615;6.136;R;E85;3;2021-10-04 08:25:03;;definitive
 70000010;Rue Olivier Albert;NOIDANS-LèS-VESOUL;47.615;6.136;R;GPLc;4;2021-10-04 08:25:04;;definitive
-64530004;AUTOROUTE A64 AIRE DE PYRÉNÉES - AIRE DES PYRÉNÉES;GER;43.23019;-0.07925;A;SP95;2;2018-07-20 13:27:54;;definitive
 19490002;la chapeloune;STE FORTUNADE;45.196;1.774;R;SP95;2;2017-10-05 16:52:46;;definitive
 19490002;la chapeloune;STE FORTUNADE;45.196;1.774;R;E85;3;2017-10-05 16:52:46;;definitive
 19490002;la chapeloune;STE FORTUNADE;45.196;1.774;R;GPLc;4;2017-10-05 16:52:46;;definitive
@@ -13020,6 +13020,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 1980001;63 Rue du Bugey;LOYETTES;45.779;5.213;R;E85;3;2017-09-28 19:02:47;;definitive
 1980001;63 Rue du Bugey;LOYETTES;45.779;5.213;R;GPLc;4;2017-09-28 19:02:47;;definitive
 1980001;63 Rue du Bugey;LOYETTES;45.779;5.213;R;SP95;2;2024-10-03 19:07:26;;definitive
+64530004;AUTOROUTE A64 AIRE DE PYRÉNÉES - AIRE DES PYRÉNÉES;GER;43.23019;-0.07925;A;SP95;2;2018-07-20 13:27:54;;definitive
+64530004;AUTOROUTE A64 AIRE DE PYRÉNÉES - AIRE DES PYRÉNÉES;GER;43.23019;-0.07925;A;SP98;6;2026-07-12 02:32:59;;temporaire
 22300006;Rue Paul SalaunParc Activités Izellan;PLOUBEZRE;48.714;-3.454;R;SP95;2;2017-09-04 15:41:29;;definitive
 22300006;Rue Paul SalaunParc Activités Izellan;PLOUBEZRE;48.714;-3.454;R;GPLc;4;2017-09-04 15:41:30;;definitive
 59650001;10 PLACE DE LA REPUBLIQUE;Villeneuve-d'Ascq;50.62625;3.14909;R;GPLc;4;2017-09-07 08:46:48;;definitive
