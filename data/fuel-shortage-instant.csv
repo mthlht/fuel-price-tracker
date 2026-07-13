@@ -8320,6 +8320,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35000025;19, BD LEON BOURGEOIS;RENNES;48.098902183757;-1.6540071882226999;R;SP95;2;2026-03-27 18:43:44;;definitive
 35000025;19, BD LEON BOURGEOIS;RENNES;48.098902183757;-1.6540071882226999;R;E85;3;2026-03-27 18:43:44;;definitive
 35000025;19, BD LEON BOURGEOIS;RENNES;48.098902183757;-1.6540071882226999;R;GPLc;4;2026-03-27 18:43:44;;definitive
+35000025;19, BD LEON BOURGEOIS;RENNES;48.098902183757;-1.6540071882226999;R;E10;5;2026-07-13 22:09:52;;temporaire
+35000025;19, BD LEON BOURGEOIS;RENNES;48.098902183757;-1.6540071882226999;R;SP98;6;2026-07-13 22:09:52;;temporaire
 71370001;PLACE DU MARCHE;Saint-Germain-du-Plain;46.705;4.981;R;GPLc;4;2016-05-30 12:00:00;;
 71370001;PLACE DU MARCHE;Saint-Germain-du-Plain;46.705;4.981;R;E85;3;2017-09-25 12:11:06;;definitive
 71370001;PLACE DU MARCHE;Saint-Germain-du-Plain;46.705;4.981;R;E10;5;2017-09-25 12:11:07;;definitive
@@ -11819,14 +11821,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 30340004;RTE DE BAGNOLS;Saint-Privat-des-Vieux;44.13;4.124;R;SP95;2;2022-03-02 18:19:54;;definitive
 30340004;RTE DE BAGNOLS;Saint-Privat-des-Vieux;44.13;4.124;R;GPLc;4;2022-03-02 18:19:54;;definitive
-66000020;Impasse Jacques de Noëll;PERPIGNAN;42.726622344591;2.8992196288361;R;SP95;2;2019-01-08 11:09:52;;definitive
-66000020;Impasse Jacques de Noëll;PERPIGNAN;42.726622344591;2.8992196288361;R;GPLc;4;2019-01-08 11:09:53;;definitive
 80200005;AUTOROUTE A 1;Péronne;49.887;2.837;A;SP95;2;2010-03-23 11:54:00;;
 36110001;Route de Villegongis;LEVROUX;46.973;1.612;R;SP95;2;2020-05-18 14:21:16;;definitive
 36110001;Route de Villegongis;LEVROUX;46.973;1.612;R;GPLc;4;2020-05-18 14:21:16;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;SP95;2;2024-02-24 19:28:43;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;E85;3;2024-02-24 19:28:43;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;GPLc;4;2026-07-07 11:28:43;;temporaire
+66000020;Impasse Jacques de Noëll;PERPIGNAN;42.726622344591;2.8992196288361;R;SP95;2;2019-01-08 11:09:52;;definitive
+66000020;Impasse Jacques de Noëll;PERPIGNAN;42.726622344591;2.8992196288361;R;GPLc;4;2019-01-08 11:09:53;;definitive
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;SP95;2;2022-01-04 08:35:01;;definitive
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;GPLc;4;2022-01-04 08:35:02;;definitive
 78360004;150 AVE PAUL DOUMER;MONTESSON;48.909;2.159;R;GPLc;4;2024-03-04 14:48:16;;definitive
@@ -13543,8 +13545,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33720005;La Tour Rn 113;Cérons;44.633;-0.335;R;E10;5;2022-11-04 11:22:11;;definitive
 86370006;Aire des vieilles etables RN 10;VIVONNE;46.386460845681995;0.22097741127015;R;SP95;2;2017-10-26 11:39:37;;definitive
 86370006;Aire des vieilles etables RN 10;VIVONNE;46.386460845681995;0.22097741127015;R;E85;3;2018-10-29 17:23:32;;definitive
-60160003;33, RUE GUY MOQUET;MONTATAIRE;49.256;2.432;R;SP95;2;2017-09-25 15:35:20;;definitive
-60160003;33, RUE GUY MOQUET;MONTATAIRE;49.256;2.432;R;GPLc;4;2017-09-25 15:35:21;;definitive
 29170004;16 Route de Quimper;FOUESNANT;47.898;-4.017;R;E85;3;2017-09-04 15:38:42;;definitive
 29170004;16 Route de Quimper;FOUESNANT;47.898;-4.017;R;GPLc;4;2017-09-04 15:38:42;;definitive
 29170004;16 Route de Quimper;FOUESNANT;47.898;-4.017;R;SP95;2;2026-06-02 08:23:26;;definitive
@@ -13567,6 +13567,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 44000005;55 Boulevard Jules Verne;Nantes;47.23769;-1.53264;R;E85;3;2023-08-21 11:25:23;;definitive
 44000005;55 Boulevard Jules Verne;Nantes;47.23769;-1.53264;R;GPLc;4;2026-04-08 13:30:24;;definitive
 44000005;55 Boulevard Jules Verne;Nantes;47.23769;-1.53264;R;E10;5;2026-04-08 13:30:24;;definitive
+60160003;33, RUE GUY MOQUET;MONTATAIRE;49.256;2.432;R;SP95;2;2017-09-25 15:35:20;;definitive
+60160003;33, RUE GUY MOQUET;MONTATAIRE;49.256;2.432;R;GPLc;4;2017-09-25 15:35:21;;definitive
 57310002; Boulevard de la Tournaille;GUéNANGE;49.29965;6.2093;R;E85;3;2020-07-02 11:06:38;;definitive
 57310002; Boulevard de la Tournaille;GUéNANGE;49.29965;6.2093;R;SP95;2;2026-02-03 09:37:14;;definitive
 64480005;506 CHEMIN ARKIA;USTARITZ;43.423;-1.465;R;SP98;6;2014-06-01 00:00:00;;
@@ -18970,6 +18972,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 91160010;1 rue du pont neuf;Saulx-les-Chartreux;48.694;2.282;R;E10;5;2024-05-16 09:55:13;;definitive
 91160010;1 rue du pont neuf;Saulx-les-Chartreux;48.694;2.282;R;SP98;6;2024-05-16 09:55:13;;definitive
 91160010;1 rue du pont neuf;Saulx-les-Chartreux;48.694;2.282;R;E85;3;2022-11-30 07:54:42;;temporaire
+66000016;3170, Avenue Julien Panchot;Perpignan;42.679;2.852;R;SP95;2;2017-08-29 18:47:22;;definitive
+66000016;3170, Avenue Julien Panchot;Perpignan;42.679;2.852;R;GPLc;4;2017-08-29 18:47:22;;definitive
 17700003;Espace Jean-Philippe Rameau;SURGERES;46.111;-0.739;R;SP95;2;2022-04-04 14:46:34;;temporaire
 17700003;Espace Jean-Philippe Rameau;SURGERES;46.111;-0.739;R;GPLc;4;2026-05-28 08:53:48;;temporaire
 76280002;2 place du Marché;Gonneville-la-Mallet;49.64033;0.22423;R;E85;3;2018-01-12 10:38:58;;definitive
@@ -18978,8 +18982,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59780001;31 AVENUE D OGIMONT;Baisieux;50.615;3.237;R;E85;3;2020-02-06 07:34:27;;definitive
 59780001;31 AVENUE D OGIMONT;Baisieux;50.615;3.237;R;GPLc;4;2020-02-06 07:34:27;;definitive
 59780001;31 AVENUE D OGIMONT;Baisieux;50.615;3.237;R;SP95;2;2023-12-14 17:00:13;;definitive
-66000016;3170, Avenue Julien Panchot;Perpignan;42.679;2.852;R;SP95;2;2017-08-29 18:47:22;;definitive
-66000016;3170, Avenue Julien Panchot;Perpignan;42.679;2.852;R;GPLc;4;2017-08-29 18:47:22;;definitive
 33113002;Route de Sore;SAINT-SYMPHORIEN;44.429;-0.491;R;E85;3;2017-08-30 12:16:19;;definitive
 33113002;Route de Sore;SAINT-SYMPHORIEN;44.429;-0.491;R;GPLc;4;2017-08-30 12:16:19;;definitive
 33113002;Route de Sore;SAINT-SYMPHORIEN;44.429;-0.491;R;SP95;2;2018-10-19 08:58:16;;definitive
