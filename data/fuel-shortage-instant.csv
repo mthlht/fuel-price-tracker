@@ -3615,14 +3615,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 53200003;11 Avenue René Cassin;Azé;47.836;-0.689;R;E10;5;2023-05-03 08:44:35;;definitive
 53200003;11 Avenue René Cassin;Azé;47.836;-0.689;R;E85;3;2023-04-17 11:36:58;;definitive
 53200003;11 Avenue René Cassin;Azé;47.836;-0.689;R;SP98;6;2023-04-17 11:36:59;;definitive
-33220007;15 Avenue du Maréchal Juin;PINEUILH;44.841;0.23;R;E85;3;2019-02-18 19:24:34;;definitive
-33220007;15 Avenue du Maréchal Juin;PINEUILH;44.841;0.23;R;GPLc;4;2019-02-18 19:24:34;;definitive
-33220007;15 Avenue du Maréchal Juin;PINEUILH;44.841;0.23;R;SP98;6;2019-02-18 19:24:35;;definitive
 89130001;Rue de la Chatterie;TOUCY;47.762;3.254;R;SP95;2;2019-01-03 15:06:40;;temporaire
 89130001;Rue de la Chatterie;TOUCY;47.762;3.254;R;E85;3;2017-10-31 15:30:12;;temporaire
 89130001;Rue de la Chatterie;TOUCY;47.762;3.254;R;GPLc;4;2017-10-31 15:30:12;;temporaire
 73150003;278 Avenue Olympique;Val-d'Isère;45.450357003981;6.9771820312743005;R;GPLc;4;2021-11-02 17:16:34;;definitive
 73150003;278 Avenue Olympique;Val-d'Isère;45.450357003981;6.9771820312743005;R;E10;5;2024-02-07 13:02:24;;definitive
+33220007;15 Avenue du Maréchal Juin;PINEUILH;44.841;0.23;R;E85;3;2019-02-18 19:24:34;;definitive
+33220007;15 Avenue du Maréchal Juin;PINEUILH;44.841;0.23;R;GPLc;4;2019-02-18 19:24:34;;definitive
+33220007;15 Avenue du Maréchal Juin;PINEUILH;44.841;0.23;R;SP98;6;2019-02-18 19:24:35;;definitive
 11210002;928, Boulevard Général de Gaulle;PORT-LA-NOUVELLE;43.015;3.05;R;GPLc;4;2017-09-06 16:33:57;;definitive
 11210002;928, Boulevard Général de Gaulle;PORT-LA-NOUVELLE;43.015;3.05;R;SP95;2;2017-10-11 17:27:25;;definitive
 26000020;QUARTIER DE CHANTECOURIOLAVENUE DE PROVENCE;VALENCE;44.908;4.878;R;SP95;2;2024-05-07 09:01:38;;definitive
@@ -4016,9 +4016,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 20137006;route de bastia;Porto-Vecchio;41.614;9.28;R;SP98;6;2018-06-16 10:21:02;;definitive
 25000011;8 Place René Cassin;Besançon;47.218;5.97;R;GPLc;4;2017-11-06 10:14:50;;definitive
 25000011;8 Place René Cassin;Besançon;47.218;5.97;R;SP95;2;2018-12-06 09:12:13;;definitive
-92000021;182 RUE P.VAILLANT COUTURIER;NANTERRE;48.881;2.206;R;SP95;2;2017-09-25 14:29:02;;definitive
-92000021;182 RUE P.VAILLANT COUTURIER;NANTERRE;48.881;2.206;R;E85;3;2017-09-25 14:29:03;;definitive
-92000021;182 RUE P.VAILLANT COUTURIER;NANTERRE;48.881;2.206;R;GPLc;4;2017-09-25 14:29:03;;definitive
 69490001;RN 7;Saint-Loup;45.8802707838;4.47246388916;R;SP98;6;2016-03-24 00:00:00;;
 69490001;RN 7;Saint-Loup;45.8802707838;4.47246388916;R;GPLc;4;2016-04-30 00:00:00;;
 69490001;RN 7;Saint-Loup;45.8802707838;4.47246388916;R;E85;3;2016-04-30 00:00:00;;
@@ -4041,6 +4038,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 26300015;C/C ALPES DE PROVENCE;Bourg-de-Péage;45.035;5.054;R;GPLc;4;2025-01-16 10:09:38;;definitive
 26300015;C/C ALPES DE PROVENCE;Bourg-de-Péage;45.035;5.054;R;SP95;2;2025-01-16 10:09:38;;definitive
 26300015;C/C ALPES DE PROVENCE;Bourg-de-Péage;45.035;5.054;R;E85;3;2025-01-16 10:09:38;;definitive
+92000021;182 RUE P.VAILLANT COUTURIER;NANTERRE;48.881;2.206;R;SP95;2;2017-09-25 14:29:02;;definitive
+92000021;182 RUE P.VAILLANT COUTURIER;NANTERRE;48.881;2.206;R;E85;3;2017-09-25 14:29:03;;definitive
+92000021;182 RUE P.VAILLANT COUTURIER;NANTERRE;48.881;2.206;R;GPLc;4;2017-09-25 14:29:03;;definitive
 59411001;Rue Jacquard;COUDEKERQUE-BRANCHE;51.016;2.382;R;SP95;2;2017-09-04 10:12:21;;definitive
 23230001; Avenue du Berry;GOUZON;46.19516;2.23891;R;E85;3;2017-08-31 12:45:55;;definitive
 23230001; Avenue du Berry;GOUZON;46.19516;2.23891;R;GPLc;4;2017-08-31 12:45:56;;definitive
@@ -12410,6 +12410,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 34560001;31 rue Sauta Roch;Villeveyrac;43.499;3.592;R;SP95;2;2017-09-01 19:50:10;;definitive
 34560001;31 rue Sauta Roch;Villeveyrac;43.499;3.592;R;E85;3;2017-09-01 19:50:10;;definitive
 34560001;31 rue Sauta Roch;Villeveyrac;43.499;3.592;R;GPLc;4;2017-09-01 19:50:10;;definitive
+6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;E85;3;2010-02-18 16:01:00;;
+6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;GPLc;4;2010-02-18 16:01:00;;
+6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;E85;3;2017-08-29 12:22:10;;definitive
+6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;GPLc;4;2017-08-29 12:22:10;;definitive
 13370003;Avenue de Craponne;Mallemort;43.73069;5.16906;R;SP95;2;2018-02-28 08:22:58;;definitive
 13370003;Avenue de Craponne;Mallemort;43.73069;5.16906;R;GPLc;4;2017-10-03 08:32:11;;definitive
 13370003;Avenue de Craponne;Mallemort;43.73069;5.16906;R;E10;5;2026-07-11 13:17:11;;temporaire
@@ -12442,10 +12446,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 82350001;60 RN 20;Albias;44.09;1.447;R;E85;3;2017-09-21 17:15:47;;definitive
 82350001;60 RN 20;Albias;44.09;1.447;R;GPLc;4;2017-09-21 17:15:47;;definitive
 82350001;60 RN 20;Albias;44.09;1.447;R;SP95;2;2020-09-07 14:52:25;;definitive
-6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;E85;3;2010-02-18 16:01:00;;
-6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;GPLc;4;2010-02-18 16:01:00;;
-6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;E85;3;2017-08-29 12:22:10;;definitive
-6480002;344, Chemin des Moulières;LA COLLE-SUR-LOUP;43.674;7.123;R;GPLc;4;2017-08-29 12:22:10;;definitive
 87320001;23 BEAULIEU;Bussière-Poitevine;46.232;0.898;R;E85;3;2025-06-17 16:34:03;;definitive
 87320001;23 BEAULIEU;Bussière-Poitevine;46.232;0.898;R;GPLc;4;2025-06-17 16:34:03;;definitive
 87320001;23 BEAULIEU;Bussière-Poitevine;46.232;0.898;R;E10;5;2025-06-17 16:34:03;;definitive
@@ -12457,9 +12457,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 7580002;RN 102;Saint-Jean-le-Centenier;44.584;4.532;R;E85;3;2021-05-11 08:46:14;;definitive
 7580002;RN 102;Saint-Jean-le-Centenier;44.584;4.532;R;GPLc;4;2021-05-11 08:46:14;;definitive
 7580002;RN 102;Saint-Jean-le-Centenier;44.584;4.532;R;SP95;2;2025-07-12 08:01:47;;definitive
-44360008;ROUTE NATIONALE 165;Vigneux-de-Bretagne;47.33;-1.781;R;E85;3;2023-05-03 17:42:03;;definitive
-44360008;ROUTE NATIONALE 165;Vigneux-de-Bretagne;47.33;-1.781;R;GPLc;4;2023-05-03 17:42:03;;definitive
-44360008;ROUTE NATIONALE 165;Vigneux-de-Bretagne;47.33;-1.781;R;Gazole;1;2026-07-18 21:36:12;;temporaire
 80230003;HAMEAU DE PINCHEFALISE;Boismont;50.172;1.649;R;E85;3;2017-08-30 05:28:28;;definitive
 80230003;HAMEAU DE PINCHEFALISE;Boismont;50.172;1.649;R;GPLc;4;2017-08-30 05:28:28;;definitive
 80230003;HAMEAU DE PINCHEFALISE;Boismont;50.172;1.649;R;E10;5;2017-08-30 05:28:28;;definitive
@@ -12491,6 +12488,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 58210001;AVENUE DE LA CHARITE;VARZY;47.355;3.386;R;E10;5;2021-06-09 17:59:16;;definitive
 6320003;AUTOROUTE A8 / ESSO - BP 102 (4391808);La Turbie;43.755;7.398;A;SP95;2;2018-10-19 12:16:25;;definitive
 6320003;AUTOROUTE A8 / ESSO - BP 102 (4391808);La Turbie;43.755;7.398;A;E85;3;2018-10-19 12:16:26;;definitive
+44360008;ROUTE NATIONALE 165;Vigneux-de-Bretagne;47.33;-1.781;R;E85;3;2023-05-03 17:42:03;;definitive
+44360008;ROUTE NATIONALE 165;Vigneux-de-Bretagne;47.33;-1.781;R;GPLc;4;2023-05-03 17:42:03;;definitive
 85300004;Rue St François;Challans;46.843;-1.887;R;SP95;2;2019-03-21 09:07:18;;definitive
 85300004;Rue St François;Challans;46.843;-1.887;R;GPLc;4;2018-07-26 10:02:26;;definitive
 79140002;Avenue de la Gare;CERIZAY;46.818;-0.666;R;E85;3;2017-09-04 19:14:36;;definitive
@@ -21953,6 +21952,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 37540005;181 Boulevard Charles De Gaulle;Saint-Cyr-sur-Loire;47.418695091768996;0.66465516532672;R;GPLc;4;2020-10-20 13:36:37;;definitive
 37540005;181 Boulevard Charles De Gaulle;Saint-Cyr-sur-Loire;47.418695091768996;0.66465516532672;R;SP98;6;2026-07-18 07:59:36;;temporaire
 37540005;181 Boulevard Charles De Gaulle;Saint-Cyr-sur-Loire;47.418695091768996;0.66465516532672;R;E10;5;2026-07-18 13:11:03;;temporaire
+2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;GPLc;4;2022-10-07 07:00:53;;definitive
+2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;SP95;2;2026-07-12 07:50:44;;temporaire
+2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;Gazole;1;2026-07-18 21:06:25;;temporaire
+2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;E85;3;2026-07-18 21:06:25;;temporaire
+2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;E10;5;2026-07-18 21:06:26;;temporaire
+2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;SP98;6;2026-07-18 21:06:26;;temporaire
 59290002;Rue de la Couture;Wasquehal;50.653;3.126;R;SP95;2;2010-03-11 09:17:00;;
 59290002;Rue de la Couture;Wasquehal;50.653;3.126;R;GPLc;4;2025-03-03 11:12:55;;temporaire
 83120001;164 Route du Plan-de-la-Tour;SAINTE-MAXIME;43.32;6.628;R;SP95;2;2017-09-06 15:53:57;;definitive
@@ -21962,12 +21967,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63270002;ZAC des Meules 2;Vic-le-Comte;45.646215999999995;3.226488;R;GPLc;4;2019-10-17 17:12:32;;definitive
 63270002;ZAC des Meules 2;Vic-le-Comte;45.646215999999995;3.226488;R;SP98;6;2019-10-17 17:12:32;;definitive
 26000014;162 AVENUE DE PROVENCE;VALENCE;44.919;4.878;R;SP95;2;2023-05-11 17:03:51;;definitive
-2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;GPLc;4;2022-10-07 07:00:53;;definitive
-2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;SP95;2;2026-07-12 07:50:44;;temporaire
-2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;Gazole;1;2026-07-18 21:06:25;;temporaire
-2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;E85;3;2026-07-18 21:06:25;;temporaire
-2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;E10;5;2026-07-18 21:06:26;;temporaire
-2100020;BLD CAMILLE GUERIN;Saint-Quentin;49.834;3.3;R;SP98;6;2026-07-18 21:06:26;;temporaire
 17132001;47 RUE DE L'EGLISE;MESCHERS-SUR-GIRONDE;45.559;-0.954;R;E85;3;2017-09-05 16:25:58;;definitive
 17132001;47 RUE DE L'EGLISE;MESCHERS-SUR-GIRONDE;45.559;-0.954;R;GPLc;4;2017-09-05 16:25:58;;definitive
 17132001;47 RUE DE L'EGLISE;MESCHERS-SUR-GIRONDE;45.559;-0.954;R;SP95;2;2019-01-07 14:34:17;;definitive
