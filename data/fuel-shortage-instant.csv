@@ -19804,13 +19804,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 25150002;26 Rue des Bouleaux;Pont-de-Roide;47.391;6.77;R;E10;5;2026-07-18 15:15:32;;temporaire
 38160003;28, route de Grenoble;SAINT-SAUVEUR;45.161;5.35;R;GPLc;4;2022-02-12 18:54:01;;definitive
 38160003;28, route de Grenoble;SAINT-SAUVEUR;45.161;5.35;R;SP95;2;2023-01-12 14:38:36;;definitive
+13010011;171 BD PAUL CLAUDEL;MARSEILLE;43.268;5.415;R;E85;3;2026-07-18 16:15:07;;temporaire
+13010011;171 BD PAUL CLAUDEL;MARSEILLE;43.268;5.415;R;SP98;6;2026-07-20 00:26:48;;temporaire
 30000006;47 Boulevard Talabot;Nîmes;43.838;4.372;R;SP95;2;2022-10-14 16:18:27;;temporaire
 81100004;BOULEVARD CARNOT;Castres;43.607;2.245;R;SP95;2;2011-05-12 14:40:00;;
 31400006;90 Route de Revel;TOULOUSE;43.575;1.49;R;SP95;2;2011-05-05 17:00:00;;
 54270002;55 Avenue du 69ème Régiment d'Infanterie;Essey-lès-Nancy;48.708;6.235;R;SP95;2;2011-02-15 14:31:00;;
 54270002;55 Avenue du 69ème Régiment d'Infanterie;Essey-lès-Nancy;48.708;6.235;R;E85;3;2022-10-13 11:19:11;;temporaire
 54270002;55 Avenue du 69ème Régiment d'Infanterie;Essey-lès-Nancy;48.708;6.235;R;GPLc;4;2022-10-13 11:19:11;;temporaire
-13010011;171 BD PAUL CLAUDEL;MARSEILLE;43.268;5.415;R;E85;3;2026-07-18 16:15:07;;temporaire
 41170002;Route de Cloyes;Mondoubleau;47.983;0.913;R;E85;3;2017-09-01 08:35:55;;definitive
 41170002;Route de Cloyes;Mondoubleau;47.983;0.913;R;GPLc;4;2017-09-01 08:35:55;;definitive
 10250002;3 Rue Paul Terillon;Mussy-sur-Seine;47.975;4.494;R;GPLc;4;2019-05-06 15:50:07;;definitive
