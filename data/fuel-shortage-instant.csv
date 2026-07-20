@@ -35,6 +35,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33210008;route de Bazas ZI dumes;LANGON;44.542;-0.242;R;GPLc;4;2020-03-11 08:59:39;;definitive
 77141003;RN4 route de Pecy, lieu dit Lugins;Vaudoy-en-Brie;48.6840914;3.0871627000000004;R;GPLc;4;2018-03-22 17:38:07;;definitive
 77141003;RN4 route de Pecy, lieu dit Lugins;Vaudoy-en-Brie;48.6840914;3.0871627000000004;R;SP95;2;2018-11-15 13:43:37;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E85;3;2017-09-15 12:11:43;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;GPLc;4;2017-09-15 12:11:43;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E10;5;2017-09-15 12:11:44;;definitive
+7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;SP98;6;2017-09-15 12:11:44;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;E85;3;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;GPLc;4;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;SP95;2;2024-01-25 06:43:16;;definitive
@@ -52,10 +56,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59550001;Boulevard des Résistants;LANDRECIES;50.124;3.689;R;SP95;2;2023-12-16 09:57:32;;definitive
 83590001;Le Murier, RD 97;Gonfaron;43.316;6.275;R;SP95;2;2021-11-05 07:55:41;;definitive
 83590001;Le Murier, RD 97;Gonfaron;43.316;6.275;R;GPLc;4;2021-11-05 07:55:41;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E85;3;2017-09-15 12:11:43;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;GPLc;4;2017-09-15 12:11:43;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;E10;5;2017-09-15 12:11:44;;definitive
-7290000;Route d'Annonay;Satillieu;45.160197050871;4.6328811656225;R;SP98;6;2017-09-15 12:11:44;;definitive
 83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;E85;3;2019-02-15 09:09:18;;definitive
 83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;GPLc;4;2019-02-15 09:09:18;;definitive
 83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;SP98;6;2019-02-15 09:09:18;;definitive
@@ -4428,10 +4428,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59215001;RUE EMILE ZOLA;Abscon;50.336;3.303;R;SP95;2;2019-01-08 08:18:05;;definitive
 59215001;RUE EMILE ZOLA;Abscon;50.336;3.303;R;E85;3;2019-01-08 08:18:06;;definitive
 59215001;RUE EMILE ZOLA;Abscon;50.336;3.303;R;GPLc;4;2019-01-08 08:18:06;;definitive
-93800006;53 ROUTE DE SAINT LEU;Épinay-sur-Seine;48.949;2.343;R;SP95;2;2021-12-16 10:56:24;;definitive
 40160001;606 Avenue Bremontier;PARENTIS-EN-BORN;44.34909;-1.06754;R;SP98;6;2014-02-18 00:00:00;;
 40160001;606 Avenue Bremontier;PARENTIS-EN-BORN;44.34909;-1.06754;R;E85;3;2017-09-23 11:33:49;;definitive
 40160001;606 Avenue Bremontier;PARENTIS-EN-BORN;44.34909;-1.06754;R;GPLc;4;2017-09-23 11:33:49;;definitive
+93800006;53 ROUTE DE SAINT LEU;Épinay-sur-Seine;48.949;2.343;R;SP95;2;2021-12-16 10:56:24;;definitive
 35300005;39 bd de Groslay;FOUGERES;48.348;-1.182;R;SP95;2;2026-05-12 09:06:17;;definitive
 83400003;2 Avenue du Quinzième Corps;HYERES;43.12133;6.13816;R;SP95;2;2012-01-12 15:30:00;;
 56700006;5 Rue de la Madeleine;Merlevenez;47.736;-3.232;R;SP95;2;2017-09-06 09:52:36;;definitive
@@ -4825,12 +4825,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 56680001;Rue du 19 Mars 1962;PLOUHINEC;47.696;-3.245;R;SP95;2;2020-06-09 10:09:59;;definitive
 13011023;78 boulevard de la Millière;Marseille;43.283087461219004;5.4970422889938;R;SP95;2;2023-03-28 14:26:08;;definitive
 13011023;78 boulevard de la Millière;Marseille;43.283087461219004;5.4970422889938;R;GPLc;4;2023-03-28 14:26:08;;definitive
-28300004;Rue Gambetta;MAINVILLIERS;48.454;1.465;R;GPLc;4;2017-11-24 11:10:31;;definitive
-28300004;Rue Gambetta;MAINVILLIERS;48.454;1.465;R;SP95;2;2022-05-12 09:12:22;;definitive
-28300004;Rue Gambetta;MAINVILLIERS;48.454;1.465;R;E10;5;2026-07-19 10:57:38;;temporaire
 13006005;78 AV DE TOULON;MARSEILLE;43.285;5.391;R;SP95;2;2023-03-15 22:17:32;;definitive
 13006005;78 AV DE TOULON;MARSEILLE;43.285;5.391;R;E85;3;2023-03-15 22:17:32;;definitive
 13006005;78 AV DE TOULON;MARSEILLE;43.285;5.391;R;GPLc;4;2023-03-15 22:17:32;;definitive
+13006005;78 AV DE TOULON;MARSEILLE;43.285;5.391;R;E10;5;2026-07-20 01:10:56;;temporaire
+28300004;Rue Gambetta;MAINVILLIERS;48.454;1.465;R;GPLc;4;2017-11-24 11:10:31;;definitive
+28300004;Rue Gambetta;MAINVILLIERS;48.454;1.465;R;SP95;2;2022-05-12 09:12:22;;definitive
+28300004;Rue Gambetta;MAINVILLIERS;48.454;1.465;R;E10;5;2026-07-19 10:57:38;;temporaire
 18110001;Route de Paris;SAINT-MARTIN-D'AUXIGNY;47.210547849899996;2.42521747273;R;GPLc;4;2019-08-27 10:13:42;;definitive
 18110001;Route de Paris;SAINT-MARTIN-D'AUXIGNY;47.210547849899996;2.42521747273;R;E85;3;2023-05-05 14:38:13;;definitive
 18110001;Route de Paris;SAINT-MARTIN-D'AUXIGNY;47.210547849899996;2.42521747273;R;E10;5;2023-05-05 14:38:13;;definitive
@@ -5109,9 +5110,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76600023;600 RUE DE VERDUN;LE HAVRE;49.503;0.191;R;E85;3;2018-06-25 09:36:26;;definitive
 76600023;600 RUE DE VERDUN;LE HAVRE;49.503;0.191;R;GPLc;4;2018-06-25 09:36:26;;definitive
 76600023;600 RUE DE VERDUN;LE HAVRE;49.503;0.191;R;SP98;6;2018-06-25 09:36:26;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
-61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
 33121002;Route de Bordeaux;CARCANS;45.079;-1.037;R;E85;3;2017-08-30 09:53:21;;definitive
 33121002;Route de Bordeaux;CARCANS;45.079;-1.037;R;GPLc;4;2017-08-30 09:53:21;;definitive
 33121002;Route de Bordeaux;CARCANS;45.079;-1.037;R;E10;5;2023-08-11 15:34:47;;definitive
@@ -5127,6 +5125,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 74440002;382 Avenue de Thezières;TANINGES;46.102;6.59;R;GPLc;4;2018-12-20 14:46:28;;definitive
 74440002;382 Avenue de Thezières;TANINGES;46.102;6.59;R;E85;3;2019-04-09 13:54:46;;definitive
 74440002;382 Avenue de Thezières;TANINGES;46.102;6.59;R;E10;5;2019-04-09 13:54:46;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
+61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
 31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;SP95;2;2020-10-19 16:05:57;;definitive
 31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;E85;3;2020-10-19 16:05:58;;definitive
 31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;GPLc;4;2020-10-19 16:05:58;;definitive
@@ -7189,11 +7190,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;GPLc;4;2019-10-16 10:18:28;;definitive
 58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;E10;5;2019-10-16 10:18:28;;definitive
 58200008;9 route de l’aerodrome;Cosne cours sur Loire;47.378;2.923;A;SP98;6;2019-10-16 10:18:28;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;E85;3;2017-09-15 12:11:05;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;GPLc;4;2017-09-15 12:11:05;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;E10;5;2017-09-15 12:11:06;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;SP98;6;2017-09-15 12:11:06;;definitive
-43190002;za de leygat;TENCE;45.101;4.321;R;SP95;2;2017-12-13 08:49:32;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;E85;3;2017-08-31 19:42:54;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;GPLc;4;2017-08-31 19:42:54;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;E10;5;2017-08-31 19:42:55;;definitive
@@ -7203,6 +7199,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 86350001;4 LE CORMIER;Usson-du-Poitou;46.283;0.535;R;GPLc;4;2023-11-22 19:21:34;;definitive
 86350001;4 LE CORMIER;Usson-du-Poitou;46.283;0.535;R;E10;5;2023-11-22 19:21:35;;definitive
 86350001;4 LE CORMIER;Usson-du-Poitou;46.283;0.535;R;SP98;6;2023-11-22 19:21:35;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;E85;3;2017-09-15 12:11:05;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;GPLc;4;2017-09-15 12:11:05;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;E10;5;2017-09-15 12:11:06;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;SP98;6;2017-09-15 12:11:06;;definitive
+43190002;za de leygat;TENCE;45.101;4.321;R;SP95;2;2017-12-13 08:49:32;;definitive
 58000013;rue Bernard Palissy;NEVERS;46.987;3.17;R;SP95;2;2019-11-05 11:07:05;;definitive
 81290001;9 Boulevard Gambetta;LABRUGUIèRE;43.539;2.262;R;E85;3;2011-04-11 17:41:00;;
 81290001;9 Boulevard Gambetta;LABRUGUIèRE;43.539;2.262;R;GPLc;4;2011-04-11 17:41:00;;
