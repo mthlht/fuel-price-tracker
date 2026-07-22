@@ -17245,9 +17245,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59650009;186, Rue des Fusillés;Villeneuve-d'Ascq;50.6119672751;3.15988065719;R;GPLc;4;2025-09-12 13:01:46;;temporaire
 59650009;186, Rue des Fusillés;Villeneuve-d'Ascq;50.6119672751;3.15988065719;R;E10;5;2025-09-12 13:01:46;;temporaire
 59650009;186, Rue des Fusillés;Villeneuve-d'Ascq;50.6119672751;3.15988065719;R;SP98;6;2025-09-12 13:01:46;;temporaire
-93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;GPLc;4;2017-09-26 07:59:12;;definitive
-93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;SP95;2;2020-11-10 14:12:05;;definitive
-93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;SP98;6;2026-07-15 23:15:28;;temporaire
 1460001;68 Rue du Jura;MONTREAL-LA-CLUSE;46.17225;5.57729;R;E85;3;2022-01-28 10:56:51;;definitive
 1460001;68 Rue du Jura;MONTREAL-LA-CLUSE;46.17225;5.57729;R;GPLc;4;2022-03-03 10:40:49;;definitive
 1460001;68 Rue du Jura;MONTREAL-LA-CLUSE;46.17225;5.57729;R;E10;5;2022-03-03 10:40:49;;definitive
@@ -17275,6 +17272,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 10260001;25 Faubourg de Champagne;FOUCHERES;48.15;4.262;R;E85;3;2017-10-05 09:03:11;;definitive
 10260001;25 Faubourg de Champagne;FOUCHERES;48.15;4.262;R;GPLc;4;2017-10-05 09:03:12;;definitive
 10260001;25 Faubourg de Champagne;FOUCHERES;48.15;4.262;R;SP95;2;2023-09-04 17:43:06;;definitive
+93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;GPLc;4;2017-09-26 07:59:12;;definitive
+93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;SP95;2;2020-11-10 14:12:05;;definitive
+93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;SP98;6;2026-07-15 23:15:28;;temporaire
 16270003;122 Rue Nationale;Roumazières-Loubert;45.884;0.575;R;GPLc;4;2022-02-25 09:35:15;;definitive
 16270003;122 Rue Nationale;Roumazières-Loubert;45.884;0.575;R;SP95;2;2022-11-10 09:09:37;;definitive
 37300007;6 Rue du Franc Palais;Joué-lès-Tours;47.358;0.646;R;E85;3;2018-04-26 08:10:03;;definitive
@@ -18190,6 +18190,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 8300001;ZONE DE L'ETOILE;Rethel;49.511;4.368;R;SP95;2;2022-02-23 10:29:02;;definitive
 85804001;1 RUE DE LA DRIE;Saint-Gilles-Croix-de-Vie;46.696;-1.928;R;GPLc;4;2017-08-31 08:43:01;;definitive
 85804001;1 RUE DE LA DRIE;Saint-Gilles-Croix-de-Vie;46.696;-1.928;R;SP95;2;2024-04-03 15:54:07;;definitive
+94204001;10 Rue Westermeyer;IVRY-SUR-SEINE;48.819;2.396;R;E85;3;2017-08-30 10:04:13;;definitive
+94204001;10 Rue Westermeyer;IVRY-SUR-SEINE;48.819;2.396;R;GPLc;4;2017-08-30 10:04:13;;definitive
 62140003;LA CITE DES POILUS;MARCONNELLE;50.372881298871;2.022489605961;R;SP95;2;2017-08-29 09:58:50;;definitive
 62140003;LA CITE DES POILUS;MARCONNELLE;50.372881298871;2.022489605961;R;GPLc;4;2024-07-02 14:26:42;;definitive
 25420002;Rue de la Cray;VOUJEAUCOURT;47.482;6.78;R;SP95;2;2017-09-02 07:53:49;;definitive
@@ -18201,8 +18203,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38530001;AVENUE DE LA GARE;PONTCHARRA;45.435356491454;6.0059225038886;R;E85;3;2021-04-26 10:23:21;;definitive
 13130006;les grapoux route nationale 113;BERRE L'éTANG;43.519;5.2;R;SP95;2;2017-09-26 08:14:08;;definitive
 13130006;les grapoux route nationale 113;BERRE L'éTANG;43.519;5.2;R;GPLc;4;2017-09-26 08:14:08;;definitive
-94204001;10 Rue Westermeyer;IVRY-SUR-SEINE;48.819;2.396;R;E85;3;2017-08-30 10:04:13;;definitive
-94204001;10 Rue Westermeyer;IVRY-SUR-SEINE;48.819;2.396;R;GPLc;4;2017-08-30 10:04:13;;definitive
 35400012;RN 137 COTE EST;Saint-servan-sur-mer;48.613;-1.982;R;SP95;2;2024-05-21 10:13:18;;temporaire
 39100003;36 Route Nationale;Parcey;47.02;5.495;R;E85;3;2017-08-31 18:57:41;;definitive
 39100003;36 Route Nationale;Parcey;47.02;5.495;R;GPLc;4;2017-08-31 18:57:41;;definitive
