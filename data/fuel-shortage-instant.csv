@@ -11530,8 +11530,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;E85;3;2020-07-30 09:21:03;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;GPLc;4;2020-07-30 09:21:03;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;E10;5;2020-07-30 09:21:03;;definitive
-35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
-35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;E85;3;2019-02-27 09:40:28;;definitive
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;GPLc;4;2019-02-27 09:40:28;;definitive
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;E10;5;2019-02-27 09:40:28;;definitive
@@ -11544,6 +11542,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;GPLc;4;2022-01-04 08:35:02;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;SP95;2;2024-02-24 19:28:43;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;E85;3;2024-02-24 19:28:43;;definitive
+35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
+35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 83690003;888 route de draguignan;SALERNES;43.56;6.252;R;E85;3;2014-10-01 00:00:00;;
 83690003;888 route de draguignan;SALERNES;43.56;6.252;R;E10;5;2016-11-05 07:00:00;;
 83690003;888 route de draguignan;SALERNES;43.56;6.252;R;GPLc;4;2017-10-17 09:12:49;;temporaire
@@ -12231,6 +12231,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31400002;68 Route de Revel;TOULOUSE;43.575;1.49;R;SP95;2;2017-09-01 08:11:02;;definitive
 43800002;Avenue Philibert Besson;VOREY;45.182;3.915;R;GPLc;4;2017-12-21 16:03:14;;definitive
 43800002;Avenue Philibert Besson;VOREY;45.182;3.915;R;SP95;2;2026-07-17 09:20:29;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
+60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
 41320002;88 rue Nationale;châtres sur cher;47.267591521387;1.8833118791535;R;E85;3;2018-12-08 11:02:08;;definitive
 41320002;88 rue Nationale;châtres sur cher;47.267591521387;1.8833118791535;R;GPLc;4;2018-12-08 11:02:08;;definitive
 41320002;88 rue Nationale;châtres sur cher;47.267591521387;1.8833118791535;R;E10;5;2018-12-08 11:02:09;;definitive
@@ -12259,9 +12262,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;SP95;2;2026-06-01 09:00:12;;definitive
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;SP98;6;2026-06-03 17:12:12;;temporaire
 83100006;508 AVENUE FOCH;TOULON;43.128;5.919;R;GPLc;4;2026-06-14 09:53:56;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;SP95;2;2019-12-24 11:43:59;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;E85;3;2020-01-31 18:29:01;;definitive
-60200011;Avenue de l' Europe;Compiègne;49.38626;2.7848;R;GPLc;4;2023-11-14 15:22:55;;temporaire
 93700004;35-39 AVENUE HENRI BARBUSSE;DRANCY;48.916;2.444;R;SP95;2;2024-11-25 12:49:16;;definitive
 93700004;35-39 AVENUE HENRI BARBUSSE;DRANCY;48.916;2.444;R;GPLc;4;2024-11-25 12:50:10;;definitive
 47360001;LE BOURG;PRAYSSAS;44.287;0.509;R;E85;3;2017-09-23 10:19:08;;definitive
@@ -20359,10 +20359,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 71110003;Le Champêtre;BAUGY;46.289;4.041;R;E85;3;2026-04-20 08:32:34;;definitive
 71110003;Le Champêtre;BAUGY;46.289;4.041;R;GPLc;4;2026-04-20 08:32:34;;definitive
 71110003;Le Champêtre;BAUGY;46.289;4.041;R;E10;5;2026-04-20 08:32:34;;definitive
-20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;E85;3;2011-04-29 14:01:00;;
-20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;GPLc;4;2018-04-13 08:23:57;;definitive
-20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;E10;5;2018-04-13 08:23:57;;definitive
-20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;SP98;6;2018-12-06 18:17:37;;definitive
 76640002;Rue de l'Europe;FAUVILLE-EN-CAUX;49.652;0.6;R;SP95;2;2022-03-31 06:46:17;;definitive
 76640002;Rue de l'Europe;FAUVILLE-EN-CAUX;49.652;0.6;R;GPLc;4;2018-10-25 08:48:24;;definitive
 81220002;444 Avenue de Cocagne;Guitalens-L'Albarède;43.643;2.046;R;E85;3;2023-06-20 08:18:06;;definitive
@@ -20371,6 +20367,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 34440004;ROUTE DE NARBONNE;COLOMBIERS;43.308839424172;3.1681367941724004;R;E85;3;2024-11-25 12:12:00;;definitive
 34440004;ROUTE DE NARBONNE;COLOMBIERS;43.308839424172;3.1681367941724004;R;GPLc;4;2024-11-25 12:12:00;;definitive
 34440004;ROUTE DE NARBONNE;COLOMBIERS;43.308839424172;3.1681367941724004;R;SP95;2;2026-07-17 09:32:24;;definitive
+20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;E85;3;2011-04-29 14:01:00;;
+20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;GPLc;4;2018-04-13 08:23:57;;definitive
+20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;E10;5;2018-04-13 08:23:57;;definitive
+20217005;Route de Patrimonio;Saint-Florent;42.685;9.307;R;SP98;6;2018-12-06 18:17:37;;definitive
 37800005;ZAC Les Marchaux - Les Rotes;SAINTE-MAURE DE TOURAINE;47.104;0.615;R;GPLc;4;2017-08-31 17:55:07;;definitive
 37800005;ZAC Les Marchaux - Les Rotes;SAINTE-MAURE DE TOURAINE;47.104;0.615;R;SP95;2;2025-05-05 16:00:46;;definitive
 27540001;17 Rue d'Ézy;IVRY-LA-BATAILLE;48.881;1.46;R;GPLc;4;2017-09-29 10:33:10;;temporaire
