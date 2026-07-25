@@ -8113,8 +8113,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 55190003;ROUTE DÉPARTEMENTALE 36D;PAGNY SUR MEUSE;48.686;5.726;R;E85;3;2022-10-11 13:35:47;;definitive
 55190003;ROUTE DÉPARTEMENTALE 36D;PAGNY SUR MEUSE;48.686;5.726;R;SP95;2;2022-10-21 07:32:40;;definitive
 55190003;ROUTE DÉPARTEMENTALE 36D;PAGNY SUR MEUSE;48.686;5.726;R;GPLc;4;2026-05-21 12:20:10;;temporaire
-44230003;2 Rue Pierre Mendès France;Saint-Sébastien-sur-Loire;47.192;-1.492;R;SP95;2;2025-04-08 11:04:57;;definitive
 73200008;ZI du Chiriac;Albertville;45.655;6.364;R;SP95;2;2024-02-19 08:50:19;;definitive
+44230003;2 Rue Pierre Mendès France;Saint-Sébastien-sur-Loire;47.192;-1.492;R;SP95;2;2025-04-08 11:04:57;;definitive
 63300003;52 Avenue Léo Lagrange;THIERS;45.848;3.53;R;SP95;2;2017-08-31 11:14:44;;definitive
 63300003;52 Avenue Léo Lagrange;THIERS;45.848;3.53;R;E85;3;2017-08-31 11:14:44;;definitive
 63300003;52 Avenue Léo Lagrange;THIERS;45.848;3.53;R;GPLc;4;2017-08-31 11:14:45;;definitive
@@ -9321,9 +9321,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76000009;186 Rue de Constantine;ROUEN;49.449;1.067;R;GPLc;4;2017-09-25 16:57:59;;definitive
 57270001;Rue de Metz;RICHEMONT;49.2975507615;6.165216744079999;R;GPLc;4;2017-09-29 10:43:40;;definitive
 57270001;Rue de Metz;RICHEMONT;49.2975507615;6.165216744079999;R;SP95;2;2022-04-23 09:58:05;;definitive
-68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP95;2;2024-08-23 14:53:45;;temporaire
-68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;GPLc;4;2024-08-23 14:53:45;;temporaire
-68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;E85;3;2024-08-23 14:53:57;;temporaire
 88230003;14, Rue du Général Ingold;Fraize;48.183292050384004;7.0040889058285;R;E85;3;2024-07-23 07:00:40;;definitive
 88230003;14, Rue du Général Ingold;Fraize;48.183292050384004;7.0040889058285;R;GPLc;4;2024-07-23 07:00:40;;definitive
 88230003;14, Rue du Général Ingold;Fraize;48.183292050384004;7.0040889058285;R;SP95;2;2025-04-30 09:50:05;;definitive
@@ -9332,6 +9329,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 83260007;Avenue du 8 Mai 1945;La Crau;43.153;6.073;R;GPLc;4;2024-03-27 11:16:43;;definitive
 83210001;RN 97;Solliès-Ville;43.176;6.047;R;SP95;2;2011-06-01 08:06:00;;
 83210001;RN 97;Solliès-Ville;43.176;6.047;R;GPLc;4;2019-03-31 16:02:17;;definitive
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP95;2;2024-08-23 14:53:45;;temporaire
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;GPLc;4;2024-08-23 14:53:45;;temporaire
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;E85;3;2024-08-23 14:53:57;;temporaire
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP98;6;2026-07-25 23:19:07;;temporaire
 13011027;73 Boulevard de Saint Marcel;Marseille 11e Arrondissement;43.288883771769;5.4598792629444;R;SP95;2;2024-08-09 16:43:04;;definitive
 13011027;73 Boulevard de Saint Marcel;Marseille 11e Arrondissement;43.288883771769;5.4598792629444;R;E85;3;2024-08-09 16:43:04;;definitive
 13011027;73 Boulevard de Saint Marcel;Marseille 11e Arrondissement;43.288883771769;5.4598792629444;R;GPLc;4;2025-03-13 14:16:41;;definitive
@@ -12727,6 +12728,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 18300001;rue creuse;SANCERRE;47.33375944;2.8320786700000005;R;GPLc;4;2025-12-17 16:05:32;;definitive
 18300001;rue creuse;SANCERRE;47.33375944;2.8320786700000005;R;E10;5;2026-02-27 08:34:48;;temporaire
 33380001;Rue des Fonderies;BIGANOS;44.637;-0.96;R;SP95;2;2017-09-06 08:52:42;;definitive
+29120007;45 RUE VICTOR HUGO RN 785;Pont-l'Abbé;47.86938;-4.22187;R;SP95;2;2026-04-09 14:58:26;;definitive
+29120007;45 RUE VICTOR HUGO RN 785;Pont-l'Abbé;47.86938;-4.22187;R;GPLc;4;2026-04-09 14:58:26;;definitive
+29120007;45 RUE VICTOR HUGO RN 785;Pont-l'Abbé;47.86938;-4.22187;R;Gazole;1;2026-07-25 22:53:04;;temporaire
 39570004;Espace Chantrans;Montmorot;46.67;5.526;R;SP95;2;2026-06-05 10:14:35;;definitive
 28600002;1 rue des Orvilles;Barjouville;48.41;1.463;R;E85;3;2024-03-18 14:40:04;;definitive
 28600002;1 rue des Orvilles;Barjouville;48.41;1.463;R;GPLc;4;2024-03-18 14:40:04;;definitive
@@ -12744,8 +12748,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63800002;AVENUE DES DOMES;Cournon-d'Auvergne;45.731430070887;3.19576411256;R;E85;3;2017-10-27 13:15:48;;definitive
 63800002;AVENUE DES DOMES;Cournon-d'Auvergne;45.731430070887;3.19576411256;R;SP98;6;2023-01-14 11:45:41;;definitive
 83340008;ZA du Peyrouas rn7;Flassans-sur-Issole;43.373;6.203;R;GPLc;4;2018-01-31 11:04:04;;definitive
-29120007;45 RUE VICTOR HUGO RN 785;Pont-l'Abbé;47.86938;-4.22187;R;SP95;2;2026-04-09 14:58:26;;definitive
-29120007;45 RUE VICTOR HUGO RN 785;Pont-l'Abbé;47.86938;-4.22187;R;GPLc;4;2026-04-09 14:58:26;;definitive
 93300009;62-64 AVENUE DE LA REPUBLIQUE;AUBERVILLIERS;48.909;2.386;R;SP95;2;2021-12-20 08:56:36;;definitive
 93300009;62-64 AVENUE DE LA REPUBLIQUE;AUBERVILLIERS;48.909;2.386;R;GPLc;4;2022-04-20 17:51:29;;definitive
 93300009;62-64 AVENUE DE LA REPUBLIQUE;AUBERVILLIERS;48.909;2.386;R;SP98;6;2026-07-20 07:02:15;;temporaire
@@ -18873,6 +18875,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 40630004;210 route de Mont de Marsan;Sabres;44.14717263889101;-0.73739597895759;R;GPLc;4;2026-01-07 11:19:17;;definitive
 40630004;210 route de Mont de Marsan;Sabres;44.14717263889101;-0.73739597895759;R;E10;5;2026-01-07 11:19:17;;definitive
 40630004;210 route de Mont de Marsan;Sabres;44.14717263889101;-0.73739597895759;R;SP98;6;2026-01-07 11:19:17;;definitive
+40630004;210 route de Mont de Marsan;Sabres;44.14717263889101;-0.73739597895759;R;SP95;2;2026-07-25 22:36:10;;temporaire
 60120002;Rue d'Amiens;BRETEUIL;49.63618;2.29025;R;E10;5;2019-03-27 09:17:53;;definitive
 60120002;Rue d'Amiens;BRETEUIL;49.63618;2.29025;R;E85;3;2023-10-03 14:50:46;;definitive
 60120002;Rue d'Amiens;BRETEUIL;49.63618;2.29025;R;GPLc;4;2023-10-03 14:50:46;;definitive
