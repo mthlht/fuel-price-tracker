@@ -5923,14 +5923,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38113001;Route de Valence;VEUREY-VOROIZE;45.265;5.623;R;E85;3;2018-09-17 18:13:54;;definitive
 38113001;Route de Valence;VEUREY-VOROIZE;45.265;5.623;R;GPLc;4;2018-09-17 18:13:55;;definitive
 38113001;Route de Valence;VEUREY-VOROIZE;45.265;5.623;R;SP95;2;2026-06-12 08:34:42;;definitive
+1480004;850 RD 933;Messimy-sur-Saône;46.05;4.766;R;SP95;2;2022-04-22 10:10:09;;definitive
+1480004;850 RD 933;Messimy-sur-Saône;46.05;4.766;R;E85;3;2022-04-22 10:10:09;;definitive
+1480004;850 RD 933;Messimy-sur-Saône;46.05;4.766;R;GPLc;4;2022-04-22 10:10:09;;definitive
 1330002;zac de la tuilerie;VILLARS-LES-DOMBES;46.007;5.035;R;GPLc;4;2017-09-13 07:26:05;;definitive
 1330002;zac de la tuilerie;VILLARS-LES-DOMBES;46.007;5.035;R;SP95;2;2024-06-21 08:23:59;;definitive
 65290001;13 route de Lourdes;Juillan;43.20079;0.03601;R;SP95;2;2021-03-26 08:23:53;;definitive
 65290001;13 route de Lourdes;Juillan;43.20079;0.03601;R;GPLc;4;2021-03-26 08:23:53;;definitive
 6156001;Z.I. Les Tourrades;Cannes;43.571;6.959;R;SP95;2;2021-01-12 10:14:37;;definitive
-1480004;850 RD 933;Messimy-sur-Saône;46.05;4.766;R;SP95;2;2022-04-22 10:10:09;;definitive
-1480004;850 RD 933;Messimy-sur-Saône;46.05;4.766;R;E85;3;2022-04-22 10:10:09;;definitive
-1480004;850 RD 933;Messimy-sur-Saône;46.05;4.766;R;GPLc;4;2022-04-22 10:10:09;;definitive
 64600009;77 Avenue de bayonne;Anglet;43.484;-1.501;R;SP95;2;2019-09-04 10:26:10;;definitive
 64600009;77 Avenue de bayonne;Anglet;43.484;-1.501;R;E85;3;2019-09-04 10:26:10;;definitive
 64600009;77 Avenue de bayonne;Anglet;43.484;-1.501;R;GPLc;4;2019-09-04 10:26:10;;definitive
@@ -9141,6 +9141,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 34110005;RN 108 14 AVENUE DES VIGNERONS;FRONTIGNAN;43.4457;3.75207;R;SP95;2;2026-05-04 18:08:50;;definitive
 13610001;LES GOIRANDS;LE PUY-SAINTE-RéPARADE;43.662;5.448;R;SP95;2;2018-12-26 09:13:38;;definitive
 13610001;LES GOIRANDS;LE PUY-SAINTE-RéPARADE;43.662;5.448;R;GPLc;4;2018-12-26 09:13:38;;definitive
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP95;2;2024-08-23 14:53:45;;temporaire
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;GPLc;4;2024-08-23 14:53:45;;temporaire
+68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;E85;3;2024-08-23 14:53:57;;temporaire
 49124003;9 rue de Verdun;St Barthélemy d'Anjou;47.4773034;-0.4911358;R;E85;3;2017-09-26 10:55:38;;definitive
 49124003;9 rue de Verdun;St Barthélemy d'Anjou;47.4773034;-0.4911358;R;GPLc;4;2017-09-26 10:55:38;;definitive
 49124003;9 rue de Verdun;St Barthélemy d'Anjou;47.4773034;-0.4911358;R;SP95;2;2017-09-26 10:55:38;;definitive
@@ -9153,9 +9156,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76000009;186 Rue de Constantine;ROUEN;49.449;1.067;R;GPLc;4;2017-09-25 16:57:59;;definitive
 57270001;Rue de Metz;RICHEMONT;49.2975507615;6.165216744079999;R;GPLc;4;2017-09-29 10:43:40;;definitive
 57270001;Rue de Metz;RICHEMONT;49.2975507615;6.165216744079999;R;SP95;2;2022-04-23 09:58:05;;definitive
-68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;SP95;2;2024-08-23 14:53:45;;temporaire
-68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;GPLc;4;2024-08-23 14:53:45;;temporaire
-68680003;38 rue de l'artisanat;Kembs;47.678;7.501;R;E85;3;2024-08-23 14:53:57;;temporaire
 88230003;14, Rue du Général Ingold;Fraize;48.183292050384004;7.0040889058285;R;E85;3;2024-07-23 07:00:40;;definitive
 88230003;14, Rue du Général Ingold;Fraize;48.183292050384004;7.0040889058285;R;GPLc;4;2024-07-23 07:00:40;;definitive
 88230003;14, Rue du Général Ingold;Fraize;48.183292050384004;7.0040889058285;R;SP95;2;2025-04-30 09:50:05;;definitive
