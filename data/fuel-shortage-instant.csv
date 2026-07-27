@@ -30,6 +30,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 58240003;ROUTE NATIONALE 7 - LES BOULAISES;Chantenay-Saint-Imbert;46.7535171497;3.1406912128899998;R;SP95;2;2022-09-29 08:43:55;;definitive
 58240003;ROUTE NATIONALE 7 - LES BOULAISES;Chantenay-Saint-Imbert;46.7535171497;3.1406912128899998;R;GPLc;4;2022-09-29 08:43:55;;definitive
 58240003;ROUTE NATIONALE 7 - LES BOULAISES;Chantenay-Saint-Imbert;46.7535171497;3.1406912128899998;R;SP98;6;2026-07-26 12:59:50;;temporaire
+58240003;ROUTE NATIONALE 7 - LES BOULAISES;Chantenay-Saint-Imbert;46.7535171497;3.1406912128899998;R;E10;5;2026-07-27 01:11:03;;temporaire
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;E85;3;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;GPLc;4;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;SP95;2;2024-01-25 06:43:16;;definitive
@@ -5189,14 +5190,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;GPLc;4;2021-11-08 14:45:39;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;E10;5;2021-11-08 14:45:39;;definitive
 13240002;38 avenue du 8 mai 1945;Septèmes-les-Vallons;43.393;5.364;R;SP98;6;2021-11-08 14:45:39;;definitive
+31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;SP95;2;2020-10-19 16:05:57;;definitive
+31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;E85;3;2020-10-19 16:05:58;;definitive
+31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;GPLc;4;2020-10-19 16:05:58;;definitive
 61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP95;2;2020-03-09 11:04:03;;definitive
 61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E85;3;2020-03-09 11:04:03;;definitive
 61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;GPLc;4;2020-03-09 11:04:03;;definitive
 61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;E10;5;2026-07-26 12:19:02;;temporaire
 61250002;28 Rue d'Alençon;Condé-sur-Sarthe;48.435;0.054;R;SP98;6;2026-07-26 12:19:02;;temporaire
-31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;SP95;2;2020-10-19 16:05:57;;definitive
-31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;E85;3;2020-10-19 16:05:58;;definitive
-31590004;2 Avenue de Lavaur;VERFEIL;43.658;1.667;R;GPLc;4;2020-10-19 16:05:58;;definitive
 93270008;50 avenue john fitzgerald kennedy;SEVRAN;48.936;2.515;R;E85;3;2021-03-02 12:15:15;;definitive
 93270008;50 avenue john fitzgerald kennedy;SEVRAN;48.936;2.515;R;GPLc;4;2021-03-02 12:15:15;;definitive
 19000006;2 QUAI CONTINSOUZA;TULLE;45.2721892408;1.77587665476;R;SP95;2;2019-06-28 12:11:35;;definitive
@@ -16593,6 +16594,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 27350003;Route de Médine;Valletot;49.371;0.629;R;E85;3;2017-09-01 20:22:19;;definitive
 27350003;Route de Médine;Valletot;49.371;0.629;R;GPLc;4;2017-09-01 20:22:20;;definitive
 27350003;Route de Médine;Valletot;49.371;0.629;R;SP98;6;2026-07-25 12:09:26;;temporaire
+27350003;Route de Médine;Valletot;49.371;0.629;R;Gazole;1;2026-07-27 00:07:48;;temporaire
+27350003;Route de Médine;Valletot;49.371;0.629;R;E10;5;2026-07-27 00:07:48;;temporaire
 26240002;31 avenue de quebec;Saint-Vallier;45.195;4.814;R;SP95;2;2013-12-03 00:00:00;;
 26240002;31 avenue de quebec;Saint-Vallier;45.195;4.814;R;SP95;2;2017-09-01 11:52:21;;definitive
 26240002;31 avenue de quebec;Saint-Vallier;45.195;4.814;R;GPLc;4;2020-01-02 10:46:29;;temporaire
@@ -21187,6 +21190,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 92000018;47 BLD DU HAVRE;NANTERRE;48.919;2.223;R;SP98;6;2026-07-26 12:09:58;;temporaire
 37150003;5 Avenue du 11 Novembre 1918;BLéRé;47.325;1.004;R;SP95;2;2019-05-31 08:10:57;;definitive
 37150003;5 Avenue du 11 Novembre 1918;BLéRé;47.325;1.004;R;GPLc;4;2019-05-31 08:10:57;;definitive
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;GPLc;4;2020-04-29 08:59:11;;definitive
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E10;5;2020-04-29 08:59:11;;definitive
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E85;3;2024-03-05 14:30:49;;temporaire
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP98;6;2026-07-07 12:35:17;;temporaire
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP95;2;2026-07-26 16:37:02;;temporaire
 1460003;Rue de l'industrie;Port;46.166;5.571;R;SP95;2;2021-04-13 07:54:27;;definitive
 1460003;Rue de l'industrie;Port;46.166;5.571;R;GPLc;4;2020-09-21 15:11:18;;definitive
 72000020;162, AVENUE BOLLEE;LE MANS;47.997;0.218;R;GPLc;4;2026-06-18 20:47:16;;temporaire
@@ -21203,12 +21211,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 67200012;142 ROUTE D' OBERHAUSBERGEN;STRASBOURG;48.596;7.709;R;E10;5;2026-07-24 19:36:43;;temporaire
 44350007;2 impasse de Breninguen;Saint-Molf;47.39;-2.432;R;SP95;2;2023-05-31 16:44:48;;temporaire
 44350007;2 impasse de Breninguen;Saint-Molf;47.39;-2.432;R;GPLc;4;2024-02-14 11:35:37;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;GPLc;4;2020-04-29 08:59:11;;definitive
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E10;5;2020-04-29 08:59:11;;definitive
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E85;3;2024-03-05 14:30:49;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP98;6;2026-07-07 12:35:17;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;Gazole;1;2026-07-25 10:03:21;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP95;2;2026-07-26 16:37:02;;temporaire
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;E85;3;2018-07-06 07:56:43;;definitive
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;GPLc;4;2018-07-06 07:56:43;;definitive
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;SP95;2;2018-12-20 16:34:03;;definitive
