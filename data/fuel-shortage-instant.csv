@@ -11149,6 +11149,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 37100010;45, QUAI DE MARMOUTIER;TOURS;47.40385;0.72656;R;GPLc;4;2015-03-01 00:00:00;;
 37100010;45, QUAI DE MARMOUTIER;TOURS;47.40385;0.72656;R;SP95;2;2026-05-22 19:04:53;;temporaire
 37100010;45, QUAI DE MARMOUTIER;TOURS;47.40385;0.72656;R;E10;5;2026-07-28 16:42:47;;temporaire
+37100010;45, QUAI DE MARMOUTIER;TOURS;47.40385;0.72656;R;SP98;6;2026-07-29 00:07:11;;temporaire
 37270006;Aire de Athée-sur-Cher Autoroute A 85;Athée-sur-Cher;47.302184249999996;0.8906768700000001;A;SP95;2;2015-08-04 00:00:00;;
 38240004;45 Avenue des Sept Laux;MEYLAN;45.21538;5.78144;R;SP95;2;2017-12-13 14:05:59;;definitive
 38240004;45 Avenue des Sept Laux;MEYLAN;45.21538;5.78144;R;E85;3;2017-12-13 14:05:59;;definitive
@@ -11780,14 +11781,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;E85;3;2019-02-27 09:40:28;;definitive
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;GPLc;4;2019-02-27 09:40:28;;definitive
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;E10;5;2019-02-27 09:40:28;;definitive
+35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
+35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;E85;3;2020-07-30 09:21:03;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;GPLc;4;2020-07-30 09:21:03;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;E10;5;2020-07-30 09:21:03;;definitive
 78360004;150 AVE PAUL DOUMER;MONTESSON;48.909;2.159;R;GPLc;4;2024-03-04 14:48:16;;definitive
 78360004;150 AVE PAUL DOUMER;MONTESSON;48.909;2.159;R;SP95;2;2026-05-18 12:06:41;;definitive
 80200005;AUTOROUTE A 1;Péronne;49.887;2.837;A;SP95;2;2010-03-23 11:54:00;;
-35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
-35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;SP95;2;2022-01-04 08:35:01;;definitive
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;GPLc;4;2022-01-04 08:35:02;;definitive
 36110001;Route de Villegongis;LEVROUX;46.973;1.612;R;SP95;2;2020-05-18 14:21:16;;definitive
@@ -13165,9 +13166,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 77340003;Route de Paris;Pontault-Combault;48.7768;2.59631;R;E85;3;2017-09-06 13:17:38;;definitive
 45290001;rue raymond picault;Nogent-sur-Vernisson;47.845;2.742;R;E85;3;2017-11-18 16:21:44;;definitive
 45290001;rue raymond picault;Nogent-sur-Vernisson;47.845;2.742;R;GPLc;4;2017-11-18 16:21:44;;definitive
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP95;2;2017-09-02 09:42:42;;definitive
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;E85;3;2023-08-16 21:01:44;;temporaire
-24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP98;6;2026-07-26 22:32:05;;temporaire
 54800003;N.I. du Val de l'Orne CONFLANS EN JARNISY;JARNY;49.164;5.836;R;SP95;2;2018-10-26 09:39:46;;definitive
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;E85;3;2017-09-26 14:19:07;;definitive
 45150001;5, Avenue du Général de Gaulle;Jargeau;47.865;2.126;R;GPLc;4;2017-10-18 14:04:36;;definitive
@@ -13177,6 +13175,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;SP98;6;2020-06-25 17:31:50;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;E10;5;2022-09-16 09:06:53;;definitive
 64100016;123 avenue henri de navarre;Bayonne;43.512;-1.44;R;SP95;2;2026-07-28 10:39:50;;temporaire
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;SP95;2;2017-09-02 09:42:42;;definitive
+24100010;15 Route d'Agen - Lespinassat;BERGERAC;44.833;0.497;R;E85;3;2023-08-16 21:01:44;;temporaire
 1980001;63 Rue du Bugey;LOYETTES;45.779;5.213;R;E85;3;2017-09-28 19:02:47;;definitive
 1980001;63 Rue du Bugey;LOYETTES;45.779;5.213;R;GPLc;4;2017-09-28 19:02:47;;definitive
 1980001;63 Rue du Bugey;LOYETTES;45.779;5.213;R;SP95;2;2024-10-03 19:07:26;;definitive
@@ -13432,8 +13432,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76680001;Avenue Emmanuel Brion;SAINT-SAëNS;49.67;1.284;R;E85;3;2017-09-26 08:47:00;;definitive
 76680001;Avenue Emmanuel Brion;SAINT-SAëNS;49.67;1.284;R;GPLc;4;2017-09-26 08:47:01;;definitive
 76680001;Avenue Emmanuel Brion;SAINT-SAëNS;49.67;1.284;R;E10;5;2017-09-26 08:47:01;;definitive
-22110003;LE CAP VERT;Rostrenen;48.23682;-3.31209;R;E85;3;2017-10-27 16:54:40;;definitive
-22110003;LE CAP VERT;Rostrenen;48.23682;-3.31209;R;SP95;2;2018-12-12 17:32:41;;definitive
 39130009;1560 RUE DES TROIS LACS;Doucier;46.662;5.776;R;E85;3;2018-03-30 15:35:00;;definitive
 39130009;1560 RUE DES TROIS LACS;Doucier;46.662;5.776;R;GPLc;4;2018-03-30 15:35:00;;definitive
 39130009;1560 RUE DES TROIS LACS;Doucier;46.662;5.776;R;SP98;6;2018-03-30 15:35:01;;definitive
@@ -13445,6 +13443,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 51100033;Route de BISSEUIL;Tours-sur-Marne;49.047;4.115;R;SP95;2;2023-12-22 08:57:51;;definitive
 51100033;Route de BISSEUIL;Tours-sur-Marne;49.047;4.115;R;E85;3;2023-12-22 08:57:51;;definitive
 51100033;Route de BISSEUIL;Tours-sur-Marne;49.047;4.115;R;GPLc;4;2023-12-22 08:57:52;;definitive
+22110003;LE CAP VERT;Rostrenen;48.23682;-3.31209;R;E85;3;2017-10-27 16:54:40;;definitive
+22110003;LE CAP VERT;Rostrenen;48.23682;-3.31209;R;SP95;2;2018-12-12 17:32:41;;definitive
 30900018;35 RUE RUDOLPHE DIESEL;NIMES;43.812;4.339;R;SP95;2;2018-12-14 09:18:00;;definitive
 30900018;35 RUE RUDOLPHE DIESEL;NIMES;43.812;4.339;R;E85;3;2018-12-14 09:18:01;;definitive
 30900018;35 RUE RUDOLPHE DIESEL;NIMES;43.812;4.339;R;GPLc;4;2018-12-14 09:18:01;;definitive
