@@ -1479,7 +1479,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 74440004;520 ROUTE DES HOTTES;VERCHAIX;46.091315;6.673367;R;GPLc;4;2026-04-24 10:03:02;;definitive
 74440004;520 ROUTE DES HOTTES;VERCHAIX;46.091315;6.673367;R;E10;5;2026-04-24 10:03:02;;definitive
 30900017;2705 RTE DE MONTPELLIER;NIMES;43.81;4.329;R;SP95;2;2023-06-24 10:50:09;;definitive
-30900017;2705 RTE DE MONTPELLIER;NIMES;43.81;4.329;R;E85;3;2026-07-27 13:29:04;;temporaire
 33710003;RN 137 Château - Sec;PUGNAC;45.076;-0.499;R;GPLc;4;2018-11-21 09:32:58;;definitive
 33710003;RN 137 Château - Sec;PUGNAC;45.076;-0.499;R;SP98;6;2026-03-04 09:31:11;;definitive
 82000010;445 Route du Nord - ZI AUSSONNE;Montauban;44.033;1.375;R;SP95;2;2017-08-31 08:54:24;;definitive
@@ -8034,9 +8033,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 77340006;6 A 10 AV CHARLES ROUXEL;Pontault-Combault;48.79836;2.60505;R;SP95;2;2026-04-04 09:46:37;;definitive
 77340006;6 A 10 AV CHARLES ROUXEL;Pontault-Combault;48.79836;2.60505;R;E85;3;2026-04-04 09:46:37;;definitive
 77340006;6 A 10 AV CHARLES ROUXEL;Pontault-Combault;48.79836;2.60505;R;GPLc;4;2026-04-04 09:46:37;;definitive
-77340006;6 A 10 AV CHARLES ROUXEL;Pontault-Combault;48.79836;2.60505;R;E10;5;2026-07-31 10:14:19;;temporaire
-77340006;6 A 10 AV CHARLES ROUXEL;Pontault-Combault;48.79836;2.60505;R;SP98;6;2026-07-31 10:14:19;;temporaire
-77340006;6 A 10 AV CHARLES ROUXEL;Pontault-Combault;48.79836;2.60505;R;Gazole;1;2026-07-31 18:48:25;;temporaire
 39140001;Rue d'Amont;BLETTERANS;46.746;5.457;R;SP95;2;2018-01-02 10:43:22;;definitive
 39140001;Rue d'Amont;BLETTERANS;46.746;5.457;R;E85;3;2018-01-02 10:43:22;;definitive
 39140001;Rue d'Amont;BLETTERANS;46.746;5.457;R;GPLc;4;2018-01-02 10:43:23;;definitive
@@ -11767,9 +11763,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;E85;3;2020-07-30 09:21:03;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;GPLc;4;2020-07-30 09:21:03;;definitive
 24410003;229 les grand champs;saint aulaye puymangou;45.168;0.081;R;E10;5;2020-07-30 09:21:03;;definitive
+80200005;AUTOROUTE A 1;Péronne;49.887;2.837;A;SP95;2;2010-03-23 11:54:00;;
 35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
 35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
-80200005;AUTOROUTE A 1;Péronne;49.887;2.837;A;SP95;2;2010-03-23 11:54:00;;
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;SP95;2;2022-01-04 08:35:01;;definitive
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;GPLc;4;2022-01-04 08:35:02;;definitive
 36110001;Route de Villegongis;LEVROUX;46.973;1.612;R;SP95;2;2020-05-18 14:21:16;;definitive
@@ -15931,6 +15927,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 14123009;Rue des Frères Lumière;Cormelles-le-Royal;49.154;-0.314;R;SP95;2;2017-11-09 08:13:23;;definitive
 14123009;Rue des Frères Lumière;Cormelles-le-Royal;49.154;-0.314;R;E85;3;2018-11-29 08:01:05;;definitive
 14123009;Rue des Frères Lumière;Cormelles-le-Royal;49.154;-0.314;R;GPLc;4;2018-11-29 08:01:05;;definitive
+7200003;Route de Montélimar;AUBENAS;44.614;4.406;R;E85;3;2017-09-04 15:27:43;;definitive
+7200003;Route de Montélimar;AUBENAS;44.614;4.406;R;SP95;2;2018-12-14 14:41:54;;definitive
 49510001;3 rue de la Chénaie;JALLAIS;47.2;-0.873;R;E85;3;2024-12-06 11:51:26;;definitive
 35190003;Rue du Papegault;TINTENIAC;48.32873;-1.84156;R;E85;3;2023-03-29 09:31:09;;temporaire
 35190003;Rue du Papegault;TINTENIAC;48.32873;-1.84156;R;GPLc;4;2023-03-29 09:31:09;;temporaire
@@ -15959,8 +15957,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59200009;344 Chaussée Denis Papin;TOURCOING;50.7284988;3.1372415;R;GPLc;4;2017-09-05 16:41:15;;definitive
 31100004;138 bis Route de Seysses;TOULOUSE;43.558831492299994;1.40298833631;R;GPLc;4;2017-11-06 11:50:47;;temporaire
 31100004;138 bis Route de Seysses;TOULOUSE;43.558831492299994;1.40298833631;R;E10;5;2024-08-02 12:44:50;;temporaire
-7200003;Route de Montélimar;AUBENAS;44.614;4.406;R;E85;3;2017-09-04 15:27:43;;definitive
-7200003;Route de Montélimar;AUBENAS;44.614;4.406;R;SP95;2;2018-12-14 14:41:54;;definitive
 33130002;RUE DES FRERES LUMIERES;BEGLES;44.792771609106;-0.53415800912901;R;E85;3;2017-08-30 10:34:34;;definitive
 33470002;25 Cours de la République;GUJAN-MESTRAS;44.638;-1.067;R;E85;3;2017-10-30 11:35:00;;definitive
 33470002;25 Cours de la République;GUJAN-MESTRAS;44.638;-1.067;R;GPLc;4;2017-10-30 11:35:00;;definitive
@@ -17827,6 +17823,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;E85;3;2019-12-27 17:47:42;;definitive
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;GPLc;4;2019-12-27 17:47:42;;definitive
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;SP95;2;2025-08-11 20:28:48;;definitive
+76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;SP98;6;2026-08-01 00:05:42;;temporaire
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;SP95;2;2023-08-02 09:47:35;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;E85;3;2023-08-02 09:47:35;;definitive
 6610005;ROUTE DE CAGNES;LA GAUDE;43.717648206695;7.1522485398704;R;GPLc;4;2023-08-02 09:47:35;;definitive
@@ -23049,9 +23046,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68120005;15 ROUTE DE THANN;PFASTATT;47.758386853882;7.2940023698764005;R;E10;5;2026-07-30 09:56:24;;temporaire
 7500001;1449 Avenue de la République;Guilherand-Granges;44.93828;4.86654;R;SP95;2;2023-05-27 09:57:05;;temporaire
 7500001;1449 Avenue de la République;Guilherand-Granges;44.93828;4.86654;R;GPLc;4;2022-10-26 11:03:54;;temporaire
-26200009;ZA Avenue du Meyrol;Montélimar;44.575;4.744;R;GPLc;4;2024-11-02 09:51:07;;definitive
-26200009;ZA Avenue du Meyrol;Montélimar;44.575;4.744;R;SP95;2;2024-11-02 09:51:07;;definitive
-26200009;ZA Avenue du Meyrol;Montélimar;44.575;4.744;R;E85;3;2024-11-02 09:51:07;;definitive
 30700007;6/8 AVENUE MARECHAL FOCH;UZES;44.009;4.419;R;SP95;2;2019-01-09 15:24:10;;definitive
 30700007;6/8 AVENUE MARECHAL FOCH;UZES;44.009;4.419;R;GPLc;4;2019-01-09 15:24:11;;definitive
 62000013;2 RUE DES ROSATI;ARRAS;50.291;2.784;R;SP95;2;2026-07-06 17:26:04;;temporaire
@@ -23068,6 +23062,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 67000032;59 RUE BOECKLIN;STRASBOURG;48.6;7.779444;R;SP95;2;2026-04-02 06:11:08;;definitive
 67000032;59 RUE BOECKLIN;STRASBOURG;48.6;7.779444;R;E85;3;2026-04-02 06:11:08;;definitive
 67000032;59 RUE BOECKLIN;STRASBOURG;48.6;7.779444;R;GPLc;4;2026-04-02 06:11:08;;definitive
+26200009;ZA Avenue du Meyrol;Montélimar;44.575;4.744;R;GPLc;4;2024-11-02 09:51:07;;definitive
+26200009;ZA Avenue du Meyrol;Montélimar;44.575;4.744;R;SP95;2;2024-11-02 09:51:07;;definitive
+26200009;ZA Avenue du Meyrol;Montélimar;44.575;4.744;R;E85;3;2024-11-02 09:51:07;;definitive
 83500001;780,Boulevard de l'Europe;LA SEYNE-SUR-MER;43.113;5.858;R;SP95;2;2022-10-14 07:36:10;;temporaire
 83500001;780,Boulevard de l'Europe;LA SEYNE-SUR-MER;43.113;5.858;R;E85;3;2026-07-30 09:28:18;;temporaire
 4700007;470 AVENUE CHARLES RICHAUD;ORAISON;43.922299764213;5.914338136639699;R;GPLc;4;2025-03-24 16:51:01;;definitive
