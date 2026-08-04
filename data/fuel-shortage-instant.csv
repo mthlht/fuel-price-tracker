@@ -4132,6 +4132,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 42570001;346 route de Saint Bonnet les Oules;Saint-Héand;45.536;4.373;R;E85;3;2018-03-22 09:40:39;;definitive
 42570001;346 route de Saint Bonnet les Oules;Saint-Héand;45.536;4.373;R;GPLc;4;2018-03-22 09:40:40;;definitive
 42570001;346 route de Saint Bonnet les Oules;Saint-Héand;45.536;4.373;R;SP98;6;2018-03-22 09:40:40;;definitive
+54200012;RUE PAUL KELLER;TOUL;48.67219;5.88828;R;GPLc;4;2020-11-25 15:46:05;;definitive
+54200012;RUE PAUL KELLER;TOUL;48.67219;5.88828;R;SP95;2;2026-04-07 12:49:35;;definitive
+54200012;RUE PAUL KELLER;TOUL;48.67219;5.88828;R;Gazole;1;2026-08-03 14:33:00;;temporaire
+54200012;RUE PAUL KELLER;TOUL;48.67219;5.88828;R;SP98;6;2026-08-03 14:34:22;;temporaire
 87500007;Le Clos de Bart;Saint-Yrieix-la-Perche;45.521332;1.212822;R;GPLc;4;2024-06-14 09:27:35;;definitive
 87500007;Le Clos de Bart;Saint-Yrieix-la-Perche;45.521332;1.212822;R;SP95;2;2024-06-14 09:27:35;;definitive
 87500007;Le Clos de Bart;Saint-Yrieix-la-Perche;45.521332;1.212822;R;E85;3;2024-06-14 09:27:35;;definitive
@@ -9581,7 +9585,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 37400006;1786 Boulevard saint denis hors;Amboise;47.393;0.982;R;E10;5;2026-08-03 08:06:44;;temporaire
 62640002;PONT DU TONKIN;Montigny-en-Gohelle;50.419614010035005;2.9270741940336;R;GPLc;4;2021-10-06 09:28:28;;definitive
 62640002;PONT DU TONKIN;Montigny-en-Gohelle;50.419614010035005;2.9270741940336;R;SP95;2;2022-10-15 10:08:30;;definitive
-91100016;RUE SIGMUND FREUD;CORBEIL ESSONNES;48.608;2.449;R;SP98;6;2026-07-31 10:37:18;;temporaire
 53370001;32 Rue des Avaloirs;Saint-Pierre-des-Nids;48.4;-0.105;R;E85;3;2022-11-16 08:05:27;;temporaire
 53370001;32 Rue des Avaloirs;Saint-Pierre-des-Nids;48.4;-0.105;R;GPLc;4;2022-11-16 08:05:27;;temporaire
 53370001;32 Rue des Avaloirs;Saint-Pierre-des-Nids;48.4;-0.105;R;E10;5;2022-11-16 08:05:27;;temporaire
@@ -9611,6 +9614,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 51190001;RD9 CHEMIN DU PARADIS;AVIZE;48.9775240381;4.03031448288;R;E85;3;2018-01-03 14:13:38;;definitive
 51190001;RD9 CHEMIN DU PARADIS;AVIZE;48.9775240381;4.03031448288;R;GPLc;4;2018-01-03 14:13:39;;definitive
 14470002;Route Anglaise;COURSEULLES-SUR-MER;49.323;-0.452;R;SP95;2;2026-06-02 08:54:13;;temporaire
+91100016;RUE SIGMUND FREUD;CORBEIL ESSONNES;48.608;2.449;R;SP98;6;2026-07-31 10:37:18;;temporaire
+91100016;RUE SIGMUND FREUD;CORBEIL ESSONNES;48.608;2.449;R;E10;5;2026-08-04 01:01:33;;temporaire
 71100003;144 Avenue de Paris;CHALON-SUR-SAôNE;46.79804;4.84741;R;GPLc;4;2018-01-17 12:30:55;;definitive
 71100003;144 Avenue de Paris;CHALON-SUR-SAôNE;46.79804;4.84741;R;SP95;2;2025-09-24 08:58:05;;definitive
 2310002;47 Rue Jules Lefèbvre;Fère-en-Tardenois;49.196;3.514;R;E85;3;2017-10-21 07:16:38;;definitive
