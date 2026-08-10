@@ -1101,6 +1101,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 95230010;63 AVENUE DE PARIS;SOISY-SOUS-MONTMORENCY;48.990753655031;2.2892381272629;R;E85;3;2018-08-01 16:36:21;;definitive
 95230010;63 AVENUE DE PARIS;SOISY-SOUS-MONTMORENCY;48.990753655031;2.2892381272629;R;GPLc;4;2018-08-01 16:36:22;;definitive
 95230010;63 AVENUE DE PARIS;SOISY-SOUS-MONTMORENCY;48.990753655031;2.2892381272629;R;SP98;6;2026-08-09 15:51:41;;temporaire
+95230010;63 AVENUE DE PARIS;SOISY-SOUS-MONTMORENCY;48.990753655031;2.2892381272629;R;E10;5;2026-08-10 23:14:00;;temporaire
 38640001;Avenue de la Ridelet;CLAIX;45.119;5.693;R;E85;3;2017-08-30 08:57:40;;definitive
 38640001;Avenue de la Ridelet;CLAIX;45.119;5.693;R;GPLc;4;2017-08-30 08:57:40;;definitive
 38640001;Avenue de la Ridelet;CLAIX;45.119;5.693;R;SP95;2;2026-06-10 07:36:04;;temporaire
@@ -20087,12 +20088,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 71290003;37 RUE DES TONNETTES;CUISERY;46.559;4.996;R;GPLc;4;2026-03-05 11:38:03;;definitive
 26300013;rond point du gymnase - quartier les peches;Châteauneuf-sur-Isère;45.007;4.928;R;GPLc;4;2019-01-03 10:33:27;;definitive
 26300013;rond point du gymnase - quartier les peches;Châteauneuf-sur-Isère;45.007;4.928;R;SP95;2;2018-12-18 11:35:22;;definitive
-86360004;7 ROUTE DE PARIS;Chasseneuil-du-Poitou;46.632;0.356;R;SP95;2;2022-10-17 18:44:03;;temporaire
-86360004;7 ROUTE DE PARIS;Chasseneuil-du-Poitou;46.632;0.356;R;GPLc;4;2022-10-28 18:30:22;;temporaire
 49280001;38 Avenue de Nantes;LA SéGUINIèRE;47.06;-0.941;R;E85;3;2017-09-27 18:49:00;;definitive
 49280001;38 Avenue de Nantes;LA SéGUINIèRE;47.06;-0.941;R;GPLc;4;2017-10-05 18:55:31;;definitive
 49280001;38 Avenue de Nantes;LA SéGUINIèRE;47.06;-0.941;R;SP95;2;2026-07-24 08:55:10;;definitive
 49280001;38 Avenue de Nantes;LA SéGUINIèRE;47.06;-0.941;R;SP98;6;2026-08-10 16:27:55;;temporaire
+86360004;7 ROUTE DE PARIS;Chasseneuil-du-Poitou;46.632;0.356;R;SP95;2;2022-10-17 18:44:03;;temporaire
+86360004;7 ROUTE DE PARIS;Chasseneuil-du-Poitou;46.632;0.356;R;GPLc;4;2022-10-28 18:30:22;;temporaire
 57150002;3 Rue du Barrois;Creutzwald;49.202;6.708;R;SP95;2;2011-02-16 10:59:00;;
 93150007;2 AV DU 8 MAI 1945;Le Blanc-Mesnil;48.948;2.438;R;SP95;2;2009-10-26 12:00:00;;
 62120006;ROUTE DE LAMBRES;Aire-sur-la-Lys;50.629;2.39;R;SP95;2;2010-03-04 11:56:00;;
@@ -21553,11 +21554,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 17390002;ZAC DES BREGAUDIERES;La Tremblade;45.76;-1.129;R;GPLc;4;2017-09-02 18:50:47;;definitive
 17390002;ZAC DES BREGAUDIERES;La Tremblade;45.76;-1.129;R;E85;3;2026-08-10 12:35:48;;temporaire
 17390002;ZAC DES BREGAUDIERES;La Tremblade;45.76;-1.129;R;E10;5;2026-08-10 12:35:48;;temporaire
+86360003;6 Route de Paris;Chasseneuil-du-Poitou;46.633;0.358;R;SP95;2;2022-09-27 18:57:36;;temporaire
+86360003;6 Route de Paris;Chasseneuil-du-Poitou;46.633;0.358;R;E85;3;2025-03-12 17:33:20;;temporaire
 81000004;120 Avenue François Verdier;Albi;43.92;2.132;R;E85;3;2018-01-31 09:05:12;;definitive
 81000004;120 Avenue François Verdier;Albi;43.92;2.132;R;SP95;2;2019-01-08 10:47:33;;definitive
 81000004;120 Avenue François Verdier;Albi;43.92;2.132;R;SP98;6;2026-08-08 18:25:10;;temporaire
-86360003;6 Route de Paris;Chasseneuil-du-Poitou;46.633;0.358;R;SP95;2;2022-09-27 18:57:36;;temporaire
-86360003;6 Route de Paris;Chasseneuil-du-Poitou;46.633;0.358;R;E85;3;2025-03-12 17:33:20;;temporaire
 63240001;5 Boulevard Mirabeau;MONT-DORE;45.576;2.804;R;SP95;2;2022-02-11 12:01:05;;definitive
 63240001;5 Boulevard Mirabeau;MONT-DORE;45.576;2.804;R;E85;3;2022-02-11 12:01:05;;definitive
 63240001;5 Boulevard Mirabeau;MONT-DORE;45.576;2.804;R;GPLc;4;2022-02-11 12:01:05;;definitive
