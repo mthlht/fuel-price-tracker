@@ -12981,6 +12981,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33770001;2, rue du Martinet;SALLES;44.548;-0.877;R;SP95;2;2017-11-28 16:33:38;;temporaire
 50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP95;2;2023-10-13 08:57:07;;definitive
 50160004;ZI le Saussey;Guilberville;48.984136;-0.9462969;R;SP98;6;2025-01-03 09:33:54;;definitive
+30240002;CHEMIN DE TERRE NEUVE;Le Grau-du-Roi;43.49;4.186;R;SP95;2;2017-11-07 19:08:42;;definitive
+30240002;CHEMIN DE TERRE NEUVE;Le Grau-du-Roi;43.49;4.186;R;E85;3;2017-11-07 19:08:43;;definitive
+30240002;CHEMIN DE TERRE NEUVE;Le Grau-du-Roi;43.49;4.186;R;GPLc;4;2017-11-07 19:08:43;;definitive
 73300001;336 Chem. de Combe Paillarde;Saint-Jean-de-Maurienne;45.266;6.367;R;GPLc;4;2018-01-13 08:49:23;;definitive
 73300001;336 Chem. de Combe Paillarde;Saint-Jean-de-Maurienne;45.266;6.367;R;E85;3;2018-02-12 09:51:06;;definitive
 73300001;336 Chem. de Combe Paillarde;Saint-Jean-de-Maurienne;45.266;6.367;R;E10;5;2019-01-11 09:01:12;;definitive
@@ -13001,9 +13004,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24170002;Route du Buisson;Siorac-en-Périgord;44.81;0.989;R;E85;3;2023-08-12 07:20:17;;definitive
 40350001;160, route d'Estibeaux;Pouillon;43.60651;-0.99139;R;GPLc;4;2017-09-22 10:50:55;;definitive
 40350001;160, route d'Estibeaux;Pouillon;43.60651;-0.99139;R;SP95;2;2019-09-05 13:11:13;;definitive
-30240002;CHEMIN DE TERRE NEUVE;Le Grau-du-Roi;43.49;4.186;R;SP95;2;2017-11-07 19:08:42;;definitive
-30240002;CHEMIN DE TERRE NEUVE;Le Grau-du-Roi;43.49;4.186;R;E85;3;2017-11-07 19:08:43;;definitive
-30240002;CHEMIN DE TERRE NEUVE;Le Grau-du-Roi;43.49;4.186;R;GPLc;4;2017-11-07 19:08:43;;definitive
 58800002;5 Pl. du Champ de Foire;Corbigny;47.255153292817;3.6841538044451996;R;E10;5;2023-09-14 08:00:14;;definitive
 47360001;LE BOURG;PRAYSSAS;44.287;0.509;R;E85;3;2017-09-23 10:19:08;;definitive
 47360001;LE BOURG;PRAYSSAS;44.287;0.509;R;GPLc;4;2017-09-23 10:19:08;;definitive
@@ -18219,6 +18219,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68110006;77 AVENUE DE FRIBOURG;ILLZACH;47.768;7.387;R;E85;3;2026-08-10 17:53:54;;temporaire
 7000002;Boulevard de Paste;PRIVAS;44.727;4.597;R;GPLc;4;2017-09-20 09:07:52;;definitive
 7000002;Boulevard de Paste;PRIVAS;44.727;4.597;R;SP95;2;2022-11-16 15:14:06;;definitive
+71260005;RD 906;Fleurville;46.445;4.885;R;SP95;2;2017-09-04 09:27:13;;definitive
+71260005;RD 906;Fleurville;46.445;4.885;R;GPLc;4;2017-09-04 09:27:13;;definitive
 88500007;RUE SAINT MAURICE;Mirecourt;48.31;6.135;R;SP95;2;2017-10-19 16:32:26;;definitive
 88500007;RUE SAINT MAURICE;Mirecourt;48.31;6.135;R;E85;3;2017-10-19 16:32:26;;definitive
 26600015;49 AVENUE DU PRESIDENT ROOSEVELT;Tain-l'Hermitage;45.068;4.848;R;SP95;2;2024-06-11 13:31:00;;definitive
@@ -18226,8 +18228,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59720001;Rue Jules Stephenne;LOUVROIL;50.254;3.937;R;SP95;2;2023-05-25 10:13:48;;temporaire
 80230002;Rue Cavée Lévesque;Saint-Valery-sur-Somme;50.174;1.638;R;GPLc;4;2022-09-03 09:03:15;;definitive
 80230002;Rue Cavée Lévesque;Saint-Valery-sur-Somme;50.174;1.638;R;SP95;2;2025-06-14 08:02:38;;definitive
-71260005;RD 906;Fleurville;46.445;4.885;R;SP95;2;2017-09-04 09:27:13;;definitive
-71260005;RD 906;Fleurville;46.445;4.885;R;GPLc;4;2017-09-04 09:27:13;;definitive
 87270005;187 Avenue de Limoges;COUZEIX;45.879;1.238;R;SP95;2;2024-05-21 15:52:18;;definitive
 87270005;187 Avenue de Limoges;COUZEIX;45.879;1.238;R;GPLc;4;2024-05-21 15:52:19;;definitive
 87270005;187 Avenue de Limoges;COUZEIX;45.879;1.238;R;E85;3;2026-03-05 08:27:17;;temporaire
@@ -18500,6 +18500,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24200007;8 Avenue de Selves;Sarlat-la-Canéda;44.9;1.212;R;E85;3;2019-12-15 12:40:26;;definitive
 24200007;8 Avenue de Selves;Sarlat-la-Canéda;44.9;1.212;R;GPLc;4;2019-12-15 12:40:26;;definitive
 24200007;8 Avenue de Selves;Sarlat-la-Canéda;44.9;1.212;R;SP95;2;2026-01-20 18:52:36;;definitive
+94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;E85;3;2018-12-12 08:43:11;;definitive
+94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;GPLc;4;2018-12-12 08:43:11;;definitive
+94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;SP98;6;2018-12-12 08:43:12;;definitive
+94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;SP95;2;2023-12-21 06:39:44;;definitive
 84400003;Chemin des Abattoirs;APT;43.883;5.381;R;GPLc;4;2021-07-06 09:29:48;;definitive
 84400003;Chemin des Abattoirs;APT;43.883;5.381;R;SP95;2;2026-08-10 09:26:24;;temporaire
 30210001;Impasse Roussin;REMOULINS;43.939;4.574;R;SP95;2;2024-04-16 05:05:15;;definitive
@@ -18522,11 +18526,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 80000012;Rue Alexandre Dumas;AMIENS;49.871;2.3;R;GPLc;4;2017-09-02 12:00:11;;definitive
 80000012;Rue Alexandre Dumas;AMIENS;49.871;2.3;R;SP95;2;2025-07-22 09:47:51;;definitive
 80000012;Rue Alexandre Dumas;AMIENS;49.871;2.3;R;E85;3;2026-08-10 15:23:05;;temporaire
-94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;E85;3;2018-12-12 08:43:11;;definitive
-94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;GPLc;4;2018-12-12 08:43:11;;definitive
-94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;SP98;6;2018-12-12 08:43:12;;definitive
-94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;SP95;2;2023-12-21 06:39:44;;definitive
-94110005;89 AV A. BRIAND;ARCUEIL;48.804;2.325;R;E10;5;2026-08-09 21:44:50;;temporaire
 50890001;10 RUE ARGANCHY;CONDé-SUR-VIRE;49.058;-1.03;R;E85;3;2017-09-22 09:05:26;;definitive
 50890001;10 RUE ARGANCHY;CONDé-SUR-VIRE;49.058;-1.03;R;GPLc;4;2017-09-22 09:05:26;;definitive
 50890001;10 RUE ARGANCHY;CONDé-SUR-VIRE;49.058;-1.03;R;E10;5;2017-10-28 15:19:00;;definitive
@@ -21913,6 +21912,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 84800001;82 CHEMIN DES ESPELUGUES;L'Isle-sur-la-Sorgue;43.925;5.063;R;SP95;2;2019-05-29 09:12:55;;definitive
 33660004;A89 Aire des Pamobières;Gours;45.001;0.037;A;GPLc;4;2026-08-02 13:46:33;;temporaire
 33660004;A89 Aire des Pamobières;Gours;45.001;0.037;A;SP95;2;2026-08-04 18:39:02;;definitive
+33660004;A89 Aire des Pamobières;Gours;45.001;0.037;A;SP98;6;2026-08-10 22:22:04;;temporaire
 3800005;77 rue des Capucins;GANNAT;46.11;3.198;R;E85;3;2017-12-13 10:09:30;;definitive
 3800005;77 rue des Capucins;GANNAT;46.11;3.198;R;GPLc;4;2017-12-13 10:09:30;;definitive
 3800005;77 rue des Capucins;GANNAT;46.11;3.198;R;SP95;2;2023-08-02 08:26:54;;definitive
@@ -22543,10 +22543,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 71230003;26 RUE GAMBETTA;SAINT VALLIER;46.643530483578;4.3708068260129;R;Gazole;1;2026-08-10 15:29:47;;temporaire
 84200011;80 chemin de la Lègue;Carpentras;44.055;5.054;R;SP95;2;2024-02-02 13:04:29;;definitive
 84200011;80 chemin de la Lègue;Carpentras;44.055;5.054;R;GPLc;4;2024-02-02 13:04:29;;definitive
-73100012;ROND POINT LAMARTINE;Aix-les-Bains;45.694;5.9;R;SP95;2;2017-09-20 17:58:36;;definitive
-73100012;ROND POINT LAMARTINE;Aix-les-Bains;45.694;5.9;R;GPLc;4;2017-09-20 17:58:38;;definitive
-73100012;ROND POINT LAMARTINE;Aix-les-Bains;45.694;5.9;R;E10;5;2026-08-10 08:28:26;;temporaire
-73100012;ROND POINT LAMARTINE;Aix-les-Bains;45.694;5.9;R;SP98;6;2026-08-10 08:28:26;;temporaire
 94270005;Avenue de Fontainebleau;LE KREMLIN-BICêTRE;48.807706768264;2.3626414755006997;R;SP95;2;2019-02-14 09:37:57;;definitive
 94270005;Avenue de Fontainebleau;LE KREMLIN-BICêTRE;48.807706768264;2.3626414755006997;R;E85;3;2019-02-14 09:37:57;;definitive
 94270005;Avenue de Fontainebleau;LE KREMLIN-BICêTRE;48.807706768264;2.3626414755006997;R;GPLc;4;2026-03-03 09:02:50;;temporaire
@@ -22572,6 +22568,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 10700003;104 rue de Paris;Arcis-sur-Aube;48.535;4.13;R;E85;3;2017-09-01 09:05:44;;definitive
 10700003;104 rue de Paris;Arcis-sur-Aube;48.535;4.13;R;GPLc;4;2017-09-01 09:05:44;;definitive
 10700003;104 rue de Paris;Arcis-sur-Aube;48.535;4.13;R;SP95;2;2019-04-03 16:43:03;;definitive
+73100012;ROND POINT LAMARTINE;Aix-les-Bains;45.694;5.9;R;SP95;2;2017-09-20 17:58:36;;definitive
+73100012;ROND POINT LAMARTINE;Aix-les-Bains;45.694;5.9;R;GPLc;4;2017-09-20 17:58:38;;definitive
 85480001;58 AVENUE DU MOULIN;BOURNEZEAU;46.638142;-1.179617;R;E10;5;2023-12-30 08:45:37;;definitive
 85480001;58 AVENUE DU MOULIN;BOURNEZEAU;46.638142;-1.179617;R;SP98;6;2022-02-26 08:50:39;;definitive
 85480001;58 AVENUE DU MOULIN;BOURNEZEAU;46.638142;-1.179617;R;E85;3;2022-02-26 08:50:38;;definitive
@@ -23168,11 +23166,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 9240004;45 faubourg sainte croix;La bastide de serou;43.01196;1.429751;R;SP95;2;2025-10-04 09:16:45;;definitive
 9240004;45 faubourg sainte croix;La bastide de serou;43.01196;1.429751;R;E85;3;2025-10-04 09:16:45;;definitive
 9240004;45 faubourg sainte croix;La bastide de serou;43.01196;1.429751;R;GPLc;4;2025-10-04 09:16:45;;definitive
-38110002;23 Rue Pasteur;La Tour-du-Pin;45.56;5.453;R;GPLc;4;2019-04-23 18:40:10;;definitive
-38110002;23 Rue Pasteur;La Tour-du-Pin;45.56;5.453;R;SP95;2;2021-10-28 08:22:26;;definitive
 17100014;31, Cours Lemercier;Saintes;45.747474000000004;-0.6394869999999999;R;SP95;2;2025-09-18 09:12:12;;definitive
 17100014;31, Cours Lemercier;Saintes;45.747474000000004;-0.6394869999999999;R;E85;3;2025-09-18 09:12:12;;definitive
 17100014;31, Cours Lemercier;Saintes;45.747474000000004;-0.6394869999999999;R;GPLc;4;2025-09-18 09:12:12;;definitive
+38110002;23 Rue Pasteur;La Tour-du-Pin;45.56;5.453;R;GPLc;4;2019-04-23 18:40:10;;definitive
+38110002;23 Rue Pasteur;La Tour-du-Pin;45.56;5.453;R;SP95;2;2021-10-28 08:22:26;;definitive
 3100007;345 AVENUE PRESIDENT AURIOL;MONTLUCON;46.320058353029;2.5809868850979;R;E85;3;2017-09-06 08:55:31;;definitive
 3100007;345 AVENUE PRESIDENT AURIOL;MONTLUCON;46.320058353029;2.5809868850979;R;GPLc;4;2017-09-06 08:55:31;;definitive
 3100007;345 AVENUE PRESIDENT AURIOL;MONTLUCON;46.320058353029;2.5809868850979;R;E10;5;2026-07-08 10:55:27;;definitive
