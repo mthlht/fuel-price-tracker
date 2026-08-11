@@ -8205,8 +8205,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38320006;ROCADE SUD;EYBENS;45.151835;5.739984000000001;R;SP95;2;2022-11-14 09:11:48;;temporaire
 38320006;ROCADE SUD;EYBENS;45.151835;5.739984000000001;R;SP98;6;2026-08-11 19:37:11;;temporaire
 44230003;2 Rue Pierre Mendès France;Saint-Sébastien-sur-Loire;47.192;-1.492;R;SP95;2;2025-04-08 11:04:57;;definitive
-26270007;1287 RN 7 - LES BLACHES;Cliousclat;44.72;4.806;R;SP95;2;2022-09-13 21:59:32;;definitive
-26270007;1287 RN 7 - LES BLACHES;Cliousclat;44.72;4.806;R;GPLc;4;2022-09-13 21:59:32;;definitive
 57260001;105 Impasse Jean Laurain;Dieuze;48.811;6.714;R;E85;3;2017-10-24 13:42:33;;definitive
 57260001;105 Impasse Jean Laurain;Dieuze;48.811;6.714;R;GPLc;4;2017-10-24 13:42:33;;definitive
 49400004;ZI EcoparcSaint Lambert des Levées;SAUMUR;47.277;-0.075;R;SP95;2;2019-06-07 16:23:44;;definitive
@@ -8216,6 +8214,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 32500001;Route de Lectoure;FLEURANCE;43.860269167695996;0.6592991017000001;R;SP95;2;2026-04-09 08:10:52;;temporaire
 10123001;Avenue Charles de Refuge;Saint-André-les-Vergers;48.281776863104;4.0525774803961;R;SP95;2;2023-08-29 07:53:21;;definitive
 10123001;Avenue Charles de Refuge;Saint-André-les-Vergers;48.281776863104;4.0525774803961;R;GPLc;4;2017-09-27 08:57:54;;definitive
+26270007;1287 RN 7 - LES BLACHES;Cliousclat;44.72;4.806;R;SP95;2;2022-09-13 21:59:32;;definitive
+26270007;1287 RN 7 - LES BLACHES;Cliousclat;44.72;4.806;R;GPLc;4;2022-09-13 21:59:32;;definitive
 10270007;AUTOROUTE A5 - AIRE TROYES-LE-PLESSIS;Fresnoy-le-Château;48.214155554748004;4.2409806284308;A;GPLc;4;2025-04-24 07:52:48;;definitive
 10270007;AUTOROUTE A5 - AIRE TROYES-LE-PLESSIS;Fresnoy-le-Château;48.214155554748004;4.2409806284308;A;SP95;2;2026-03-23 15:41:18;;definitive
 55600001;11 Avenue de Verdun;Montmédy;49.513;5.375;R;E85;3;2017-09-27 10:57:23;;definitive
@@ -11124,14 +11124,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;SP95;2;2024-06-26 19:11:58;;definitive
 31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;E85;3;2024-06-26 19:11:58;;definitive
 31100011;80 ROUTE D ESPAGNE;TOULOUSE;43.574;1.424;R;GPLc;4;2024-06-26 19:11:58;;definitive
+25350001;15 Rue de Beaulieu;MANDEURE;47.448;6.813;R;GPLc;4;2018-02-19 10:05:52;;definitive
+25350001;15 Rue de Beaulieu;MANDEURE;47.448;6.813;R;E85;3;2018-12-18 09:08:47;;definitive
+25350001;15 Rue de Beaulieu;MANDEURE;47.448;6.813;R;E10;5;2024-03-23 09:56:14;;definitive
 27170003;2 route Nationale 13;Écardenville-la-Campagne;49.123;0.848;R;E85;3;2016-01-01 00:00:00;;
 27170003;2 route Nationale 13;Écardenville-la-Campagne;49.123;0.848;R;GPLc;4;2016-01-01 00:00:00;;
 27170003;2 route Nationale 13;Écardenville-la-Campagne;49.123;0.848;R;SP95;2;2017-07-14 00:00:00;;
 27170003;2 route Nationale 13;Écardenville-la-Campagne;49.123;0.848;R;E10;5;2020-07-31 17:13:49;;temporaire
 27170003;2 route Nationale 13;Écardenville-la-Campagne;49.123;0.848;R;SP98;6;2026-08-09 00:19:11;;temporaire
-25350001;15 Rue de Beaulieu;MANDEURE;47.448;6.813;R;GPLc;4;2018-02-19 10:05:52;;definitive
-25350001;15 Rue de Beaulieu;MANDEURE;47.448;6.813;R;E85;3;2018-12-18 09:08:47;;definitive
-25350001;15 Rue de Beaulieu;MANDEURE;47.448;6.813;R;E10;5;2024-03-23 09:56:14;;definitive
 18100015;11 rue du 11 novembre;VIERZON;47.221473011548;2.0652897018218;R;E85;3;2019-06-14 18:33:11;;definitive
 18100015;11 rue du 11 novembre;VIERZON;47.221473011548;2.0652897018218;R;GPLc;4;2019-06-14 18:33:11;;definitive
 18100015;11 rue du 11 novembre;VIERZON;47.221473011548;2.0652897018218;R;E10;5;2019-06-14 18:33:11;;definitive
@@ -18144,9 +18144,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63700007;2 route de Clermont Ferrand;St Eloy les Mines;46.161;2.835;R;SP95;2;2026-07-22 14:33:10;;definitive
 3100005;Avenue Pierre Villon;MONTLUçON;46.353;2.587;R;GPLc;4;2017-09-01 12:13:51;;definitive
 3100005;Avenue Pierre Villon;MONTLUçON;46.353;2.587;R;SP98;6;2026-07-09 16:56:17;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;E85;3;2018-02-19 18:46:15;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;GPLc;4;2018-02-19 18:46:15;;definitive
-28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;SP98;6;2026-08-03 17:09:38;;temporaire
 77130006;BOULEVARD DIDEROT;MONTEREAU-FAULT-YONNE;48.39853918239999;2.95158027595;R;E85;3;2017-08-29 10:02:06;;definitive
 77130006;BOULEVARD DIDEROT;MONTEREAU-FAULT-YONNE;48.39853918239999;2.95158027595;R;GPLc;4;2017-08-29 10:02:07;;definitive
 77130006;BOULEVARD DIDEROT;MONTEREAU-FAULT-YONNE;48.39853918239999;2.95158027595;R;SP95;2;2020-10-16 09:41:27;;definitive
@@ -18167,6 +18164,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;E85;3;2019-12-27 17:47:42;;definitive
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;GPLc;4;2019-12-27 17:47:42;;definitive
 76150004;14 route de Duclair;St Jean Du Cardonnay;49.4830834;1.0170327000000001;R;SP95;2;2025-08-11 20:28:48;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;E85;3;2018-02-19 18:46:15;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;GPLc;4;2018-02-19 18:46:15;;definitive
+28000002;106 Rue du Bourgneuf;Chartres;48.463;1.48;R;SP98;6;2026-08-03 17:09:38;;temporaire
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;SP95;2;2020-11-19 16:17:07;;definitive
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;E85;3;2020-11-19 16:17:07;;definitive
 58200009;103 rue du Maréchal Leclerc;Cosne-Cours-sur-Loire;47.412;2.927;R;GPLc;4;2020-11-19 16:17:08;;definitive
@@ -23448,8 +23448,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 24100008;Route de Sainte Alvère;BERGERAC;44.8533552754;0.513779259572;R;E85;3;2017-09-03 12:08:37;;definitive
 24100008;Route de Sainte Alvère;BERGERAC;44.8533552754;0.513779259572;R;GPLc;4;2017-09-03 12:08:37;;definitive
 24100008;Route de Sainte Alvère;BERGERAC;44.8533552754;0.513779259572;R;SP95;2;2023-02-13 16:55:06;;definitive
-91570004;RN118;Bièvres;48.746;2.197;R;SP95;2;2024-06-26 22:27:02;;definitive
-91570004;RN118;Bièvres;48.746;2.197;R;GPLc;4;2024-06-26 22:27:02;;definitive
 15130005;12 Hameau de Louradou;Vézac;44.900704255779004;2.5111739254746;R;E85;3;2026-06-02 10:34:35;;definitive
 15130005;12 Hameau de Louradou;Vézac;44.900704255779004;2.5111739254746;R;GPLc;4;2026-06-02 10:34:35;;definitive
 15130005;12 Hameau de Louradou;Vézac;44.900704255779004;2.5111739254746;R;E10;5;2026-06-02 10:34:35;;definitive
@@ -23462,6 +23460,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 59480002;10 Rue Maurice Bouchery;LA BASSéE;50.530090586347;2.8048653757779;R;E85;3;2018-10-16 15:48:26;;definitive
 59480002;10 Rue Maurice Bouchery;LA BASSéE;50.530090586347;2.8048653757779;R;GPLc;4;2023-07-07 09:07:30;;temporaire
 59480002;10 Rue Maurice Bouchery;LA BASSéE;50.530090586347;2.8048653757779;R;SP95;2;2026-03-03 09:04:54;;temporaire
+91570004;RN118;Bièvres;48.746;2.197;R;SP95;2;2024-06-26 22:27:02;;definitive
+91570004;RN118;Bièvres;48.746;2.197;R;GPLc;4;2024-06-26 22:27:02;;definitive
 68120005;15 ROUTE DE THANN;PFASTATT;47.758386853882;7.2940023698764005;R;E85;3;2025-10-15 11:08:08;;definitive
 68120005;15 ROUTE DE THANN;PFASTATT;47.758386853882;7.2940023698764005;R;GPLc;4;2025-10-15 11:08:08;;definitive
 68120005;15 ROUTE DE THANN;PFASTATT;47.758386853882;7.2940023698764005;R;SP95;2;2025-10-15 18:17:34;;definitive
