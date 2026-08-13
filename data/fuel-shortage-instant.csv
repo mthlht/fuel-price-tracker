@@ -6636,6 +6636,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13580003;19 Avenue du Général de Gaulle;La Fare-les-Oliviers;43.551;5.202;R;GPLc;4;2017-09-05 14:51:05;;definitive
 13580003;19 Avenue du Général de Gaulle;La Fare-les-Oliviers;43.551;5.202;R;E10;5;2017-09-05 14:51:05;;definitive
 13580003;19 Avenue du Général de Gaulle;La Fare-les-Oliviers;43.551;5.202;R;SP98;6;2017-09-05 14:51:05;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;SP95;2;2018-03-29 12:04:51;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;GPLc;4;2018-03-29 12:04:51;;definitive
+56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;E85;3;2018-03-29 15:27:37;;definitive
 1320001;259 ROUTE DE MEXIMIEUX;CHALAMONT;45.991;5.169;R;E85;3;2013-02-01 08:06:00;;
 1320001;259 ROUTE DE MEXIMIEUX;CHALAMONT;45.991;5.169;R;GPLc;4;2013-02-01 08:06:00;;
 1320001;259 ROUTE DE MEXIMIEUX;CHALAMONT;45.991;5.169;R;E10;5;2013-02-01 08:07:00;;
@@ -6647,9 +6650,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 21310004;10 RUE PAUL AUBAN;Mirebeau-sur-Bèze;47.393;5.309;R;E85;3;2024-10-25 06:29:20;;definitive
 21310004;10 RUE PAUL AUBAN;Mirebeau-sur-Bèze;47.393;5.309;R;GPLc;4;2025-03-25 07:05:00;;definitive
 21310004;10 RUE PAUL AUBAN;Mirebeau-sur-Bèze;47.393;5.309;R;SP95;2;2026-07-20 12:47:01;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;SP95;2;2018-03-29 12:04:51;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;GPLc;4;2018-03-29 12:04:51;;definitive
-56440002;Rue Jean Moulin;Languidic;47.831;-3.158;R;E85;3;2018-03-29 15:27:37;;definitive
 44406001;1 Impasse Ordronneau;REZé;47.194;-1.572;R;E85;3;2018-07-27 05:53:51;;definitive
 44406001;1 Impasse Ordronneau;REZé;47.194;-1.572;R;SP95;2;2025-01-13 09:27:50;;definitive
 19000008;12 AV ALSACE LORRAINE;TULLE;45.2617;1.75672;R;SP95;2;2022-09-23 10:23:02;;definitive
@@ -21973,6 +21973,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;SP95;2;2022-03-01 21:39:12;;definitive
 31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;E85;3;2022-03-01 21:39:12;;definitive
 31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;GPLc;4;2022-03-01 21:39:12;;definitive
+31200002;211 Route d'Albi;Toulouse;43.643;1.467;R;SP98;6;2026-08-13 02:26:20;;temporaire
 62136001;580 route de bethune;Lestrem;50.618;2.686;R;GPLc;4;2018-04-24 18:46:50;;definitive
 62136001;580 route de bethune;Lestrem;50.618;2.686;R;SP95;2;2018-11-29 14:50:18;;definitive
 33170005;6 avenue Favard;GRADIGNAN;44.785863382799995;-0.603423825687;R;E85;3;2017-09-04 09:24:32;;definitive
