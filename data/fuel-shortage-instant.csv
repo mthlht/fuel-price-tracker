@@ -10523,7 +10523,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 28350001;Rue de la Baronnie;SAINT-LUBIN-DES-JONCHERETS;48.767;1.196;R;GPLc;4;2017-09-01 11:09:16;;definitive
 28350001;Rue de la Baronnie;SAINT-LUBIN-DES-JONCHERETS;48.767;1.196;R;SP95;2;2022-01-15 09:10:31;;definitive
 18000017;10 AV. DES PRES LE ROI;BOURGES;47.094;2.391;R;SP95;2;2018-12-01 07:57:22;;definitive
-18000017;10 AV. DES PRES LE ROI;BOURGES;47.094;2.391;R;SP98;6;2026-07-27 07:36:45;;temporaire
 45400006;119 AV ANDRE DESSAUX RN 20;Fleury-les-Aubrais;47.93;1.897;R;SP95;2;2026-05-13 07:49:55;;definitive
 45400006;119 AV ANDRE DESSAUX RN 20;Fleury-les-Aubrais;47.93;1.897;R;SP98;6;2026-07-25 16:12:32;;temporaire
 64270001;62 Avenue des Docteurs Foix;SALIES-DE-BéARN;43.475;-0.913;R;SP95;2;2017-09-06 15:26:30;;definitive
@@ -11756,12 +11755,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 17350003;ROUTE DE SAINTES;Saint-Savinien;45.87419;-0.67693;R;SP98;6;2020-02-04 09:12:32;;definitive
 6400010;57 BD DU RIOU;CANNES;43.559;7.002;R;SP95;2;2022-11-18 09:37:57;;definitive
 6400010;57 BD DU RIOU;CANNES;43.559;7.002;R;GPLc;4;2019-01-08 11:40:41;;definitive
-91942001;Centre Commercial Ulis 2;LES ULIS;48.676;2.171;R;GPLc;4;2017-10-12 09:06:08;;definitive
-91942001;Centre Commercial Ulis 2;LES ULIS;48.676;2.171;R;SP95;2;2021-08-12 17:22:55;;definitive
-79400003;la Plaine d'Azia;Azay-le-Brûlé;46.40727;-0.225;R;E85;3;2012-01-14 10:16:00;;
 69300010;34 Rue Pasteur;CALUIRE-ET-CUIRE;45.788;4.84;R;SP95;2;2018-12-05 15:52:52;;definitive
 69300010;34 Rue Pasteur;CALUIRE-ET-CUIRE;45.788;4.84;R;E85;3;2018-12-05 15:52:52;;definitive
 69300010;34 Rue Pasteur;CALUIRE-ET-CUIRE;45.788;4.84;R;GPLc;4;2018-12-05 15:52:52;;definitive
+91942001;Centre Commercial Ulis 2;LES ULIS;48.676;2.171;R;GPLc;4;2017-10-12 09:06:08;;definitive
+91942001;Centre Commercial Ulis 2;LES ULIS;48.676;2.171;R;SP95;2;2021-08-12 17:22:55;;definitive
+79400003;la Plaine d'Azia;Azay-le-Brûlé;46.40727;-0.225;R;E85;3;2012-01-14 10:16:00;;
 33920003;46 rue Jacques Vergeron;Saint-Savin;45.139;-0.443;R;E85;3;2010-03-31 12:06:00;;
 33920003;46 rue Jacques Vergeron;Saint-Savin;45.139;-0.443;R;GPLc;4;2017-09-19 16:22:04;;definitive
 33920003;46 rue Jacques Vergeron;Saint-Savin;45.139;-0.443;R;SP98;6;2017-09-19 16:22:05;;definitive
@@ -15151,10 +15150,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 22400010;708 rue du Verger;Lamballe Amor Planguenoual;48.53188139814301;-2.5777083107307996;R;SP95;2;2022-08-12 09:23:30;;definitive
 22400010;708 rue du Verger;Lamballe Amor Planguenoual;48.53188139814301;-2.5777083107307996;R;E85;3;2021-03-08 07:02:33;;definitive
 22400010;708 rue du Verger;Lamballe Amor Planguenoual;48.53188139814301;-2.5777083107307996;R;GPLc;4;2021-03-08 07:02:33;;definitive
-31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;E85;3;2018-05-24 21:25:16;;definitive
-31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;GPLc;4;2018-05-24 21:25:16;;definitive
-31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;SP95;2;2024-09-06 13:00:44;;definitive
-31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;SP98;6;2026-08-07 21:01:05;;temporaire
 95220005;421 Route de Conflans;Herblay;49.00469;2.12666;R;SP95;2;2020-02-06 14:52:25;;definitive
 95220005;421 Route de Conflans;Herblay;49.00469;2.12666;R;E85;3;2020-02-07 11:47:06;;definitive
 95220005;421 Route de Conflans;Herblay;49.00469;2.12666;R;GPLc;4;2020-02-07 11:47:07;;definitive
@@ -15162,6 +15157,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 72400002;94-96 Av. de Verdun;La Ferté-Bernard;48.194;0.669;R;E85;3;2017-08-31 19:09:04;;definitive
 72400002;94-96 Av. de Verdun;La Ferté-Bernard;48.194;0.669;R;GPLc;4;2017-08-31 19:09:05;;definitive
 72400002;94-96 Av. de Verdun;La Ferté-Bernard;48.194;0.669;R;SP98;6;2026-08-12 20:15:13;;temporaire
+31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;E85;3;2018-05-24 21:25:16;;definitive
+31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;GPLc;4;2018-05-24 21:25:16;;definitive
+31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;SP95;2;2024-09-06 13:00:44;;definitive
+31210005;40 Avenue de Saint-Gaudens;Montréjeau;43.087;0.576;R;SP98;6;2026-08-07 21:01:05;;temporaire
 59231002;181 Avenue du Général de Gaulle;GOUZEAUCOURT;50.057;3.131;R;E85;3;2017-08-31 09:41:37;;definitive
 59231002;181 Avenue du Général de Gaulle;GOUZEAUCOURT;50.057;3.131;R;GPLc;4;2017-08-31 09:41:38;;definitive
 59231002;181 Avenue du Général de Gaulle;GOUZEAUCOURT;50.057;3.131;R;SP95;2;2019-09-20 08:48:20;;definitive
