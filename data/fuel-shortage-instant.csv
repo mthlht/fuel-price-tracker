@@ -5,8 +5,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 25115001;Z.A. les Salines;Pouilley-les-Vignes;47.257413021458;5.9240872885659;R;E10;5;2018-04-12 15:06:00;;definitive
 58240003;ROUTE NATIONALE 7 - LES BOULAISES;Chantenay-Saint-Imbert;46.7535171497;3.1406912128899998;R;SP95;2;2022-09-29 08:43:55;;definitive
 58240003;ROUTE NATIONALE 7 - LES BOULAISES;Chantenay-Saint-Imbert;46.7535171497;3.1406912128899998;R;GPLc;4;2022-09-29 08:43:55;;definitive
-34150003;Route de Pézenas;GIGNAC;43.651;3.547;R;GPLc;4;2017-09-01 05:18:24;;definitive
-34150003;Route de Pézenas;GIGNAC;43.651;3.547;R;SP95;2;2018-06-08 11:20:23;;definitive
 6110002;Boulevard Carnot;Le Cannet;43.572;7.016;R;E85;3;2017-09-06 08:05:31;;definitive
 6110002;Boulevard Carnot;Le Cannet;43.572;7.016;R;GPLc;4;2017-09-06 08:05:32;;definitive
 6110002;Boulevard Carnot;Le Cannet;43.572;7.016;R;SP95;2;2024-08-21 15:17:53;;definitive
@@ -15,6 +13,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33114001;Avenue du Médoc ZAC Eyrialis;LE BARP;44.623;-0.787;R;SP95;2;2022-09-01 11:16:17;;definitive
 92230008;192 Avenue Louis Roche;GENNEVILLIERS;48.9327;2.3044;R;E85;3;2018-11-02 12:13:02;;definitive
 92230008;192 Avenue Louis Roche;GENNEVILLIERS;48.9327;2.3044;R;GPLc;4;2018-11-02 12:13:03;;definitive
+34150003;Route de Pézenas;GIGNAC;43.651;3.547;R;GPLc;4;2017-09-01 05:18:24;;definitive
+34150003;Route de Pézenas;GIGNAC;43.651;3.547;R;SP95;2;2018-06-08 11:20:23;;definitive
 95350002;20 avenue robert schumann;SAINT-BRICE-SOUS-FORêT;49.00763;2.35163;R;SP95;2;2026-08-03 17:52:11;;definitive
 93380009;42, BOULEVARD JEAN MERMOZ;Pierrefitte-sur-Seine;48.9660970452;2.36413094302;R;SP95;2;2020-03-05 23:26:36;;definitive
 93380009;42, BOULEVARD JEAN MERMOZ;Pierrefitte-sur-Seine;48.9660970452;2.36413094302;R;GPLc;4;2020-03-05 23:26:36;;definitive
