@@ -6786,6 +6786,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 29200016;ROUTE DU VIEUX ST.MARC;BREST;48.393;-4.45;R;SP95;2;2019-01-02 13:33:04;;definitive
 29200016;ROUTE DU VIEUX ST.MARC;BREST;48.393;-4.45;R;SP98;6;2026-08-14 08:27:20;;temporaire
 29200016;ROUTE DU VIEUX ST.MARC;BREST;48.393;-4.45;R;E10;5;2026-08-15 20:53:45;;temporaire
+93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;SP95;2;2022-10-25 10:55:06;;definitive
+93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;GPLc;4;2022-10-25 10:55:06;;definitive
+93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;E10;5;2026-08-15 20:22:05;;temporaire
+93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;SP98;6;2026-08-15 20:22:05;;temporaire
 77620001;ROUTE DE LORREZ;ÉGREVILLE;48.177;2.872;R;GPLc;4;2019-10-08 11:38:12;;definitive
 77620001;ROUTE DE LORREZ;ÉGREVILLE;48.177;2.872;R;E10;5;2022-11-08 10:06:34;;definitive
 49123001;31 AVENUE DE LA RIOTTIERRE;INGRANDES-SUR-LOIRE;47.406;-0.926;R;E85;3;2019-01-03 18:41:53;;definitive
@@ -6800,11 +6804,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 64800003;59 Avenue du Pic du Midi;IGON;43.157;-0.23;R;GPLc;4;2017-11-14 11:00:01;;temporaire
 64800003;59 Avenue du Pic du Midi;IGON;43.157;-0.23;R;SP98;6;2023-02-28 21:08:30;;definitive
 64800003;59 Avenue du Pic du Midi;IGON;43.157;-0.23;R;SP95;2;2026-08-06 14:55:16;;temporaire
-93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;SP95;2;2022-10-25 10:55:06;;definitive
-93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;GPLc;4;2022-10-25 10:55:06;;definitive
-93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;E10;5;2026-08-15 20:22:05;;temporaire
-93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;SP98;6;2026-08-15 20:22:05;;temporaire
-93160008;Rue du Centre Centre Reg Mont D'Est;Noisy-le-Grand;48.838125330120995;2.547563329687;R;E85;3;2026-08-16 22:17:54;;temporaire
 47390003;lieu dit la tuilerie;Layrac;44.124438433398;0.6582474509196601;R;E85;3;2023-09-02 10:11:58;;definitive
 47390003;lieu dit la tuilerie;Layrac;44.124438433398;0.6582474509196601;R;GPLc;4;2023-09-02 10:11:58;;definitive
 47390003;lieu dit la tuilerie;Layrac;44.124438433398;0.6582474509196601;R;E10;5;2023-09-02 10:11:58;;definitive
@@ -10306,6 +10305,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 40300003;Route de Bayonne;PEYREHORADE;43.55;-1.123;R;E85;3;2017-09-13 11:40:06;;definitive
 40300003;Route de Bayonne;PEYREHORADE;43.55;-1.123;R;GPLc;4;2017-09-13 11:40:06;;definitive
 40300003;Route de Bayonne;PEYREHORADE;43.55;-1.123;R;E10;5;2017-09-13 11:40:07;;definitive
+29800003;37 Rue Hervé de Guébriant;Landerneau;48.45;-4.265;R;SP95;2;2017-09-01 12:37:45;;definitive
+29800003;37 Rue Hervé de Guébriant;Landerneau;48.45;-4.265;R;GPLc;4;2017-09-01 12:37:45;;definitive
 44100006;57 A 61, BD DU TERTRE;NANTES;47.216;-1.606;R;SP95;2;2019-12-01 16:00:39;;definitive
 44100006;57 A 61, BD DU TERTRE;NANTES;47.216;-1.606;R;E85;3;2019-12-01 16:00:39;;definitive
 44100006;57 A 61, BD DU TERTRE;NANTES;47.216;-1.606;R;GPLc;4;2019-12-01 16:00:39;;definitive
@@ -10318,8 +10319,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 54530002;Rue Jean Jaurès;Pagny-sur-Moselle;48.978;6.027;R;E85;3;2017-08-29 10:11:34;;definitive
 54530002;Rue Jean Jaurès;Pagny-sur-Moselle;48.978;6.027;R;GPLc;4;2017-08-29 10:11:34;;definitive
 54530002;Rue Jean Jaurès;Pagny-sur-Moselle;48.978;6.027;R;E10;5;2017-08-29 10:11:34;;definitive
-29800003;37 Rue Hervé de Guébriant;Landerneau;48.45;-4.265;R;SP95;2;2017-09-01 12:37:45;;definitive
-29800003;37 Rue Hervé de Guébriant;Landerneau;48.45;-4.265;R;GPLc;4;2017-09-01 12:37:45;;definitive
 47300003;Route de Fumel;Villeneuve-sur-Lot;44.408;0.735;R;E85;3;2022-09-30 10:22:52;;definitive
 47300003;Route de Fumel;Villeneuve-sur-Lot;44.408;0.735;R;GPLc;4;2022-09-30 10:22:52;;definitive
 76370006;Avenue de Breauté;DIEPPE;49.914;1.094;R;GPLc;4;2025-07-17 09:42:48;;definitive
