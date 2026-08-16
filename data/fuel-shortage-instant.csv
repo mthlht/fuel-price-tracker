@@ -697,13 +697,13 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 94250001;67 Avenue Raspail;Gentilly;48.814;2.348;R;SP95;2;2009-10-30 10:10:00;;
 94250001;67 Avenue Raspail;Gentilly;48.814;2.348;R;E85;3;2023-03-14 09:58:24;;temporaire
 77160002;Avenue de la Voulzie;Provins;48.548;3.292;R;GPLc;4;2017-08-31 08:32:19;;definitive
-13090018;1140 RTE AVIGNON QU.CELONY RN7;Aix-en-Provence;43.557;5.418;R;E85;3;2017-10-22 18:31:50;;definitive
-13090018;1140 RTE AVIGNON QU.CELONY RN7;Aix-en-Provence;43.557;5.418;R;GPLc;4;2017-10-22 18:31:50;;definitive
-13090018;1140 RTE AVIGNON QU.CELONY RN7;Aix-en-Provence;43.557;5.418;R;SP95;2;2022-02-09 10:20:46;;definitive
 94380002;ROUTE DE LA POMPADOUR;Bonneuil-sur-Marne;48.765;2.478;R;SP95;2;2009-11-03 15:33:00;;
 94370003;1 Rue de Paris;Sucy-en-Brie;48.773;2.5;R;SP95;2;2025-11-07 16:16:43;;temporaire
 94370003;1 Rue de Paris;Sucy-en-Brie;48.773;2.5;R;E85;3;2025-11-07 16:16:43;;temporaire
 94370003;1 Rue de Paris;Sucy-en-Brie;48.773;2.5;R;GPLc;4;2025-11-07 16:16:43;;temporaire
+13090018;1140 RTE AVIGNON QU.CELONY RN7;Aix-en-Provence;43.557;5.418;R;E85;3;2017-10-22 18:31:50;;definitive
+13090018;1140 RTE AVIGNON QU.CELONY RN7;Aix-en-Provence;43.557;5.418;R;GPLc;4;2017-10-22 18:31:50;;definitive
+13090018;1140 RTE AVIGNON QU.CELONY RN7;Aix-en-Provence;43.557;5.418;R;SP95;2;2022-02-09 10:20:46;;definitive
 94400003;159 Avenue Rouget de l'Isle;Vitry-sur-Seine;48.782;2.395;R;SP95;2;2009-11-23 10:40:00;;
 16100004;105 Rue Basse Saint-Martin;COGNAC;45.686;-0.338;R;E85;3;2017-09-01 08:26:00;;definitive
 16100004;105 Rue Basse Saint-Martin;COGNAC;45.686;-0.338;R;GPLc;4;2026-08-12 08:04:00;;temporaire
@@ -7113,6 +7113,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 56800005;2 Avenue de Chateaubriand;Ploërmel;47.923;-2.404;R;E10;5;2026-02-03 16:10:34;;temporaire
 42510007;AIRE DE LA LOIRE;NERONDE;45.850847566327;4.2252831453678;A;E85;3;2022-01-07 13:09:52;;definitive
 42510007;AIRE DE LA LOIRE;NERONDE;45.850847566327;4.2252831453678;A;SP95;2;2025-02-14 08:09:02;;definitive
+54520004;12 Avenue de la Résistance;Laxou;48.694;6.131;R;SP95;2;2017-09-01 17:29:39;;definitive
 74000021;17 AVENUE CHAMBERY;ANNECY;45.898;6.117;R;SP95;2;2022-11-22 14:47:36;;definitive
 74000021;17 AVENUE CHAMBERY;ANNECY;45.898;6.117;R;GPLc;4;2022-11-22 14:47:36;;definitive
 74000021;17 AVENUE CHAMBERY;ANNECY;45.898;6.117;R;Gazole;1;2024-11-06 18:33:03;;definitive
@@ -7120,7 +7121,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35480003; Rue du Général Allard;MESSAC;47.82082;-1.80959;R;GPLc;4;2016-01-04 00:00:00;;
 35480003; Rue du Général Allard;MESSAC;47.82082;-1.80959;R;E10;5;2016-01-04 00:00:00;;
 64420001;ZAC PYRENEES EST BEARN;NOUSTY;43.27;-0.201;R;GPLc;4;2017-09-07 11:05:55;;definitive
-54520004;12 Avenue de la Résistance;Laxou;48.694;6.131;R;SP95;2;2017-09-01 17:29:39;;definitive
 22230003; Rue Chanoine le Texier;MERDRIGNAC;48.19538;-2.41743;R;E85;3;2017-08-29 12:27:23;;definitive
 22230003; Rue Chanoine le Texier;MERDRIGNAC;48.19538;-2.41743;R;GPLc;4;2017-08-29 12:27:23;;definitive
 54300008;74. avenue du Général de Gaulle;LUNEVILLE;48.597;6.482;R;E85;3;2017-08-31 19:42:54;;definitive
@@ -9409,10 +9409,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 20160001;Cours Joseph Colonna;vico;42.167;8.799;R;GPLc;4;2018-01-05 19:32:37;;definitive
 20160001;Cours Joseph Colonna;vico;42.167;8.799;R;E10;5;2018-01-05 19:32:37;;definitive
 20160001;Cours Joseph Colonna;vico;42.167;8.799;R;SP98;6;2018-01-05 19:32:37;;definitive
+79160002;A83 - AIRE DE LA PARTHENAISE;Faye-sur-Ardin;46.43;-0.502;A;SP95;2;2012-04-06 13:30:00;;
 59494009;AUTOROUTE A23 6 - AIRE DE PETITE FORÊT;Petite-Forêt;50.37;3.481;A;SP95;2;2022-10-02 19:22:58;;definitive
 59494009;AUTOROUTE A23 6 - AIRE DE PETITE FORÊT;Petite-Forêt;50.37;3.481;A;E85;3;2026-08-15 20:55:18;;temporaire
 59494009;AUTOROUTE A23 6 - AIRE DE PETITE FORÊT;Petite-Forêt;50.37;3.481;A;GPLc;4;2026-08-15 20:55:18;;temporaire
-79160002;A83 - AIRE DE LA PARTHENAISE;Faye-sur-Ardin;46.43;-0.502;A;SP95;2;2012-04-06 13:30:00;;
 27400001;Le Becquet, Avenue des Peupliers;LOUVIERS;49.209;1.183;R;SP95;2;2014-09-02 00:00:00;;
 27400001;Le Becquet, Avenue des Peupliers;LOUVIERS;49.209;1.183;R;SP95;2;2017-09-01 08:17:28;;definitive
 27400001;Le Becquet, Avenue des Peupliers;LOUVIERS;49.209;1.183;R;GPLc;4;2017-09-01 08:17:29;;definitive
@@ -13171,6 +13171,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 34070003;1742 Route de Toulouse;MONTPELLIER;43.589;3.855;R;E85;3;2017-09-15 12:02:38;;definitive
 34070003;1742 Route de Toulouse;MONTPELLIER;43.589;3.855;R;GPLc;4;2017-09-15 12:02:38;;definitive
 34070003;1742 Route de Toulouse;MONTPELLIER;43.589;3.855;R;SP95;2;2022-07-07 13:20:32;;definitive
+13270012;ZI - SECTEUR 83 - RN 568;Fos-sur-Mer;43.471289006001;4.906991525412;R;SP95;2;2017-09-26 14:36:41;;definitive
+13270012;ZI - SECTEUR 83 - RN 568;Fos-sur-Mer;43.471289006001;4.906991525412;R;E85;3;2017-09-26 14:36:41;;definitive
 87100012;100 boulevard de la borie;Limoges;45.838;1.232;R;SP95;2;2019-02-19 10:04:33;;definitive
 87100012;100 boulevard de la borie;Limoges;45.838;1.232;R;SP98;6;2022-06-23 09:03:45;;definitive
 87100012;100 boulevard de la borie;Limoges;45.838;1.232;R;GPLc;4;2022-07-18 17:23:38;;definitive
@@ -13180,8 +13182,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 26390001;6 route de Romans;Hauterives;45.256;5.026;R;E85;3;2017-09-26 10:37:01;;definitive
 26390001;6 route de Romans;Hauterives;45.256;5.026;R;GPLc;4;2017-09-26 10:37:01;;definitive
 26390001;6 route de Romans;Hauterives;45.256;5.026;R;SP95;2;2024-01-10 07:41:31;;definitive
-13270012;ZI - SECTEUR 83 - RN 568;Fos-sur-Mer;43.471289006001;4.906991525412;R;SP95;2;2017-09-26 14:36:41;;definitive
-13270012;ZI - SECTEUR 83 - RN 568;Fos-sur-Mer;43.471289006001;4.906991525412;R;E85;3;2017-09-26 14:36:41;;definitive
 50430002;115 allée des rotisseurs;LESSAY;49.212;-1.528;R;GPLc;4;2019-01-18 12:01:38;;temporaire
 50430002;115 allée des rotisseurs;LESSAY;49.212;-1.528;R;SP98;6;2025-08-19 10:45:16;;temporaire
 67700013;20 RUE DES CLES;SAVERNE;48.74;7.369;R;SP95;2;2021-06-21 16:13:57;;definitive
