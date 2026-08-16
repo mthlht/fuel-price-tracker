@@ -9324,6 +9324,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 70150001;Avenue de Marnay la Ville;Marnay;47.288;5.764;R;E85;3;2017-11-20 09:52:16;;definitive
 70150001;Avenue de Marnay la Ville;Marnay;47.288;5.764;R;GPLc;4;2017-11-20 09:52:16;;definitive
 70150001;Avenue de Marnay la Ville;Marnay;47.288;5.764;R;SP95;2;2018-11-03 08:54:54;;definitive
+17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;E85;3;2017-09-19 18:45:19;;definitive
+17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;SP95;2;2017-09-29 18:49:36;;definitive
+17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;GPLc;4;2017-09-29 18:49:37;;definitive
 81300001;Avenue du Maréchal Juin;GRAULHET;43.7596917928;1.96428409176;R;SP95;2;2020-02-20 07:35:45;;definitive
 44410007;4 RUE DES LEVEES MIRAUD;LA CHAPELLE DES MARAIS;47.448;-2.241;R;SP95;2;2023-10-20 08:36:57;;definitive
 44410007;4 RUE DES LEVEES MIRAUD;LA CHAPELLE DES MARAIS;47.448;-2.241;R;E85;3;2023-10-20 08:36:57;;definitive
@@ -9350,9 +9353,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13200020;12 AVENUE DE LA LIBERATION;ARLES;43.7;4.642;R;E85;3;2022-03-12 18:30:12;;definitive
 13200020;12 AVENUE DE LA LIBERATION;ARLES;43.7;4.642;R;GPLc;4;2022-03-12 18:30:12;;definitive
 13200020;12 AVENUE DE LA LIBERATION;ARLES;43.7;4.642;R;SP95;2;2026-03-26 20:20:26;;definitive
-17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;E85;3;2017-09-19 18:45:19;;definitive
-17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;SP95;2;2017-09-29 18:49:36;;definitive
-17690002;D137 Rte de Rochefort;ANGOULINS;46.1;-1.092;R;GPLc;4;2017-09-29 18:49:37;;definitive
 1150001;8 RUE DE L'INDUSTRIE;LAGNIEU;45.902;5.346;R;E85;3;2021-12-09 14:58:05;;definitive
 1150001;8 RUE DE L'INDUSTRIE;LAGNIEU;45.902;5.346;R;GPLc;4;2021-12-09 14:58:05;;definitive
 1150001;8 RUE DE L'INDUSTRIE;LAGNIEU;45.902;5.346;R;SP95;2;2024-02-16 10:08:03;;definitive
@@ -21364,6 +21364,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 17110001;68 Avenue du Maréchal Juin;SAINT-GEORGES-DE-DIDONNE;45.612;-0.991;R;SP95;2;2017-09-04 17:43:59;;definitive
 1460003;Rue de l'industrie;Port;46.166;5.571;R;SP95;2;2021-04-13 07:54:27;;definitive
 1460003;Rue de l'industrie;Port;46.166;5.571;R;GPLc;4;2020-09-21 15:11:18;;definitive
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;GPLc;4;2020-04-29 08:59:11;;definitive
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E10;5;2020-04-29 08:59:11;;definitive
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E85;3;2024-03-05 14:30:49;;temporaire
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP98;6;2026-07-07 12:35:17;;temporaire
+50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP95;2;2026-08-16 16:37:55;;temporaire
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;E85;3;2018-07-06 07:56:43;;definitive
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;GPLc;4;2018-07-06 07:56:43;;definitive
 66820001;Avenue Clemenceau;VERNET-LES-BAINS;42.557;2.384;R;SP95;2;2018-12-20 16:34:03;;definitive
@@ -21379,12 +21384,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 72000020;162, AVENUE BOLLEE;LE MANS;47.997;0.218;R;GPLc;4;2026-06-18 20:47:16;;temporaire
 72000020;162, AVENUE BOLLEE;LE MANS;47.997;0.218;R;SP95;2;2026-06-22 08:37:31;;definitive
 72000020;162, AVENUE BOLLEE;LE MANS;47.997;0.218;R;SP98;6;2026-08-16 16:05:01;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;GPLc;4;2020-04-29 08:59:11;;definitive
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E10;5;2020-04-29 08:59:11;;definitive
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;E85;3;2024-03-05 14:30:49;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP98;6;2026-07-07 12:35:17;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;Gazole;1;2026-08-16 16:37:55;;temporaire
-50300006;22 Le Bourg Robert;Ponts;48.709;-1.319;R;SP95;2;2026-08-16 16:37:55;;temporaire
 19140003;Lieu-dit les Paturaux;Uzerche;45.41736;1.58159;R;E85;3;2015-04-03 00:00:00;;
 19140003;Lieu-dit les Paturaux;Uzerche;45.41736;1.58159;R;E85;3;2017-09-02 06:39:30;;definitive
 19140003;Lieu-dit les Paturaux;Uzerche;45.41736;1.58159;R;GPLc;4;2017-09-02 06:39:30;;definitive
