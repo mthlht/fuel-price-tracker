@@ -5782,6 +5782,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 27500002;Rue de l'Étang;PONT-AUDEMER;49.355;0.5;R;GPLc;4;2018-07-12 13:32:25;;definitive
 27500002;Rue de l'Étang;PONT-AUDEMER;49.355;0.5;R;E10;5;2018-07-12 13:32:25;;definitive
 27500002;Rue de l'Étang;PONT-AUDEMER;49.355;0.5;R;E85;3;2018-07-12 13:32:24;;definitive
+28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;E85;3;2018-06-16 10:28:39;;definitive
+28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;GPLc;4;2018-06-16 10:28:39;;definitive
+28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;E10;5;2018-06-16 10:28:39;;definitive
 79000013;122 AVENUE DE LA ROCHELLE;NIORT;46.317;-0.473;R;E85;3;2015-02-18 00:00:00;;
 79000013;122 AVENUE DE LA ROCHELLE;NIORT;46.317;-0.473;R;SP95;2;2026-05-09 12:05:09;;definitive
 62147005;AUTOROUTE A2 AIRE DE GRAINCOURT;HAVRINCOURT;50.12418838497;3.0899769262674;A;GPLc;4;2022-02-03 11:48:20;;definitive
@@ -5805,10 +5808,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 68350001;320 avenue d'altkirch;BRUNSTATT;47.7235353202;7.3196752491499995;R;SP95;2;2017-09-08 11:31:24;;definitive
 13230001;2 avenue de la République;Port-Saint-Louis-du-Rhône;43.38772;4.80516;R;GPLc;4;2019-01-04 19:33:12;;temporaire
 13230001;2 avenue de la République;Port-Saint-Louis-du-Rhône;43.38772;4.80516;R;SP98;6;2019-01-04 19:33:12;;temporaire
-28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;E85;3;2018-06-16 10:28:39;;definitive
-28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;GPLc;4;2018-06-16 10:28:39;;definitive
-28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;E10;5;2018-06-16 10:28:39;;definitive
-28480001;83 rue de l'étang;Thiron-Gardais;48.313;0.991;R;SP98;6;2026-08-06 13:50:51;;temporaire
 37100001;ROND POINT GUSTAVE EFFEIL;TOURS;47.426;0.7;R;SP95;2;2023-03-20 11:40:36;;definitive
 1100004;886 AVENUE JEAN COUTTY;ARBENT - OYONNAX;46.272;5.66;R;E85;3;2017-08-29 11:53:12;;definitive
 1100004;886 AVENUE JEAN COUTTY;ARBENT - OYONNAX;46.272;5.66;R;GPLc;4;2017-08-29 11:53:12;;definitive
