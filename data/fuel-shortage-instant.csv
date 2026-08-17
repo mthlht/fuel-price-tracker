@@ -18093,7 +18093,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 49300015;85 RUE SADI CARNOT;CHOLET;47.063302520743;-0.86637975752196;R;SP98;6;2026-08-06 19:38:38;;temporaire
 93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;GPLc;4;2017-09-26 07:59:12;;definitive
 93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;SP95;2;2020-11-10 14:12:05;;definitive
-93160009;104/106 AV MEDERIC;Noisy-le-Grand;48.829;2.569;R;SP98;6;2026-08-09 02:18:06;;temporaire
 30500002;Route d'Uzès;Saint-Ambroix;44.255;4.203;R;E85;3;2017-09-12 07:50:08;;definitive
 30500002;Route d'Uzès;Saint-Ambroix;44.255;4.203;R;GPLc;4;2017-09-12 07:50:08;;definitive
 30500002;Route d'Uzès;Saint-Ambroix;44.255;4.203;R;SP95;2;2024-02-02 07:07:52;;temporaire
