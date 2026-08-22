@@ -5584,14 +5584,15 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 82110002;TRAVERS DE CAZES;Cazes-Mondenard;44.235;1.207;R;GPLc;4;2017-09-23 10:27:35;;definitive
 82110002;TRAVERS DE CAZES;Cazes-Mondenard;44.235;1.207;R;SP98;6;2017-09-23 10:27:35;;definitive
 82110002;TRAVERS DE CAZES;Cazes-Mondenard;44.235;1.207;R;SP95;2;2023-09-12 10:42:37;;definitive
+85140004;56 rue Nationale;L'OIE;46.803;-1.132;R;SP95;2;2018-06-15 11:54:41;;definitive
+85140004;56 rue Nationale;L'OIE;46.803;-1.132;R;GPLc;4;2018-06-15 11:54:41;;definitive
+85140004;56 rue Nationale;L'OIE;46.803;-1.132;R;SP98;6;2026-08-22 22:48:58;;temporaire
 31450006;Avenue de Lauragais - Lieu dit Condamine;Pompertuzat;43.497;1.518;R;SP95;2;2019-10-02 09:33:32;;definitive
 31450006;Avenue de Lauragais - Lieu dit Condamine;Pompertuzat;43.497;1.518;R;GPLc;4;2019-10-02 09:33:32;;definitive
 64800005;Avenue de la Gare;COARRAZE;43.1749;-0.23574;R;GPLc;4;2019-10-19 08:57:33;;definitive
 64800005;Avenue de la Gare;COARRAZE;43.1749;-0.23574;R;E85;3;2026-06-09 12:45:24;;temporaire
 50000005;54 Rue de la Poterne;Saint-Lô;49.117;-1.097;R;E85;3;2021-12-31 09:51:44;;definitive
 50000005;54 Rue de la Poterne;Saint-Lô;49.117;-1.097;R;E10;5;2025-04-11 16:12:07;;definitive
-85140004;56 rue Nationale;L'OIE;46.803;-1.132;R;SP95;2;2018-06-15 11:54:41;;definitive
-85140004;56 rue Nationale;L'OIE;46.803;-1.132;R;GPLc;4;2018-06-15 11:54:41;;definitive
 91270002;5 Avenue Henri Barbusse;VIGNEUX-SUR-SEINE;48.697;2.415;R;SP95;2;2022-10-11 20:12:55;;temporaire
 91270002;5 Avenue Henri Barbusse;VIGNEUX-SUR-SEINE;48.697;2.415;R;E85;3;2022-10-11 20:12:55;;temporaire
 91270002;5 Avenue Henri Barbusse;VIGNEUX-SUR-SEINE;48.697;2.415;R;GPLc;4;2022-10-11 20:12:55;;temporaire
@@ -18390,10 +18391,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 74250001;3841 ROUTE DU FER A CHEVAL;Viuz-en-Sallaz;46.142;6.405;R;SP95;2;2017-09-27 07:59:26;;definitive
 74250001;3841 ROUTE DU FER A CHEVAL;Viuz-en-Sallaz;46.142;6.405;R;SP98;6;2026-08-22 17:47:41;;temporaire
 38160002;ZI LES GAMEUX;Chatte;45.144;5.305;R;E85;3;2023-10-31 08:55:52;;definitive
-62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;SP95;2;2017-09-04 20:12:22;;definitive
-62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;E85;3;2017-09-04 20:12:22;;definitive
-62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;GPLc;4;2017-09-04 20:12:22;;definitive
-62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;SP98;6;2020-01-10 15:16:39;;definitive
 40270005;42 AVENUE DE MONT DE MARSAN;Grenade-sur-l'Adour;43.78;-0.437;R;E85;3;2020-01-02 15:14:02;;definitive
 40270005;42 AVENUE DE MONT DE MARSAN;Grenade-sur-l'Adour;43.78;-0.437;R;GPLc;4;2020-01-02 15:14:02;;definitive
 40270005;42 AVENUE DE MONT DE MARSAN;Grenade-sur-l'Adour;43.78;-0.437;R;E10;5;2020-01-02 15:14:02;;definitive
@@ -18403,6 +18400,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 87000006;RUE BERNART DE VENTADOUR;LIMOGES;45.815;1.269;R;E85;3;2017-09-01 08:58:59;;definitive
 87000006;RUE BERNART DE VENTADOUR;LIMOGES;45.815;1.269;R;GPLc;4;2017-09-01 08:58:59;;definitive
 87000006;RUE BERNART DE VENTADOUR;LIMOGES;45.815;1.269;R;SP95;2;2026-07-23 08:10:04;;definitive
+62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;SP95;2;2017-09-04 20:12:22;;definitive
+62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;E85;3;2017-09-04 20:12:22;;definitive
+62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;GPLc;4;2017-09-04 20:12:22;;definitive
+62137001;2246 route de St Omer;Coulogne;50.928;1.901;R;SP98;6;2020-01-10 15:16:39;;definitive
 31790002;66 bis route de Paris D820;SAINT-JORY;43.738;1.373;R;SP95;2;2018-07-25 09:32:00;;definitive
 31790002;66 bis route de Paris D820;SAINT-JORY;43.738;1.373;R;E85;3;2018-07-25 09:32:01;;definitive
 31790002;66 bis route de Paris D820;SAINT-JORY;43.738;1.373;R;GPLc;4;2018-07-25 09:32:01;;definitive
@@ -22586,6 +22587,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 65500004;69 Avenue de Tarbes;VIC-EN-BIGORRE;43.372658;0.060235;R;SP95;2;2025-09-15 07:07:34;;definitive
 65500004;69 Avenue de Tarbes;VIC-EN-BIGORRE;43.372658;0.060235;R;E85;3;2025-09-15 07:07:34;;definitive
 65500004;69 Avenue de Tarbes;VIC-EN-BIGORRE;43.372658;0.060235;R;GPLc;4;2025-09-15 07:07:34;;definitive
+65500004;69 Avenue de Tarbes;VIC-EN-BIGORRE;43.372658;0.060235;R;SP98;6;2026-08-22 23:04:15;;temporaire
 42000021;27 boulevard Fauriat;SAINT ETIENNE;45.446318;4.406471;R;GPLc;4;2025-08-01 16:27:21;;definitive
 42000021;27 boulevard Fauriat;SAINT ETIENNE;45.446318;4.406471;R;SP98;6;2025-08-01 16:27:21;;definitive
 57804001;4 rue des Genêts Zac de Betting;Freyming-Merlebach;49.137;6.808;R;GPLc;4;2017-09-26 08:37:28;;definitive
