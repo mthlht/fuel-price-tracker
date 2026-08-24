@@ -15949,6 +15949,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;E85;3;2019-03-22 19:53:57;;definitive
 16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;GPLc;4;2019-03-22 19:53:57;;definitive
 16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;E10;5;2019-03-22 19:53:57;;definitive
+16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;Gazole;1;2026-08-22 18:23:56;;temporaire
 73290001;75 Rue Lavoisier;LA MOTTE-SERVOLEX;45.60217;5.87546;R;GPLc;4;2016-09-05 08:00:00;;
 73290001;75 Rue Lavoisier;LA MOTTE-SERVOLEX;45.60217;5.87546;R;GPLc;4;2017-09-02 12:09:16;;definitive
 73290001;75 Rue Lavoisier;LA MOTTE-SERVOLEX;45.60217;5.87546;R;SP95;2;2019-08-05 18:40:31;;temporaire
@@ -21421,7 +21422,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;GPLc;4;2019-05-22 14:40:13;;definitive
 31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;SP98;6;2026-08-21 15:54:51;;temporaire
 31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;E10;5;2026-08-22 16:12:21;;temporaire
-31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;E85;3;2026-08-24 04:55:00;;temporaire
 68140003;18 Rue Martin Hilti;Munster;48.043;7.16;R;GPLc;4;2021-06-23 09:51:19;;definitive
 68140003;18 Rue Martin Hilti;Munster;48.043;7.16;R;SP95;2;2021-06-23 09:51:19;;definitive
 79410001;RUE DE LA SABLIERE;ÉCHIRé;46.38889661;-0.42539277000000003;R;SP95;2;2021-05-26 15:05:02;;definitive
