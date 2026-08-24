@@ -4496,10 +4496,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 62690002;3 route départementale 939;Savy-Berlette;50.348;2.569;R;GPLc;4;2017-09-02 07:00:09;;definitive
 62690002;3 route départementale 939;Savy-Berlette;50.348;2.569;R;SP95;2;2017-09-02 07:00:09;;definitive
 62690002;3 route départementale 939;Savy-Berlette;50.348;2.569;R;E85;3;2017-09-02 07:00:09;;definitive
+45200006;RUE DES BRUYERES;AMILLY;47.99;2.77;R;SP95;2;2024-07-18 11:41:50;;definitive
 40160001;606 Avenue Bremontier;PARENTIS-EN-BORN;44.34909;-1.06754;R;SP98;6;2014-02-18 00:00:00;;
 40160001;606 Avenue Bremontier;PARENTIS-EN-BORN;44.34909;-1.06754;R;E85;3;2017-09-23 11:33:49;;definitive
 40160001;606 Avenue Bremontier;PARENTIS-EN-BORN;44.34909;-1.06754;R;GPLc;4;2017-09-23 11:33:49;;definitive
-45200006;RUE DES BRUYERES;AMILLY;47.99;2.77;R;SP95;2;2024-07-18 11:41:50;;definitive
 93800006;53 ROUTE DE SAINT LEU;Épinay-sur-Seine;48.949;2.343;R;SP95;2;2021-12-16 10:56:24;;definitive
 35300005;39 bd de Groslay;FOUGERES;48.348;-1.182;R;SP95;2;2026-05-12 09:06:17;;definitive
 83400003;2 Avenue du Quinzième Corps;HYERES;43.12133;6.13816;R;SP95;2;2012-01-12 15:30:00;;
@@ -14860,13 +14860,15 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 61100008;route de domfront;Flers;48.7333102;-0.5764591;R;GPLc;4;2017-12-22 15:17:26;;definitive
 23700001;10 Route d'Aubusson;Auzances;46.027;2.497;R;SP95;2;2021-01-02 10:52:14;;definitive
 23700001;10 Route d'Aubusson;Auzances;46.027;2.497;R;GPLc;4;2021-09-22 08:07:52;;definitive
+83470006;RN.7 ROUTE DE NICE;Saint-Maximin-la-Sainte-Baume;43.447;5.863;R;SP95;2;2017-09-26 09:33:54;;definitive
+83470006;RN.7 ROUTE DE NICE;Saint-Maximin-la-Sainte-Baume;43.447;5.863;R;GPLc;4;2026-08-16 17:53:57;;temporaire
+83470006;RN.7 ROUTE DE NICE;Saint-Maximin-la-Sainte-Baume;43.447;5.863;R;E10;5;2026-08-24 04:04:18;;temporaire
+83470006;RN.7 ROUTE DE NICE;Saint-Maximin-la-Sainte-Baume;43.447;5.863;R;SP98;6;2026-08-24 04:04:18;;temporaire
 29630002;POULBRAOU ROUTE DE MORLAIX;Plougasnou;48.694;-3.788;R;E85;3;2017-09-11 08:42:42;;definitive
 29630002;POULBRAOU ROUTE DE MORLAIX;Plougasnou;48.694;-3.788;R;GPLc;4;2017-09-11 08:42:42;;definitive
 29630002;POULBRAOU ROUTE DE MORLAIX;Plougasnou;48.694;-3.788;R;E10;5;2017-09-11 08:42:43;;definitive
 29630002;POULBRAOU ROUTE DE MORLAIX;Plougasnou;48.694;-3.788;R;SP98;6;2017-09-11 08:42:43;;definitive
 33210011;16 ROUTE DE BORDEAUX;LANGON;44.5700702602;-0.299294925695;R;SP98;6;2026-08-11 10:34:31;;temporaire
-83470006;RN.7 ROUTE DE NICE;Saint-Maximin-la-Sainte-Baume;43.447;5.863;R;SP95;2;2017-09-26 09:33:54;;definitive
-83470006;RN.7 ROUTE DE NICE;Saint-Maximin-la-Sainte-Baume;43.447;5.863;R;GPLc;4;2026-08-16 17:53:57;;temporaire
 67130002;Rue de la Creuse Fontaine;Russ;48.49433;7.25104;R;E85;3;2019-04-17 17:51:46;;definitive
 67130002;Rue de la Creuse Fontaine;Russ;48.49433;7.25104;R;GPLc;4;2019-04-17 17:51:46;;definitive
 24550001;LIEU DIT LA FOUGERE, ROUTE DE CAHORS;Villefranche-du-Périgord;44.638552720827;1.0608409067322;R;E85;3;2021-10-01 14:08:34;;definitive
@@ -15947,7 +15949,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;E85;3;2019-03-22 19:53:57;;definitive
 16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;GPLc;4;2019-03-22 19:53:57;;definitive
 16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;E10;5;2019-03-22 19:53:57;;definitive
-16600001;Avenue Foch;RUELLE-SUR-TOUVRE;45.68019;0.21081;R;Gazole;1;2026-08-22 18:23:56;;temporaire
 73290001;75 Rue Lavoisier;LA MOTTE-SERVOLEX;45.60217;5.87546;R;GPLc;4;2016-09-05 08:00:00;;
 73290001;75 Rue Lavoisier;LA MOTTE-SERVOLEX;45.60217;5.87546;R;GPLc;4;2017-09-02 12:09:16;;definitive
 73290001;75 Rue Lavoisier;LA MOTTE-SERVOLEX;45.60217;5.87546;R;SP95;2;2019-08-05 18:40:31;;temporaire
@@ -21420,6 +21421,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;GPLc;4;2019-05-22 14:40:13;;definitive
 31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;SP98;6;2026-08-21 15:54:51;;temporaire
 31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;E10;5;2026-08-22 16:12:21;;temporaire
+31650003;5 AV DE GAMEVILLE;Saint-Orens-de-Gameville;43.556;1.531;R;E85;3;2026-08-24 04:55:00;;temporaire
 68140003;18 Rue Martin Hilti;Munster;48.043;7.16;R;GPLc;4;2021-06-23 09:51:19;;definitive
 68140003;18 Rue Martin Hilti;Munster;48.043;7.16;R;SP95;2;2021-06-23 09:51:19;;definitive
 79410001;RUE DE LA SABLIERE;ÉCHIRé;46.38889661;-0.42539277000000003;R;SP95;2;2021-05-26 15:05:02;;definitive
