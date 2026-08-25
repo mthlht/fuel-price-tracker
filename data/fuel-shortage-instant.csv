@@ -1083,7 +1083,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 11800002;RN 113;TRèBES;43.203;2.443;R;GPLc;4;2025-01-28 09:56:25;;definitive
 11800002;RN 113;TRèBES;43.203;2.443;R;E85;3;2026-08-24 08:37:27;;temporaire
 11800002;RN 113;TRèBES;43.203;2.443;R;SP98;6;2026-08-24 08:37:27;;temporaire
-13270005;Avenue Georges Pompidou;Fos-sur-Mer;43.464952910717;4.9406707421088;R;SP95;2;2012-12-06 15:45:00;;
 11300003;23 AVENUE CAMILLE BOUCHE;Limoux;43.059;2.214;R;SP95;2;2012-02-17 10:30:00;;
 9270003;LIEU DIT LE RAUNIER;MAZERES;43.251;1.678;R;E85;3;2020-11-05 09:12:36;;definitive
 9270003;LIEU DIT LE RAUNIER;MAZERES;43.251;1.678;R;GPLc;4;2020-11-05 09:12:36;;definitive
@@ -1104,6 +1103,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 33127002;1289 Avenue de Pierroton;Saint-Jean-d'Illac;44.801;-0.779;R;E10;5;2022-01-06 09:48:50;;definitive
 33127002;1289 Avenue de Pierroton;Saint-Jean-d'Illac;44.801;-0.779;R;E85;3;2022-10-13 17:00:14;;definitive
 33127002;1289 Avenue de Pierroton;Saint-Jean-d'Illac;44.801;-0.779;R;GPLc;4;2022-10-13 17:00:14;;definitive
+13270005;Avenue Georges Pompidou;Fos-sur-Mer;43.464952910717;4.9406707421088;R;SP95;2;2012-12-06 15:45:00;;
 13013014;59 Avenue de Saint-Just;Marseille;43.317;5.404;R;SP95;2;2018-04-26 10:00:23;;definitive
 6670010;483 AVENUE PORTE DES ALPES;PLAN DU VAR;43.855493454462994;7.1973328111143005;R;E85;3;2019-08-30 13:29:13;;definitive
 6670010;483 AVENUE PORTE DES ALPES;PLAN DU VAR;43.855493454462994;7.1973328111143005;R;GPLc;4;2019-08-30 13:29:13;;definitive
@@ -12577,14 +12577,14 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 39380002;8 Route de Salins;MONT-SOUS-VAUDREY;46.98101;5.60756;R;GPLc;4;2022-09-09 10:43:18;;definitive
 39380002;8 Route de Salins;MONT-SOUS-VAUDREY;46.98101;5.60756;R;E10;5;2022-09-09 10:43:18;;definitive
 63960002;A75;Veyre-Monton;45.661;3.153;A;SP95;2;2022-09-30 12:30:29;;definitive
-68160002;31 RUE REBER;Sainte-Marie-aux-Mines;48.249;7.19;R;E85;3;2025-08-13 07:23:56;;definitive
-68160002;31 RUE REBER;Sainte-Marie-aux-Mines;48.249;7.19;R;GPLc;4;2025-08-13 07:23:56;;definitive
-68160002;31 RUE REBER;Sainte-Marie-aux-Mines;48.249;7.19;R;E10;5;2025-08-13 07:23:56;;definitive
 4300002;Avenue des Chalus;Forcalquier;43.95817;5.79229;R;GPLc;4;2022-07-22 17:20:42;;definitive
 4300002;Avenue des Chalus;Forcalquier;43.95817;5.79229;R;SP95;2;2025-01-28 07:09:00;;definitive
 35500009;ROUTE NATIONALE 157 - AIRE D'ERBRÉE;ERBREE;48.088;-1.121;R;SP98;6;2026-08-21 14:38:07;;temporaire
 35500009;ROUTE NATIONALE 157 - AIRE D'ERBRÉE;ERBREE;48.088;-1.121;R;E10;5;2026-08-23 14:07:50;;temporaire
 75016023;7 BOULEVARD MURAT;PARIS;48.847;2.259;R;SP98;6;2024-12-06 11:33:23;;temporaire
+68160002;31 RUE REBER;Sainte-Marie-aux-Mines;48.249;7.19;R;E85;3;2025-08-13 07:23:56;;definitive
+68160002;31 RUE REBER;Sainte-Marie-aux-Mines;48.249;7.19;R;GPLc;4;2025-08-13 07:23:56;;definitive
+68160002;31 RUE REBER;Sainte-Marie-aux-Mines;48.249;7.19;R;E10;5;2025-08-13 07:23:56;;definitive
 59770003;373 Avenue Henri Barbusse;MARLY;50.343;3.562;R;SP95;2;2022-10-06 16:18:53;;definitive
 59770003;373 Avenue Henri Barbusse;MARLY;50.343;3.562;R;E85;3;2022-10-06 16:18:53;;definitive
 59770003;373 Avenue Henri Barbusse;MARLY;50.343;3.562;R;GPLc;4;2022-10-06 16:18:53;;definitive
@@ -22182,8 +22182,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35130001;30 route de NANTES;LA GUERCHE-DE-BRETAGNE;47.935;-1.232;R;GPLc;4;2017-09-01 12:01:07;;definitive
 11400009;1033 AVENUE MARTIN DAUCH;CASTELNAUDARY;43.324;1.936;R;SP95;2;2026-04-29 16:58:17;;definitive
 11400009;1033 AVENUE MARTIN DAUCH;CASTELNAUDARY;43.324;1.936;R;GPLc;4;2026-04-29 16:58:17;;definitive
-51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;GPLc;4;2017-08-31 10:21:24;;definitive
-51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;SP95;2;2021-10-22 08:27:17;;definitive
 56380004;40 Rue de Saint-Cyr;Guer;47.938155330083;-2.1322160777753;R;E85;3;2026-04-09 13:47:08;;definitive
 56380004;40 Rue de Saint-Cyr;Guer;47.938155330083;-2.1322160777753;R;GPLc;4;2026-04-09 13:47:08;;definitive
 56380004;40 Rue de Saint-Cyr;Guer;47.938155330083;-2.1322160777753;R;E10;5;2026-04-09 13:47:08;;definitive
@@ -22205,6 +22203,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13100021;1 bld Maréchal Juin;Aix-en-Provence;43.519132470586;5.4334741842536;R;GPLc;4;2025-11-18 11:53:25;;definitive
 13100021;1 bld Maréchal Juin;Aix-en-Provence;43.519132470586;5.4334741842536;R;E85;3;2025-11-25 10:05:05;;definitive
 13100021;1 bld Maréchal Juin;Aix-en-Provence;43.519132470586;5.4334741842536;R;SP95;2;2025-12-16 10:42:55;;definitive
+51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;GPLc;4;2017-08-31 10:21:24;;definitive
+51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;SP95;2;2021-10-22 08:27:17;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;E85;3;2017-09-01 08:48:41;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;GPLc;4;2023-02-21 11:49:51;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;E10;5;2023-02-21 11:49:52;;definitive
