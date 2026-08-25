@@ -8032,11 +8032,12 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 67500003;88 Route de Bischwiller;HAGUENAU;48.803;7.812;R;GPLc;4;2018-01-04 08:27:50;;definitive
 67500003;88 Route de Bischwiller;HAGUENAU;48.803;7.812;R;SP95;2;2022-10-11 09:08:03;;definitive
 67500003;88 Route de Bischwiller;HAGUENAU;48.803;7.812;R;SP98;6;2026-08-03 07:53:01;;temporaire
-72100002;66 Avenue Olivier Heuzé;Le Mans;47.99687;0.17957;R;GPLc;4;2018-12-17 08:08:58;;definitive
-72100002;66 Avenue Olivier Heuzé;Le Mans;47.99687;0.17957;R;SP95;2;2022-06-03 10:28:23;;definitive
 66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;GPLc;4;2026-05-26 09:37:03;;definitive
 66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;SP95;2;2025-07-16 14:36:09;;definitive
 66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;SP98;6;2025-08-18 08:49:26;;definitive
+66700007;5 ROUTE DU LITTORAL;Argelès-sur-Mer;42.575;3.035;R;E10;5;2026-08-25 23:26:41;;temporaire
+72100002;66 Avenue Olivier Heuzé;Le Mans;47.99687;0.17957;R;GPLc;4;2018-12-17 08:08:58;;definitive
+72100002;66 Avenue Olivier Heuzé;Le Mans;47.99687;0.17957;R;SP95;2;2022-06-03 10:28:23;;definitive
 21230005;Rue de l'Arquebuse;ARNAY-LE-DUC;47.131;4.49;R;E10;5;2019-10-25 15:45:03;;definitive
 21230005;Rue de l'Arquebuse;ARNAY-LE-DUC;47.131;4.49;R;E85;3;2024-10-05 07:29:42;;definitive
 21230005;Rue de l'Arquebuse;ARNAY-LE-DUC;47.131;4.49;R;GPLc;4;2024-10-05 07:30:13;;definitive
