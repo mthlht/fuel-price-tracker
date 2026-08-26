@@ -22008,6 +22008,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 82200010;320 ROUTE DES PLATANES;MOISSAC;44.09100599999999;1.087072;R;SP95;2;2026-04-01 20:39:29;;definitive
 82200010;320 ROUTE DES PLATANES;MOISSAC;44.09100599999999;1.087072;R;E85;3;2026-04-01 20:39:29;;definitive
 82200010;320 ROUTE DES PLATANES;MOISSAC;44.09100599999999;1.087072;R;GPLc;4;2026-04-01 20:39:29;;definitive
+51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;GPLc;4;2017-08-31 10:21:24;;definitive
+51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;SP95;2;2021-10-22 08:27:17;;definitive
 14540001;route de Caen;SOLIERS;49.1401163603;-0.300508505075;R;E85;3;2017-09-01 11:17:39;;definitive
 14540001;route de Caen;SOLIERS;49.1401163603;-0.300508505075;R;GPLc;4;2017-09-01 11:17:39;;definitive
 14540001;route de Caen;SOLIERS;49.1401163603;-0.300508505075;R;SP98;6;2017-09-01 11:17:39;;definitive
@@ -22018,8 +22020,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 13100021;1 bld Maréchal Juin;Aix-en-Provence;43.519132470586;5.4334741842536;R;GPLc;4;2025-11-18 11:53:25;;definitive
 13100021;1 bld Maréchal Juin;Aix-en-Provence;43.519132470586;5.4334741842536;R;E85;3;2025-11-25 10:05:05;;definitive
 13100021;1 bld Maréchal Juin;Aix-en-Provence;43.519132470586;5.4334741842536;R;SP95;2;2025-12-16 10:42:55;;definitive
-51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;GPLc;4;2017-08-31 10:21:24;;definitive
-51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;SP95;2;2021-10-22 08:27:17;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;E85;3;2017-09-01 08:48:41;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;GPLc;4;2023-02-21 11:49:51;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;E10;5;2023-02-21 11:49:52;;definitive
