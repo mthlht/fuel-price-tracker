@@ -12146,6 +12146,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 88600002;3 et 10 Rue de Gérardmer;BRUYèRES;48.199;6.727;R;GPLc;4;2017-09-05 08:28:56;;definitive
 64233001;route de bayonne;LESCAR;43.318;-0.424;R;GPLc;4;2011-02-01 10:07:00;;
 64233001;route de bayonne;LESCAR;43.318;-0.424;R;GPLc;4;2017-08-30 09:28:40;;definitive
+35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
+35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 78360004;150 AVE PAUL DOUMER;MONTESSON;48.909;2.159;R;GPLc;4;2024-03-04 14:48:16;;definitive
 78360004;150 AVE PAUL DOUMER;MONTESSON;48.909;2.159;R;SP95;2;2026-05-18 12:06:41;;definitive
 78360004;150 AVE PAUL DOUMER;MONTESSON;48.909;2.159;R;SP98;6;2026-08-24 18:50:40;;temporaire
@@ -12157,8 +12159,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;GPLc;4;2019-02-27 09:40:28;;definitive
 55500001;Rue de la Ballastière;Ligny-en-Barrois;48.677;5.326;R;E10;5;2019-02-27 09:40:28;;definitive
 80200005;AUTOROUTE A 1;Péronne;49.887;2.837;A;SP95;2;2010-03-23 11:54:00;;
-35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;E85;3;2017-09-02 18:11:44;;definitive
-35340003;46 rue de la Forêt;LA BOUëXIèRE;48.18;-1.438;R;GPLc;4;2017-09-02 18:11:44;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;SP95;2;2024-02-24 19:28:43;;definitive
 28100003;Rue des Bas Buissons;DREUX;48.748;1.344;R;E85;3;2024-02-24 19:28:43;;definitive
 82100007;64 Route de Lafrançaise , Station TOTAL;CASTELSARRASIN;44.045;1.115;R;SP95;2;2022-01-04 08:35:01;;definitive
@@ -20046,6 +20046,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 49220003;4 rocade du Lion;LE LION D ANGERS;47.618;-0.721;R;SP98;6;2022-02-18 15:33:00;;definitive
 49220003;4 rocade du Lion;LE LION D ANGERS;47.618;-0.721;R;E85;3;2022-02-18 15:33:00;;definitive
 49220003;4 rocade du Lion;LE LION D ANGERS;47.618;-0.721;R;E10;5;2026-07-24 20:52:58;;definitive
+49220003;4 rocade du Lion;LE LION D ANGERS;47.618;-0.721;R;SP95;2;2026-08-30 02:52:34;;temporaire
 71130005;31 RUE DU 8 MAI 1945;Gueugnon;46.597;4.052;R;GPLc;4;2022-08-18 06:56:09;;definitive
 34130002;ECOPARC DEPARTEMENTAL CD.112;SAINT-AUNES;43.639;3.964;R;SP95;2;2025-04-17 07:29:04;;definitive
 34130002;ECOPARC DEPARTEMENTAL CD.112;SAINT-AUNES;43.639;3.964;R;GPLc;4;2025-04-17 07:29:04;;definitive
