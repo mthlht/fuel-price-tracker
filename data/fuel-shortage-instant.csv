@@ -34,6 +34,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 38570003;LIEU DIT LE ROMPAY RD523;Le Cheylas;45.386;5.998;R;E85;3;2017-09-01 09:42:17;;definitive
 38570003;LIEU DIT LE ROMPAY RD523;Le Cheylas;45.386;5.998;R;GPLc;4;2017-09-01 09:42:17;;definitive
 38570003;LIEU DIT LE ROMPAY RD523;Le Cheylas;45.386;5.998;R;SP95;2;2025-06-06 12:04:17;;temporaire
+83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;E85;3;2019-02-15 09:09:18;;definitive
+83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;GPLc;4;2019-02-15 09:09:18;;definitive
+83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;SP98;6;2019-02-15 09:09:18;;definitive
 74250003;419 Route de la Vallée du Giffre;Fillinges;46.163834319677;6.3494833495813;R;SP98;6;2026-08-31 10:52:02;;temporaire
 59550001;Boulevard des Résistants;LANDRECIES;50.124;3.689;R;E85;3;2017-08-31 09:02:25;;definitive
 59550001;Boulevard des Résistants;LANDRECIES;50.124;3.689;R;GPLc;4;2017-08-31 09:02:25;;definitive
@@ -47,9 +50,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 4170002;RN 202;SAINT-ANDRé-LES-ALPES;43.967;6.507;R;E85;3;2016-06-01 00:00:00;;
 4170002;RN 202;SAINT-ANDRé-LES-ALPES;43.967;6.507;R;GPLc;4;2025-08-07 16:24:09;;definitive
 4170002;RN 202;SAINT-ANDRé-LES-ALPES;43.967;6.507;R;E10;5;2025-08-07 16:24:09;;definitive
-83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;E85;3;2019-02-15 09:09:18;;definitive
-83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;GPLc;4;2019-02-15 09:09:18;;definitive
-83790001;Lieu dit le Fege- RN97;Pignans;43.302;6.236;R;SP98;6;2019-02-15 09:09:18;;definitive
 33210008;route de Bazas ZI dumes;LANGON;44.542;-0.242;R;E85;3;2020-03-10 08:58:26;;definitive
 33210008;route de Bazas ZI dumes;LANGON;44.542;-0.242;R;GPLc;4;2020-03-11 08:59:39;;definitive
 77141003;RN4 route de Pecy, lieu dit Lugins;Vaudoy-en-Brie;48.6840914;3.0871627000000004;R;GPLc;4;2018-03-22 17:38:07;;definitive
@@ -395,16 +395,15 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 56530001;Place Pierre Quinio;Quéven;47.79;-3.421;R;SP95;2;2017-08-29 10:32:53;;definitive
 56530001;Place Pierre Quinio;Quéven;47.79;-3.421;R;E85;3;2017-08-29 10:32:53;;definitive
 56530001;Place Pierre Quinio;Quéven;47.79;-3.421;R;GPLc;4;2017-08-29 10:32:54;;definitive
+13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;E85;3;2017-10-12 07:27:13;;definitive
+13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;GPLc;4;2017-10-12 07:27:13;;definitive
+13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;SP95;2;2025-02-18 04:26:03;;definitive
 69009003;69 AVENUE DU 25EME RTS;Lyon;45.781;4.801;R;SP95;2;2010-09-22 17:17:00;;
 17220002;LE PETIT BONNEVEAU;Salles-sur-Mer;46.084;-1.074;R;E85;3;2011-04-01 15:39:00;;
 17220002;LE PETIT BONNEVEAU;Salles-sur-Mer;46.084;-1.074;R;GPLc;4;2011-04-01 15:39:00;;
 17220002;LE PETIT BONNEVEAU;Salles-sur-Mer;46.084;-1.074;R;E85;3;2017-09-05 08:48:25;;definitive
 17220002;LE PETIT BONNEVEAU;Salles-sur-Mer;46.084;-1.074;R;GPLc;4;2017-09-05 08:48:25;;definitive
 17220002;LE PETIT BONNEVEAU;Salles-sur-Mer;46.084;-1.074;R;SP95;2;2024-12-10 09:45:31;;definitive
-13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;E85;3;2017-10-12 07:27:13;;definitive
-13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;GPLc;4;2017-10-12 07:27:13;;definitive
-13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;SP95;2;2025-02-18 04:26:03;;definitive
-13990002;70 cours Hyacinthe Bellon;Fontvieille;43.727;4.712;R;Gazole;1;2026-09-02 11:52:51;;temporaire
 57580002;route de Metz;RéMILLY;49.017;6.384;R;SP95;2;2017-09-01 08:42:42;;definitive
 57580002;route de Metz;RéMILLY;49.017;6.384;R;GPLc;4;2017-09-01 08:42:42;;definitive
 21240003;8 Rue Charles Dullin;Talant;47.341;4.997;R;E85;3;2016-06-01 00:00:00;;
@@ -11002,10 +11001,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 28630001;RUE DE CHAVANNE;Morancez;48.406;1.491;R;SP95;2;2012-08-24 09:47:00;;
 28630001;RUE DE CHAVANNE;Morancez;48.406;1.491;R;E85;3;2018-05-19 19:41:32;;definitive
 28630001;RUE DE CHAVANNE;Morancez;48.406;1.491;R;GPLc;4;2018-05-19 19:41:32;;definitive
+6300008;11 Boulevard Pierre Sémard;Nice;43.722;7.292;R;SP95;2;2012-05-07 16:20:00;;
 34200013;134 BD DE VERDUN;SETE;43.413;3.683;R;GPLc;4;2022-10-25 07:00:25;;definitive
 34200013;134 BD DE VERDUN;SETE;43.413;3.683;R;SP95;2;2022-10-25 11:28:00;;definitive
-34200013;134 BD DE VERDUN;SETE;43.413;3.683;R;SP98;6;2026-08-30 19:24:44;;temporaire
-6300008;11 Boulevard Pierre Sémard;Nice;43.722;7.292;R;SP95;2;2012-05-07 16:20:00;;
 20090011;BODICCIONE;Ajaccio;41.93484;8.74775;R;E85;3;2025-04-02 15:10:50;;definitive
 20090011;BODICCIONE;Ajaccio;41.93484;8.74775;R;GPLc;4;2025-04-02 15:10:50;;definitive
 20090011;BODICCIONE;Ajaccio;41.93484;8.74775;R;E10;5;2025-04-02 15:10:51;;definitive
@@ -21953,6 +21951,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 82200010;320 ROUTE DES PLATANES;MOISSAC;44.09100599999999;1.087072;R;SP95;2;2026-04-01 20:39:29;;definitive
 82200010;320 ROUTE DES PLATANES;MOISSAC;44.09100599999999;1.087072;R;E85;3;2026-04-01 20:39:29;;definitive
 82200010;320 ROUTE DES PLATANES;MOISSAC;44.09100599999999;1.087072;R;GPLc;4;2026-04-01 20:39:29;;definitive
+51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;GPLc;4;2017-08-31 10:21:24;;definitive
+51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;SP95;2;2021-10-22 08:27:17;;definitive
 35130001;30 route de NANTES;LA GUERCHE-DE-BRETAGNE;47.935;-1.232;R;SP95;2;2017-09-01 12:01:07;;definitive
 35130001;30 route de NANTES;LA GUERCHE-DE-BRETAGNE;47.935;-1.232;R;GPLc;4;2017-09-01 12:01:07;;definitive
 50410002;Rue Jean le Couturier;PERCY;48.914;-1.193;R;E85;3;2017-09-01 08:48:41;;definitive
@@ -21968,8 +21968,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 14540001;route de Caen;SOLIERS;49.1401163603;-0.300508505075;R;GPLc;4;2017-09-01 11:17:39;;definitive
 14540001;route de Caen;SOLIERS;49.1401163603;-0.300508505075;R;SP98;6;2017-09-01 11:17:39;;definitive
 14540001;route de Caen;SOLIERS;49.1401163603;-0.300508505075;R;E10;5;2026-03-31 13:56:20;;definitive
-51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;GPLc;4;2017-08-31 10:21:24;;definitive
-51000001;avenue du président Roosevelt;CHâLONS-EN-CHAMPAGNE;48.942;4.389;R;SP95;2;2021-10-22 08:27:17;;definitive
 44350004;Rue de Villejames;Guérande;47.32944;-2.41115;R;E85;3;2026-07-20 11:43:24;;definitive
 44350004;Rue de Villejames;Guérande;47.32944;-2.41115;R;SP95;2;2026-07-21 08:42:17;;temporaire
 77229001;CC E.Leclerc - RN19 « Les Chaumes »;Mormant;48.613;2.885;R;E85;3;2025-06-10 18:15:45;;definitive
