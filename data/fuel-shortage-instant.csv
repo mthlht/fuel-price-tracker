@@ -2560,11 +2560,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;SP95;2;2023-03-29 14:33:33;;definitive
 78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;GPLc;4;2024-06-26 20:46:44;;definitive
 78290003;46 RUE DES PONTS;Croissy-sur-Seine;48.875;2.14;R;SP98;6;2026-08-21 19:40:21;;temporaire
+20144003;LIEU DIT MOLENDINU;ste lucie de porto vecchio;41.7;9.348;R;E85;3;2020-07-17 11:17:04;;definitive
 51110006;46 rue Jean Jaurès;Bazancourt;49.362;4.176;R;GPLc;4;2023-10-28 07:51:53;;definitive
 51110006;46 rue Jean Jaurès;Bazancourt;49.362;4.176;R;E10;5;2023-10-28 07:51:53;;definitive
 18000002;CHAUSSE DE CHAPPE;BOURGES;47.093;2.428;R;E85;3;2017-08-30 09:04:19;;definitive
 18000002;CHAUSSE DE CHAPPE;BOURGES;47.093;2.428;R;GPLc;4;2017-08-30 09:04:19;;definitive
-20144003;LIEU DIT MOLENDINU;ste lucie de porto vecchio;41.7;9.348;R;E85;3;2020-07-17 11:17:04;;definitive
 63201001;Route de Volvic;ENVAL;45.888;3.069;R;GPLc;4;2017-08-30 09:16:13;;definitive
 63201001;Route de Volvic;ENVAL;45.888;3.069;R;E85;3;2019-09-24 11:05:35;;definitive
 61230007;40 route d'Alençon;Gacé;48.785057169822;0.29557538992625;R;SP95;2;2024-01-12 17:55:11;;definitive
@@ -6852,7 +6852,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;E85;3;2020-10-17 19:29:19;;definitive
 35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;GPLc;4;2020-10-17 19:29:19;;definitive
 35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;SP98;6;2026-08-18 19:59:31;;temporaire
-35300004;58 avenue de la verrerie;FOUGERES;48.363;-1.188;R;E10;5;2026-09-02 08:29:25;;temporaire
 68580001;9,rue de Bâle;SEPPOIS-LE-HAUT;47.534;7.182;R;SP95;2;2017-09-07 11:32:58;;definitive
 68580001;9,rue de Bâle;SEPPOIS-LE-HAUT;47.534;7.182;R;E85;3;2017-09-07 11:32:58;;definitive
 68580001;9,rue de Bâle;SEPPOIS-LE-HAUT;47.534;7.182;R;GPLc;4;2017-09-07 11:32:59;;definitive
@@ -7115,12 +7114,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 29200002;17 RUE CUIRASSE BRETAGNE;BREST;48.4075684317;-4.49567358546;R;E85;3;2023-01-05 11:06:47;;definitive
 29200002;17 RUE CUIRASSE BRETAGNE;BREST;48.4075684317;-4.49567358546;R;GPLc;4;2023-01-05 11:06:47;;definitive
 29200002;17 RUE CUIRASSE BRETAGNE;BREST;48.4075684317;-4.49567358546;R;E10;5;2023-01-05 11:06:47;;definitive
-59700008;1013 AVENUE DE LA REPUBLIQUE;Marcq-en-Barœul;50.66418;3.10016;R;SP95;2;2024-06-26 21:44:56;;definitive
-59700008;1013 AVENUE DE LA REPUBLIQUE;Marcq-en-Barœul;50.66418;3.10016;R;GPLc;4;2024-06-26 21:44:56;;definitive
-59700008;1013 AVENUE DE LA REPUBLIQUE;Marcq-en-Barœul;50.66418;3.10016;R;SP98;6;2026-09-02 23:09:20;;temporaire
 14310004;1 Boulevard du 21e siecle les Sauts casris;Villers-Bocage;49.078;-0.645;R;E85;3;2017-08-31 10:11:15;;definitive
 14310004;1 Boulevard du 21e siecle les Sauts casris;Villers-Bocage;49.078;-0.645;R;GPLc;4;2017-08-31 10:11:15;;definitive
 14310004;1 Boulevard du 21e siecle les Sauts casris;Villers-Bocage;49.078;-0.645;R;E10;5;2023-04-01 09:29:33;;definitive
+59700008;1013 AVENUE DE LA REPUBLIQUE;Marcq-en-Barœul;50.66418;3.10016;R;SP95;2;2024-06-26 21:44:56;;definitive
+59700008;1013 AVENUE DE LA REPUBLIQUE;Marcq-en-Barœul;50.66418;3.10016;R;GPLc;4;2024-06-26 21:44:56;;definitive
 34590001;10 rue Alphonse Daudet;MARSILLARGUES;43.662;4.178;R;E85;3;2020-02-24 11:34:55;;definitive
 34590001;10 rue Alphonse Daudet;MARSILLARGUES;43.662;4.178;R;GPLc;4;2020-02-24 11:34:55;;definitive
 34590001;10 rue Alphonse Daudet;MARSILLARGUES;43.662;4.178;R;SP95;2;2024-01-05 11:09:37;;temporaire
