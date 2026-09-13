@@ -8818,6 +8818,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 29680003;Lieu dit Kerguennec;ROSCOFF;48.713667233718;-3.9852169600001;R;GPLc;4;2026-06-19 12:43:29;;definitive
 57420002;1 Rue d'Alsace et de Lorraine;Solgne;48.97;6.296;R;GPLc;4;2017-09-22 09:23:46;;definitive
 57420002;1 Rue d'Alsace et de Lorraine;Solgne;48.97;6.296;R;SP95;2;2023-10-31 08:30:02;;definitive
+57420002;1 Rue d'Alsace et de Lorraine;Solgne;48.97;6.296;R;SP98;6;2026-09-12 23:40:59;;temporaire
+57420002;1 Rue d'Alsace et de Lorraine;Solgne;48.97;6.296;R;Gazole;1;2026-09-12 23:40:59;;temporaire
+57420002;1 Rue d'Alsace et de Lorraine;Solgne;48.97;6.296;R;E10;5;2026-09-12 23:40:59;;temporaire
 29400001;63 RUE DU GENERAL DE GAULLE;LANDIVISIAU;48.50972;-4.07554;R;GPLc;4;2017-08-29 12:26:55;;definitive
 29400001;63 RUE DU GENERAL DE GAULLE;LANDIVISIAU;48.50972;-4.07554;R;E10;5;2017-08-29 12:26:55;;definitive
 62920001;14 Rue Nationale;CHOCQUES;50.544;2.541;R;SP95;2;2017-08-31 19:00:14;;definitive
@@ -8914,6 +8917,11 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 14120001;22 Rue Émile Zola;Mondeville;49.17356;-0.32807;R;E85;3;2009-09-01 18:39:00;;
 14120001;22 Rue Émile Zola;Mondeville;49.17356;-0.32807;R;GPLc;4;2010-11-05 12:16:00;;
 14120001;22 Rue Émile Zola;Mondeville;49.17356;-0.32807;R;SP95;2;2018-09-07 14:57:41;;definitive
+21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;SP95;2;2017-11-02 06:56:58;;definitive
+21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;E85;3;2017-11-02 06:56:58;;definitive
+21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;GPLc;4;2017-11-02 06:56:58;;definitive
+21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;SP98;6;2026-09-11 19:43:28;;temporaire
+21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;Gazole;1;2026-09-13 00:13:06;;temporaire
 34130004;1030 Avenue Théo Luce;Mauguio;43.618;3.989;R;SP95;2;2017-11-10 11:06:44;;definitive
 34130004;1030 Avenue Théo Luce;Mauguio;43.618;3.989;R;E85;3;2017-11-10 11:06:44;;definitive
 34130004;1030 Avenue Théo Luce;Mauguio;43.618;3.989;R;SP98;6;2026-09-12 14:08:04;;temporaire
@@ -8942,10 +8950,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 56430001;RUE MADAME DE SEVIGNE;Mauron;48.07732;-2.29026;R;E10;5;2019-03-08 09:22:11;;definitive
 47430002;AIRE DE MAS D'AGENAIS A62;Le Mas-d'Agenais;44.40495;0.18765;A;SP95;2;2021-02-02 09:38:58;;definitive
 44650001;Avenue des Visitandines;LEGE;46.8886;-1.59155;R;SP95;2;2022-10-10 13:42:45;;definitive
-21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;SP95;2;2017-11-02 06:56:58;;definitive
-21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;E85;3;2017-11-02 06:56:58;;definitive
-21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;GPLc;4;2017-11-02 06:56:58;;definitive
-21400002;Avenue Édouard Herriot;Châtillon-sur-Seine;47.853;4.571;R;SP98;6;2026-09-11 19:43:28;;temporaire
 42160004;ZAC de Migalon;Andrézieux-Bouthéon;45.536;4.287;R;SP98;6;2017-08-30 17:05:52;;definitive
 46100006;5 Avenue du Général de Gaulle;Figeac;44.61;2.028;R;E85;3;2020-03-26 14:56:02;;definitive
 46100006;5 Avenue du Général de Gaulle;Figeac;44.61;2.028;R;GPLc;4;2020-03-26 14:56:02;;definitive
@@ -12898,6 +12902,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 62770001;RUE WATTINNE BOSSUT;AUCHY-LèS-HESDIN;50.401;2.101;R;E10;5;2022-02-04 18:09:19;;definitive
 31300008;6 AVENUE DU GOUPE MORHANGE;TOULOUSE;43.601;1.399;A;SP95;2;2022-10-05 16:38:33;;definitive
 31300008;6 AVENUE DU GOUPE MORHANGE;TOULOUSE;43.601;1.399;A;SP98;6;2026-09-12 18:46:43;;temporaire
+31300008;6 AVENUE DU GOUPE MORHANGE;TOULOUSE;43.601;1.399;A;E10;5;2026-09-12 23:20:09;;temporaire
 73000017;42 AVENUE D'ANNECY;Chambéry;45.59;5.92;R;SP95;2;2021-12-03 14:54:50;;definitive
 73000017;42 AVENUE D'ANNECY;Chambéry;45.59;5.92;R;GPLc;4;2021-12-03 14:54:50;;definitive
 73000017;42 AVENUE D'ANNECY;Chambéry;45.59;5.92;R;SP98;6;2021-12-03 14:54:51;;definitive
@@ -20596,9 +20601,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 63310002;Place des Charmes;RANDAN;46.017;3.349;R;GPLc;4;2017-09-26 17:33:03;;definitive
 63310002;Place des Charmes;RANDAN;46.017;3.349;R;SP95;2;2024-05-06 15:40:37;;definitive
 5190002;Les Graves;Remollon;44.467;6.179;R;SP95;2;2023-06-14 11:25:00;;definitive
-62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;E85;3;2022-07-07 08:44:55;;definitive
-62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;GPLc;4;2022-07-07 08:44:55;;definitive
-62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;SP95;2;2023-01-13 06:35:18;;definitive
 72400001;AVENUE PIERRE BRULE;LA FERTé-BERNARD;48.182;0.662;R;E85;3;2020-11-07 09:44:40;;definitive
 72400001;AVENUE PIERRE BRULE;LA FERTé-BERNARD;48.182;0.662;R;GPLc;4;2020-11-07 09:44:40;;definitive
 72400001;AVENUE PIERRE BRULE;LA FERTé-BERNARD;48.182;0.662;R;SP95;2;2024-06-10 09:06:54;;definitive
@@ -20621,6 +20623,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 7800003;ZI JEAN JAURES - 70, RUE LOUIS PASTEUR;LA VOULTE-SUR-RHôNE;44.807;4.792;R;GPLc;4;2017-08-31 17:54:45;;definitive
 7800003;ZI JEAN JAURES - 70, RUE LOUIS PASTEUR;LA VOULTE-SUR-RHôNE;44.807;4.792;R;E85;3;2024-05-03 08:44:16;;definitive
 7800003;ZI JEAN JAURES - 70, RUE LOUIS PASTEUR;LA VOULTE-SUR-RHôNE;44.807;4.792;R;SP95;2;2025-04-16 14:03:26;;definitive
+62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;E85;3;2022-07-07 08:44:55;;definitive
+62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;GPLc;4;2022-07-07 08:44:55;;definitive
+62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;SP95;2;2023-01-13 06:35:18;;definitive
+62610004;15 route départementale 943;Nielles-lès-Ardres;50.852;1.987;R;SP98;6;2026-09-13 03:07:46;;temporaire
 73490002;rue du pré Renaud;LA RAVOIRE;45.563;5.966;R;E85;3;2017-08-29 14:48:42;;definitive
 73490002;rue du pré Renaud;LA RAVOIRE;45.563;5.966;R;GPLc;4;2017-08-29 14:48:42;;definitive
 85110005;42 Avenue Monseigneur Batiot;CHANTONNAY;46.693;-1.054;R;SP95;2;2017-09-05 07:36:58;;definitive
