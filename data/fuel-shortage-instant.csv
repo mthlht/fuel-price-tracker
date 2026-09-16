@@ -9659,6 +9659,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 27400001;Le Becquet, Avenue des Peupliers;LOUVIERS;49.209;1.183;R;SP95;2;2017-09-01 08:17:28;;definitive
 27400001;Le Becquet, Avenue des Peupliers;LOUVIERS;49.209;1.183;R;GPLc;4;2017-09-01 08:17:29;;definitive
 79160002;A83 - AIRE DE LA PARTHENAISE;Faye-sur-Ardin;46.43;-0.502;A;SP95;2;2012-04-06 13:30:00;;
+91350002;17 ROUTE DE CORBEIL;GRIGNY;48.657;2.384;R;SP98;6;2026-09-16 23:00:14;;temporaire
 20160001;Cours Joseph Colonna;vico;42.167;8.799;R;E85;3;2018-01-05 19:32:37;;definitive
 20160001;Cours Joseph Colonna;vico;42.167;8.799;R;GPLc;4;2018-01-05 19:32:37;;definitive
 20160001;Cours Joseph Colonna;vico;42.167;8.799;R;E10;5;2018-01-05 19:32:37;;definitive
