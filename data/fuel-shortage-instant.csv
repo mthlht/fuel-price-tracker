@@ -8973,8 +8973,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 76950003;800 ROUTE DE DIEPPE;LES GRANDES VENTES;49.79;1.22;R;GPLc;4;2024-10-10 08:16:37;;definitive
 76950003;800 ROUTE DE DIEPPE;LES GRANDES VENTES;49.79;1.22;R;E10;5;2024-11-20 11:10:24;;definitive
 34440001;RN113-9 Lieu dit La Grillade;COLOMBIERS;43.312;3.141;R;SP95;2;2023-12-13 13:41:54;;definitive
-33700023;Rocade Périphérique exterieur aire du truc;MERIGNAC;44.849709502131;-0.66664775466915;A;E85;3;2022-10-31 08:37:13;;temporaire
-33700023;Rocade Périphérique exterieur aire du truc;MERIGNAC;44.849709502131;-0.66664775466915;A;SP95;2;2023-01-16 20:31:22;;temporaire
 60220006;2 RUE ALAVOINE;Formerie;49.652;1.728;R;GPLc;4;2022-10-14 08:06:44;;definitive
 60220006;2 RUE ALAVOINE;Formerie;49.652;1.728;R;E10;5;2022-10-14 08:06:44;;definitive
 60220006;2 RUE ALAVOINE;Formerie;49.652;1.728;R;SP95;2;2026-09-21 08:10:55;;temporaire
@@ -8988,6 +8986,9 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 20137009;Les 4 Chemins BP115;Porto-Vecchio;41.598;9.276;R;E85;3;2018-02-15 15:08:57;;definitive
 20137009;Les 4 Chemins BP115;Porto-Vecchio;41.598;9.276;R;E10;5;2018-02-15 15:08:58;;definitive
 20137009;Les 4 Chemins BP115;Porto-Vecchio;41.598;9.276;R;SP98;6;2018-02-15 15:08:58;;definitive
+33700023;Rocade Périphérique exterieur aire du truc;MERIGNAC;44.849709502131;-0.66664775466915;A;E85;3;2022-10-31 08:37:13;;temporaire
+33700023;Rocade Périphérique exterieur aire du truc;MERIGNAC;44.849709502131;-0.66664775466915;A;SP95;2;2023-01-16 20:31:22;;temporaire
+33700023;Rocade Périphérique exterieur aire du truc;MERIGNAC;44.849709502131;-0.66664775466915;A;SP98;6;2026-09-21 23:44:25;;temporaire
 3100002;52 Rue Paul Constans;MONTLUçON;46.343;2.592;R;GPLc;4;2022-10-26 19:22:24;;definitive
 3100002;52 Rue Paul Constans;MONTLUçON;46.343;2.592;R;SP95;2;2026-08-05 16:14:10;;definitive
 3100002;52 Rue Paul Constans;MONTLUçON;46.343;2.592;R;E10;5;2026-09-19 15:57:29;;temporaire
@@ -19817,9 +19818,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 46140004;LA SEOUNE EST;Sauzet;44.407817;1.257638;R;SP95;2;2024-08-07 11:36:31;;definitive
 46140004;LA SEOUNE EST;Sauzet;44.407817;1.257638;R;E85;3;2024-08-07 11:36:31;;definitive
 46140004;LA SEOUNE EST;Sauzet;44.407817;1.257638;R;GPLc;4;2024-08-07 11:36:31;;definitive
-91150013;94 BLD ST MICHEL;ETAMPES;48.452;2.173;R;SP95;2;2026-04-09 08:13:42;;definitive
-91150013;94 BLD ST MICHEL;ETAMPES;48.452;2.173;R;SP98;6;2026-09-20 10:23:37;;temporaire
-91150013;94 BLD ST MICHEL;ETAMPES;48.452;2.173;R;E10;5;2026-09-21 13:23:55;;temporaire
 54600004;110 Avenue Paul Muller;VILLERS-LèS-NANCY;48.657;6.112;R;GPLc;4;2017-10-20 09:00:53;;definitive
 54600004;110 Avenue Paul Muller;VILLERS-LèS-NANCY;48.657;6.112;R;SP95;2;2018-08-16 11:36:24;;definitive
 54600004;110 Avenue Paul Muller;VILLERS-LèS-NANCY;48.657;6.112;R;E10;5;2026-09-21 08:39:46;;temporaire
@@ -19848,6 +19846,7 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 69420001;RN 86 La Maladière;CONDRIEU;45.457;4.757;R;E85;3;2018-11-09 08:42:05;;definitive
 69420001;RN 86 La Maladière;CONDRIEU;45.457;4.757;R;GPLc;4;2018-11-09 08:42:05;;definitive
 69420001;RN 86 La Maladière;CONDRIEU;45.457;4.757;R;SP95;2;2026-06-18 10:05:38;;definitive
+91150013;94 BLD ST MICHEL;ETAMPES;48.452;2.173;R;SP95;2;2026-04-09 08:13:42;;definitive
 58000014;2 rue de vauzelles;Nevers;47.0;3.155;R;E10;5;2024-05-30 09:15:56;;definitive
 83170010;H.l.m. de la Route de Nice;BRIGNOLES;43.40551;6.0753;R;GPLc;4;2014-11-13 00:00:00;;
 83170010;H.l.m. de la Route de Nice;BRIGNOLES;43.40551;6.0753;R;SP95;2;2021-03-05 10:18:52;;definitive
