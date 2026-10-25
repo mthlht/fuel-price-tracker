@@ -60,6 +60,8 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;GPLc;4;2020-10-02 18:13:16;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;SP95;2;2026-09-11 05:26:57;;definitive
 60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;SP98;6;2026-10-22 18:43:11;;temporaire
+60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;Gazole;1;2026-10-25 00:47:25;;temporaire
+60350003;ROUTE DE SOISSONS- RN 31;Cuise-la-Motte;49.404;3.008;R;E10;5;2026-10-25 00:47:25;;temporaire
 89330001;Route de Villeneuve;Saint-Julien-du-Sault;48.036;3.305;R;SP95;2;2018-10-10 11:50:43;;definitive
 89330001;Route de Villeneuve;Saint-Julien-du-Sault;48.036;3.305;R;E85;3;2020-06-23 12:01:24;;definitive
 89330001;Route de Villeneuve;Saint-Julien-du-Sault;48.036;3.305;R;GPLc;4;2020-06-23 12:01:24;;definitive
@@ -7678,6 +7680,10 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 22270001;21 ter, rue de Penthièvre;Jugon-les-Lacs;48.409;-2.324;R;E10;5;2019-07-06 13:03:48;;definitive
 22270001;21 ter, rue de Penthièvre;Jugon-les-Lacs;48.409;-2.324;R;E85;3;2019-07-06 13:03:47;;definitive
 22270001;21 ter, rue de Penthièvre;Jugon-les-Lacs;48.409;-2.324;R;GPLc;4;2019-07-06 13:03:48;;definitive
+44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;E85;3;2022-04-11 06:22:55;;definitive
+44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;SP95;2;2022-04-25 15:00:34;;definitive
+44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;SP98;6;2026-10-23 06:40:14;;temporaire
+44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;E10;5;2026-10-25 02:02:02;;temporaire
 95870010;179 avenue Gabriel Péri;Bezons;48.936888607759;2.2069830018219;R;SP98;6;2026-10-17 13:24:40;;temporaire
 95870010;179 avenue Gabriel Péri;Bezons;48.936888607759;2.2069830018219;R;GPLc;4;2022-12-13 14:29:26;;definitive
 95870010;179 avenue Gabriel Péri;Bezons;48.936888607759;2.2069830018219;R;SP95;2;2024-07-17 20:03:33;;definitive
@@ -7692,9 +7698,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 20090007;Route Campo Dell'Oro Col d'Aspretto;Ajaccio;41.929;8.762;R;SP98;6;2022-11-03 09:14:00;;definitive
 17600003;ZA Les Touzelleries;Saujon;45.666763810757;-0.94629032870432;R;GPLc;4;2017-09-12 14:08:08;;definitive
 17600003;ZA Les Touzelleries;Saujon;45.666763810757;-0.94629032870432;R;SP95;2;2023-02-23 15:34:59;;definitive
-44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;E85;3;2022-04-11 06:22:55;;definitive
-44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;SP95;2;2022-04-25 15:00:34;;definitive
-44800008;BD CHARLES DE GAULLE - CD 17;Saint-Herblain;47.211;-1.619;R;SP98;6;2026-10-23 06:40:14;;temporaire
 21000017;1 Avenue du Mont Blanc;Dijon;47.2985;5.07871;R;SP98;6;2020-09-07 16:40:16;;definitive
 21000017;1 Avenue du Mont Blanc;Dijon;47.2985;5.07871;R;E10;5;2021-07-09 10:44:43;;definitive
 21000017;1 Avenue du Mont Blanc;Dijon;47.2985;5.07871;R;GPLc;4;2021-07-09 10:44:43;;definitive
@@ -23873,11 +23876,6 @@ id_pdv;adresse;ville;latitude;longitude;pop;nom_carbu;id_carbu;debut;fin;type
 79360001;1 impasse des Acacias;BEAUVOIR-SUR-NIORT;46.184;-0.472;R;SP98;6;2013-07-31 14:54:00;;
 79360001;1 impasse des Acacias;BEAUVOIR-SUR-NIORT;46.184;-0.472;R;GPLc;4;2017-08-30 17:41:30;;definitive
 79360001;1 impasse des Acacias;BEAUVOIR-SUR-NIORT;46.184;-0.472;R;SP98;6;2017-08-30 17:41:31;;definitive
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;GPLc;4;2024-05-16 11:11:49;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;SP95;2;2024-05-03 16:48:27;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;Gazole;1;2024-09-30 15:39:27;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;SP98;6;2026-10-23 23:30:04;;temporaire
-75014010;RUE LEGION ETRANGERE;Paris;48.829;2.326;R;E10;5;2026-10-24 08:51:07;;temporaire
 24460003;94 Avenue de la Beauronne;Agonac;45.2927692;0.7516924;R;E10;5;2022-02-25 14:28:44;;definitive
 24460003;94 Avenue de la Beauronne;Agonac;45.2927692;0.7516924;R;SP98;6;2022-02-25 14:28:44;;definitive
 24460003;94 Avenue de la Beauronne;Agonac;45.2927692;0.7516924;R;E85;3;2026-08-18 08:36:56;;definitive
